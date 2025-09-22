@@ -1,0 +1,42 @@
+4873:2025-03-02T08:47:25.860344+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+4885:2025-03-02T08:47:25.868638+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+4888:2025-03-02T08:47:25.871612+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+4897:2025-03-02T08:47:25.873473+00:00 server-2 systemd[1]: sssd-pam.socket: Failed with result 'exit-code'.
+4901:2025-03-02T08:47:25.874385+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+4969:2025-03-02T08:49:25.816834+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+4970:2025-03-02T08:49:25.816978+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+16706:2025-03-03T09:07:21.738587+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+16714:2025-03-03T09:07:21.740741+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+16717:2025-03-03T09:07:21.742534+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+16729:2025-03-03T09:07:21.755587+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+16794:2025-03-03T09:09:21.855094+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+16795:2025-03-03T09:09:21.855235+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+32215:2025-03-04T09:17:55.610630+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+32311:2025-03-04T09:17:55.613917+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+32411:2025-03-04T09:17:55.616930+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+32736:2025-03-04T09:17:55.625635+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+33027:2025-03-04T09:19:55.825067+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+33028:2025-03-04T09:19:55.825198+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+44660:2025-03-05T09:04:58.041459+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+44667:2025-03-05T09:04:58.043471+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+44670:2025-03-05T09:04:58.045260+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+44682:2025-03-05T09:04:58.056709+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+44763:2025-03-05T09:06:57.764773+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+44764:2025-03-05T09:06:57.764929+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+45463:2025-03-05T09:56:25.313851+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+45475:2025-03-05T09:56:25.318677+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+45478:2025-03-05T09:56:25.318952+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+45480:2025-03-05T09:56:25.321198+00:00 server-2 systemd[1]: sssd-pam.socket: Failed with result 'signal'.
+45489:2025-03-05T09:56:25.327482+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+75776:2025-03-07T09:14:31.816869+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+75779:2025-03-07T09:14:31.818439+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+75782:2025-03-07T09:14:31.820243+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+75797:2025-03-07T09:14:31.831688+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+75867:2025-03-07T09:16:31.943607+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+75868:2025-03-07T09:16:31.943745+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+84731:2025-03-07T19:32:32.751482+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+84738:2025-03-07T19:32:32.754693+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+84741:2025-03-07T19:32:32.756713+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+84752:2025-03-07T19:32:32.766692+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+84835:2025-03-07T19:34:32.693105+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+84836:2025-03-07T19:34:32.693244+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.

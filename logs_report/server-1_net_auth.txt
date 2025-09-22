@@ -1,0 +1,971 @@
+---- NETWORK/AUTH вирізки ----
+[NET]
+1:2024-11-03T00:00:09.611136+00:00 server-1 systemd[1]: rsyslog.service: Sent signal SIGHUP to main process 1826 (rsyslogd) on client request.
+28:2024-11-03T00:53:56.557744+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+29:2024-11-03T00:53:56.628929+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+30:2024-11-03T00:53:56.629090+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+55:2024-11-03T01:48:57.743688+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+56:2024-11-03T01:48:57.768414+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+57:2024-11-03T01:48:57.768540+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+74:2024-11-03T02:20:58.454720+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+75:2024-11-03T02:20:58.479709+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+76:2024-11-03T02:20:58.479835+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+115:2024-11-03T03:42:00.338741+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+116:2024-11-03T03:42:00.363791+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+117:2024-11-03T03:42:00.363940+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+131:2024-11-03T04:16:01.170723+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+132:2024-11-03T04:16:01.195602+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+133:2024-11-03T04:16:01.195747+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+149:2024-11-03T04:37:23.025693+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+150:2024-11-03T04:37:53.053422+00:00 server-1 systemd-networkd-wait-online[80554]: Timeout occurred while waiting for network connectivity.
+151:2024-11-03T04:37:53.064686+00:00 server-1 apt-helper[80552]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+152:2024-11-03T04:37:53.323696+00:00 server-1 systemd[1]: Starting apt-news.service - Update APT News...
+153:2024-11-03T04:37:53.325501+00:00 server-1 systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+155:2024-11-03T04:37:53.397807+00:00 server-1 systemd[1]: Finished apt-news.service - Update APT News.
+157:2024-11-03T04:37:53.762471+00:00 server-1 systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+166:2024-11-03T04:38:00.857860+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+198:2024-11-03T05:44:23.029770+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+199:2024-11-03T05:44:23.101221+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+200:2024-11-03T05:44:23.101362+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+232:2024-11-03T06:53:04.975688+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+233:2024-11-03T06:53:05.000431+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+234:2024-11-03T06:53:05.000561+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+236:2024-11-03T06:57:23.025643+00:00 server-1 systemd[1]: Starting apt-daily-upgrade.service - Daily apt upgrade and clean activities...
+237:2024-11-03T06:57:53.053475+00:00 server-1 systemd-networkd-wait-online[83315]: Timeout occurred while waiting for network connectivity.
+238:2024-11-03T06:57:53.064464+00:00 server-1 apt-helper[83313]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+241:2024-11-03T06:57:54.834575+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+242:2024-11-03T06:57:54.834680+00:00 server-1 systemd[1]: Finished apt-daily-upgrade.service - Daily apt upgrade and clean activities.
+243:2024-11-03T06:57:54.834858+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Consumed 1.788s CPU time.
+257:2024-11-03T07:29:59.566671+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+258:2024-11-03T07:29:59.588233+00:00 server-1 fwupdmgr[83924]: Updating lvfs
+259:2024-11-03T07:29:59.654098+00:00 server-1 fwupdmgr[83924]: Successfully downloaded new metadata: 1 local device supported
+260:2024-11-03T07:29:59.657153+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+261:2024-11-03T07:29:59.657306+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+286:2024-11-03T08:22:07.103686+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+287:2024-11-03T08:22:07.126768+00:00 server-1 fwupdmgr[84754]: Updating lvfs
+288:2024-11-03T08:22:07.221704+00:00 server-1 fwupdmgr[84754]: Successfully downloaded new metadata: 1 local device supported
+289:2024-11-03T08:22:07.224751+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+290:2024-11-03T08:22:07.224905+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+328:2024-11-03T09:48:23.029724+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+329:2024-11-03T09:48:23.097654+00:00 server-1 fwupdmgr[86122]: Updating lvfs
+330:2024-11-03T09:48:23.184930+00:00 server-1 fwupdmgr[86122]: Successfully downloaded new metadata: 1 local device supported
+331:2024-11-03T09:48:23.188012+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+332:2024-11-03T09:48:23.188159+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+361:2024-11-03T10:53:09.566711+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+362:2024-11-03T10:53:09.589374+00:00 server-1 fwupdmgr[87134]: Updating lvfs
+363:2024-11-03T10:53:09.655521+00:00 server-1 fwupdmgr[87134]: Successfully downloaded new metadata: 1 local device supported
+364:2024-11-03T10:53:09.658618+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+365:2024-11-03T10:53:09.658757+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+371:2024-11-03T11:10:09.566724+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+375:2024-11-03T11:10:09.590055+00:00 server-1 fwupdmgr[87408]: Updating lvfs
+376:2024-11-03T11:10:09.679149+00:00 server-1 fwupdmgr[87408]: Successfully downloaded new metadata: 1 local device supported
+377:2024-11-03T11:10:09.682151+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+378:2024-11-03T11:10:09.682303+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+389:2024-11-03T11:38:09.571745+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+390:2024-11-03T11:38:39.803135+00:00 server-1 systemd-networkd-wait-online[87860]: Timeout occurred while waiting for network connectivity.
+391:2024-11-03T11:38:39.811410+00:00 server-1 apt-helper[87858]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+393:2024-11-03T11:38:40.121025+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+422:2024-11-03T12:44:23.026765+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+423:2024-11-03T12:44:23.049433+00:00 server-1 fwupdmgr[88982]: Updating lvfs
+424:2024-11-03T12:44:23.146792+00:00 server-1 fwupdmgr[88982]: Successfully downloaded new metadata: 1 local device supported
+425:2024-11-03T12:44:23.149960+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+426:2024-11-03T12:44:23.150109+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+459:2024-11-03T13:46:09.566709+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+460:2024-11-03T13:46:09.589459+00:00 server-1 fwupdmgr[89975]: Updating lvfs
+461:2024-11-03T13:46:09.655559+00:00 server-1 fwupdmgr[89975]: Successfully downloaded new metadata: 1 local device supported
+462:2024-11-03T13:46:09.658701+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+463:2024-11-03T13:46:09.658841+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+471:2024-11-03T14:04:09.567745+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+472:2024-11-03T14:04:09.622251+00:00 server-1 systemd[1]: update-notifier-download.service: Deactivated successfully.
+473:2024-11-03T14:04:09.622381+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+478:2024-11-03T14:14:09.562706+00:00 server-1 systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+480:2024-11-03T14:14:09.573218+00:00 server-1 systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+491:2024-11-03T14:38:09.562746+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+492:2024-11-03T14:38:09.630560+00:00 server-1 fwupdmgr[90808]: Updating lvfs
+493:2024-11-03T14:38:09.694918+00:00 server-1 fwupdmgr[90808]: Successfully downloaded new metadata: 1 local device supported
+494:2024-11-03T14:38:09.697908+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+495:2024-11-03T14:38:09.698058+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+508:2024-11-03T15:10:09.562689+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+512:2024-11-03T15:10:09.586076+00:00 server-1 fwupdmgr[91309]: Updating lvfs
+513:2024-11-03T15:10:09.656288+00:00 server-1 fwupdmgr[91309]: Successfully downloaded new metadata: 1 local device supported
+514:2024-11-03T15:10:09.659295+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+515:2024-11-03T15:10:09.659446+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+550:2024-11-03T16:31:09.566720+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+551:2024-11-03T16:31:09.589203+00:00 server-1 fwupdmgr[92583]: Updating lvfs
+552:2024-11-03T16:31:09.657818+00:00 server-1 fwupdmgr[92583]: Successfully downloaded new metadata: 1 local device supported
+553:2024-11-03T16:31:09.660895+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+554:2024-11-03T16:31:09.661037+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+573:2024-11-03T17:17:09.562736+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+574:2024-11-03T17:17:09.585153+00:00 server-1 fwupdmgr[93313]: Updating lvfs
+575:2024-11-03T17:17:09.655116+00:00 server-1 fwupdmgr[93313]: Successfully downloaded new metadata: 1 local device supported
+576:2024-11-03T17:17:09.658175+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+577:2024-11-03T17:17:09.658321+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+597:2024-11-03T18:03:09.562684+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+598:2024-11-03T18:03:09.585319+00:00 server-1 fwupdmgr[94037]: Updating lvfs
+599:2024-11-03T18:03:09.653667+00:00 server-1 fwupdmgr[94037]: Successfully downloaded new metadata: 1 local device supported
+600:2024-11-03T18:03:09.656757+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+601:2024-11-03T18:03:09.656899+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+630:2024-11-03T19:09:09.566726+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+631:2024-11-03T19:09:09.634513+00:00 server-1 fwupdmgr[95074]: Updating lvfs
+632:2024-11-03T19:09:09.699946+00:00 server-1 fwupdmgr[95074]: Successfully downloaded new metadata: 1 local device supported
+633:2024-11-03T19:09:09.703026+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+634:2024-11-03T19:09:09.703166+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+660:2024-11-03T20:09:09.566722+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+661:2024-11-03T20:09:09.589475+00:00 server-1 fwupdmgr[96017]: Updating lvfs
+662:2024-11-03T20:09:09.659942+00:00 server-1 fwupdmgr[96017]: Successfully downloaded new metadata: 1 local device supported
+663:2024-11-03T20:09:09.662953+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+664:2024-11-03T20:09:09.663103+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+713:2024-11-03T21:57:09.562707+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+714:2024-11-03T21:57:09.585163+00:00 server-1 fwupdmgr[97704]: Updating lvfs
+715:2024-11-03T21:57:09.650754+00:00 server-1 fwupdmgr[97704]: Successfully downloaded new metadata: 1 local device supported
+716:2024-11-03T21:57:09.653838+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+717:2024-11-03T21:57:09.653988+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+725:2024-11-03T22:11:09.563738+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+726:2024-11-03T22:11:09.586214+00:00 server-1 fwupdmgr[97934]: Updating lvfs
+727:2024-11-03T22:11:09.689313+00:00 server-1 fwupdmgr[97934]: Successfully downloaded new metadata: 1 local device supported
+728:2024-11-03T22:11:09.692362+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+729:2024-11-03T22:11:09.692507+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+753:2024-11-03T23:02:09.560726+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+754:2024-11-03T23:02:09.583490+00:00 server-1 fwupdmgr[98738]: Updating lvfs
+755:2024-11-03T23:02:09.647843+00:00 server-1 fwupdmgr[98738]: Successfully downloaded new metadata: 1 local device supported
+756:2024-11-03T23:02:09.650915+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+757:2024-11-03T23:02:09.651066+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+759:2024-11-03T23:06:09.566681+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+760:2024-11-03T23:06:39.803448+00:00 server-1 systemd-networkd-wait-online[98812]: Timeout occurred while waiting for network connectivity.
+761:2024-11-03T23:06:39.814897+00:00 server-1 apt-helper[98810]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+763:2024-11-03T23:06:40.123261+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+790:2024-11-04T00:00:09.562729+00:00 server-1 systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+793:2024-11-04T00:00:09.570413+00:00 server-1 systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+794:2024-11-04T00:00:09.570544+00:00 server-1 systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+803:2024-11-04T00:09:09.567714+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+804:2024-11-04T00:09:09.635614+00:00 server-1 fwupdmgr[99906]: Updating lvfs
+805:2024-11-04T00:09:09.701092+00:00 server-1 fwupdmgr[99906]: Successfully downloaded new metadata: 1 local device supported
+806:2024-11-04T00:09:09.704203+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+807:2024-11-04T00:09:09.704364+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+849:2024-11-04T01:24:09.562695+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+850:2024-11-04T01:24:09.585414+00:00 server-1 fwupdmgr[101102]: Updating lvfs
+851:2024-11-04T01:24:09.679611+00:00 server-1 fwupdmgr[101102]: Successfully downloaded new metadata: 1 local device supported
+852:2024-11-04T01:24:09.682593+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+853:2024-11-04T01:24:09.682736+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+874:2024-11-04T02:13:09.562696+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+875:2024-11-04T02:13:09.585448+00:00 server-1 fwupdmgr[101868]: Updating lvfs
+876:2024-11-04T02:13:09.649472+00:00 server-1 fwupdmgr[101868]: Successfully downloaded new metadata: 1 local device supported
+877:2024-11-04T02:13:09.652532+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+878:2024-11-04T02:13:09.652681+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+922:2024-11-04T03:50:33.048775+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+923:2024-11-04T03:50:33.071555+00:00 server-1 fwupdmgr[103394]: Updating lvfs
+924:2024-11-04T03:50:33.803785+00:00 server-1 fwupdmgr[103394]: Successfully downloaded new metadata: 1 local device supported
+925:2024-11-04T03:50:33.807141+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+926:2024-11-04T03:50:33.807290+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+944:2024-11-04T04:33:09.562723+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+945:2024-11-04T04:33:09.642042+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+946:2024-11-04T04:33:09.642189+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+981:2024-11-04T05:59:23.025753+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+982:2024-11-04T05:59:23.050291+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+983:2024-11-04T05:59:23.050426+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+988:2024-11-04T06:08:36.219782+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+989:2024-11-04T06:08:36.244464+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+990:2024-11-04T06:08:36.244590+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1013:2024-11-04T06:58:09.566679+00:00 server-1 systemd[1]: Starting apt-daily-upgrade.service - Daily apt upgrade and clean activities...
+1014:2024-11-04T06:58:39.803505+00:00 server-1 systemd-networkd-wait-online[106350]: Timeout occurred while waiting for network connectivity.
+1015:2024-11-04T06:58:39.814951+00:00 server-1 apt-helper[106348]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1018:2024-11-04T06:58:41.589172+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+1019:2024-11-04T06:58:41.589270+00:00 server-1 systemd[1]: Finished apt-daily-upgrade.service - Daily apt upgrade and clean activities.
+1020:2024-11-04T06:58:41.589473+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Consumed 1.792s CPU time.
+1030:2024-11-04T07:20:09.562743+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1034:2024-11-04T07:20:09.587708+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1035:2024-11-04T07:20:09.587833+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1061:2024-11-04T08:21:39.246765+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1062:2024-11-04T08:21:39.271652+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1063:2024-11-04T08:21:39.271782+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1085:2024-11-04T09:15:23.025669+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1086:2024-11-04T09:15:23.095063+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1087:2024-11-04T09:15:23.095204+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1127:2024-11-04T10:34:42.306703+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1128:2024-11-04T10:34:42.331509+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1129:2024-11-04T10:34:42.331645+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1155:2024-11-04T11:30:43.582748+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1156:2024-11-04T11:30:43.607081+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1157:2024-11-04T11:30:43.607206+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1191:2024-11-04T12:51:09.562628+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+1192:2024-11-04T12:51:11.816694+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1193:2024-11-04T12:51:11.841186+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1194:2024-11-04T12:51:11.841315+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1195:2024-11-04T12:51:39.803559+00:00 server-1 systemd-networkd-wait-online[111990]: Timeout occurred while waiting for network connectivity.
+1196:2024-11-04T12:51:39.815429+00:00 server-1 apt-helper[111988]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1197:2024-11-04T12:51:40.072724+00:00 server-1 systemd[1]: Starting apt-news.service - Update APT News...
+1198:2024-11-04T12:51:40.074652+00:00 server-1 systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+1200:2024-11-04T12:51:40.402579+00:00 server-1 systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+1206:2024-11-04T12:51:40.864901+00:00 server-1 python3[112044]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+1209:2024-11-04T12:51:40.880111+00:00 server-1 systemd[1]: Finished apt-news.service - Update APT News.
+1213:2024-11-04T12:51:46.079896+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+1222:2024-11-04T13:06:09.571718+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1223:2024-11-04T13:06:09.595895+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1224:2024-11-04T13:06:09.596032+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1249:2024-11-04T14:04:47.087691+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+1250:2024-11-04T14:04:47.141742+00:00 server-1 systemd[1]: update-notifier-download.service: Deactivated successfully.
+1251:2024-11-04T14:04:47.141857+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+1256:2024-11-04T14:14:47.325751+00:00 server-1 systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+1258:2024-11-04T14:14:47.336668+00:00 server-1 systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+1276:2024-11-04T14:53:48.192822+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1277:2024-11-04T14:53:48.263940+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1278:2024-11-04T14:53:48.264079+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1300:2024-11-04T15:43:49.317745+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1301:2024-11-04T15:43:49.342352+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1302:2024-11-04T15:43:49.342479+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1333:2024-11-04T16:56:50.965771+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1334:2024-11-04T16:56:50.990805+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1335:2024-11-04T16:56:50.990934+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1340:2024-11-04T17:08:23.026689+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1341:2024-11-04T17:08:23.050727+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1342:2024-11-04T17:08:23.050872+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1383:2024-11-04T18:28:53.073685+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1384:2024-11-04T18:28:53.097677+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1385:2024-11-04T18:28:53.097804+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1402:2024-11-04T19:07:09.566740+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1403:2024-11-04T19:07:09.637418+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1404:2024-11-04T19:07:09.637550+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1430:2024-11-04T20:08:23.029746+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1431:2024-11-04T20:08:23.053687+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1432:2024-11-04T20:08:23.053818+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1467:2024-11-04T21:25:57.006747+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1468:2024-11-04T21:25:57.031305+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1469:2024-11-04T21:25:57.031440+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1506:2024-11-04T22:51:58.945734+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1507:2024-11-04T22:51:58.969772+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1508:2024-11-04T22:51:58.969897+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1530:2024-11-04T23:43:00.064730+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1531:2024-11-04T23:43:00.137947+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1532:2024-11-04T23:43:00.138082+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1538:2024-11-04T23:56:00.381684+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+1539:2024-11-04T23:56:30.553520+00:00 server-1 systemd-networkd-wait-online[122975]: Timeout occurred while waiting for network connectivity.
+1540:2024-11-04T23:56:30.565068+00:00 server-1 apt-helper[122972]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1542:2024-11-04T23:56:30.870290+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+1544:2024-11-05T00:00:00.475779+00:00 server-1 systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+1547:2024-11-05T00:00:00.482664+00:00 server-1 systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+1548:2024-11-05T00:00:00.482792+00:00 server-1 systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
+1573:2024-11-05T00:44:01.526767+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1574:2024-11-05T00:44:01.551251+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1575:2024-11-05T00:44:01.551383+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1593:2024-11-05T01:23:02.471780+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1594:2024-11-05T01:23:02.496699+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1595:2024-11-05T01:23:02.496824+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1629:2024-11-05T02:36:04.193800+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1630:2024-11-05T02:36:04.218317+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1631:2024-11-05T02:36:04.218449+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1662:2024-11-05T03:50:05.973753+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1666:2024-11-05T03:50:06.045168+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1667:2024-11-05T03:50:06.045309+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1685:2024-11-05T04:32:23.029774+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1686:2024-11-05T04:32:23.051975+00:00 server-1 fwupdmgr[127397]: Updating lvfs
+1687:2024-11-05T04:32:23.782224+00:00 server-1 fwupdmgr[127397]: Successfully downloaded new metadata: 1 local device supported
+1688:2024-11-05T04:32:23.785650+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1689:2024-11-05T04:32:23.785804+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1703:2024-11-05T05:10:07.926808+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1707:2024-11-05T05:10:07.961863+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1708:2024-11-05T05:10:07.961985+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1731:2024-11-05T06:09:09.358692+00:00 server-1 systemd[1]: Starting apt-daily-upgrade.service - Daily apt upgrade and clean activities...
+1732:2024-11-05T06:09:39.553495+00:00 server-1 systemd-networkd-wait-online[128913]: Timeout occurred while waiting for network connectivity.
+1733:2024-11-05T06:09:39.564887+00:00 server-1 apt-helper[128910]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1736:2024-11-05T06:09:41.344450+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+1737:2024-11-05T06:09:41.344550+00:00 server-1 systemd[1]: Finished apt-daily-upgrade.service - Daily apt upgrade and clean activities.
+1738:2024-11-05T06:09:41.344755+00:00 server-1 systemd[1]: apt-daily-upgrade.service: Consumed 1.798s CPU time.
+1742:2024-11-05T06:13:09.470827+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1743:2024-11-05T06:13:09.495928+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1744:2024-11-05T06:13:09.496053+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1778:2024-11-05T07:15:01.609604+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1779:2024-11-05T07:15:01.634516+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1780:2024-11-05T07:15:01.634656+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1814:2024-11-05T08:34:23.025667+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1815:2024-11-05T08:34:23.095946+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1816:2024-11-05T08:34:23.096084+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1830:2024-11-05T09:06:09.562737+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1831:2024-11-05T09:06:09.587487+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1832:2024-11-05T09:06:09.587579+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1875:2024-11-05T10:46:09.563652+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1876:2024-11-05T10:46:09.587664+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1877:2024-11-05T10:46:09.587802+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1899:2024-11-05T11:35:09.566705+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1900:2024-11-05T11:35:09.591155+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1901:2024-11-05T11:35:09.591293+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1931:2024-11-05T12:47:18.482698+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1932:2024-11-05T12:47:18.556788+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1933:2024-11-05T12:47:18.556933+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1959:2024-11-05T13:46:09.567714+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1960:2024-11-05T13:46:09.591959+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1961:2024-11-05T13:46:09.592100+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+1970:2024-11-05T14:05:09.566656+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+1971:2024-11-05T14:05:09.620710+00:00 server-1 systemd[1]: update-notifier-download.service: Deactivated successfully.
+1972:2024-11-05T14:05:09.620838+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+1977:2024-11-05T14:15:01.074618+00:00 server-1 systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+1979:2024-11-05T14:15:01.085091+00:00 server-1 systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+1996:2024-11-05T14:54:21.370738+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+1997:2024-11-05T14:54:21.395852+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+1998:2024-11-05T14:54:21.395986+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2012:2024-11-05T15:20:21.963765+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2013:2024-11-05T15:20:21.988559+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2014:2024-11-05T15:20:21.988677+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2036:2024-11-05T16:15:23.025696+00:00 server-1 systemd[1]: Starting apt-daily.service - Daily apt download activities...
+2037:2024-11-05T16:15:53.053526+00:00 server-1 systemd-networkd-wait-online[138491]: Timeout occurred while waiting for network connectivity.
+2038:2024-11-05T16:15:53.064691+00:00 server-1 apt-helper[138489]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+2039:2024-11-05T16:15:53.320722+00:00 server-1 systemd[1]: Starting apt-news.service - Update APT News...
+2040:2024-11-05T16:15:53.322539+00:00 server-1 systemd[1]: Starting esm-cache.service - Update the local ESM caches...
+2041:2024-11-05T16:15:53.532650+00:00 server-1 python3[138545]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+2044:2024-11-05T16:15:53.548605+00:00 server-1 systemd[1]: Finished apt-news.service - Update APT News.
+2046:2024-11-05T16:15:53.713204+00:00 server-1 systemd[1]: Finished esm-cache.service - Update the local ESM caches.
+2054:2024-11-05T16:16:01.553274+00:00 server-1 apt.systemd.daily[139004]: /usr/bin/unattended-upgrade:2192: Warning: W:Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (main/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (main/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (main/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (main/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (universe/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (universe/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (universe/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (universe/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (universe/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (universe/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (universe/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (restricted/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (restricted/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (restricted/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (restricted/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (restricted/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (restricted/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (restricted/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (multiverse/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (multiverse/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (multiverse/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (multiverse/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (multiverse/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (multiverse/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (multiverse/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:1 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (main/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (main/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (main/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (main/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (main/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (main/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (main/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (universe/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (universe/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (universe/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (universe/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (universe/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (universe/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (universe/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (restricted/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (restricted/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (restricted/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (restricted/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (restricted/dep11/Components-all.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (restricted/cnf/Commands-amd64) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target CNF (restricted/cnf/Commands-all) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (multiverse/binary-amd64/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Packages (multiverse/binary-all/Packages) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target Translations (multiverse/i18n/Translation-en) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1, W:Target DEP-11 (multiverse/dep11/Components-amd64.yml) is configured multiple times in /etc/apt/sources.list:3 and /etc/apt/sources.list.d/ubuntu.sources:1
+2057:2024-11-05T16:16:02.313389+00:00 server-1 systemd[1]: Finished apt-daily.service - Daily apt download activities.
+2065:2024-11-05T16:22:23.025775+00:00 server-1 systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2066:2024-11-05T16:22:23.050322+00:00 server-1 systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2067:2024-11-05T16:22:23.050465+00:00 server-1 systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2086:2024-11-05T16:54:18.928253+00:00 server-1 systemd[139669]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+2090:2024-11-05T16:54:18.929005+00:00 server-1 systemd[139669]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+2091:2024-11-05T16:54:18.929063+00:00 server-1 systemd[139669]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2092:2024-11-05T16:54:18.929121+00:00 server-1 systemd[139669]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+2093:2024-11-05T16:54:18.929762+00:00 server-1 systemd[139669]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+2094:2024-11-05T16:54:18.929827+00:00 server-1 systemd[139669]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+2095:2024-11-05T16:54:18.929884+00:00 server-1 systemd[139669]: Listening on keyboxd.socket - GnuPG public key management service.
+2099:2024-11-05T16:54:18.942965+00:00 server-1 systemd[139669]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+2103:2024-11-05T16:54:18.943063+00:00 server-1 systemd[139669]: Startup finished in 104ms.
+2112:2024-11-05T16:54:35.291153+00:00 server-1 systemd[1]: unattended-upgrades.service: Deactivated successfully.
+2119:2024-11-05T16:54:35.298743+00:00 server-1 systemd[1]: Stopped target nss-lookup.target - Host and Network Name Lookups.
+2123:2024-11-05T16:54:35.298912+00:00 server-1 systemd[1]: apt-daily-upgrade.timer: Deactivated successfully.
+2124:2024-11-05T16:54:35.298953+00:00 server-1 systemd[1]: Stopped apt-daily-upgrade.timer - Daily apt upgrade and clean activities.
+2126:2024-11-05T16:54:35.299014+00:00 server-1 systemd[1]: Stopped apt-daily.timer - Daily apt download activities.
+2127:2024-11-05T16:54:35.299054+00:00 server-1 systemd[1]: dpkg-db-backup.timer: Deactivated successfully.
+2128:2024-11-05T16:54:35.299086+00:00 server-1 systemd[1]: Stopped dpkg-db-backup.timer - Daily dpkg database backup timer.
+2133:2024-11-05T16:54:35.299258+00:00 server-1 systemd[1]: fwupd-refresh.timer: Deactivated successfully.
+2134:2024-11-05T16:54:35.299288+00:00 server-1 systemd[1]: Stopped fwupd-refresh.timer - Refresh fwupd metadata regularly.
+2146:2024-11-05T16:54:35.299668+00:00 server-1 systemd[1]: Stopped systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories.
+2147:2024-11-05T16:54:35.299708+00:00 server-1 systemd[1]: update-notifier-download.timer: Deactivated successfully.
+2148:2024-11-05T16:54:35.299731+00:00 server-1 systemd[1]: Stopped update-notifier-download.timer - Download data for packages that failed at package install time.
+2149:2024-11-05T16:54:35.299779+00:00 server-1 systemd[1]: update-notifier-motd.timer: Deactivated successfully.
+2150:2024-11-05T16:54:35.299806+00:00 server-1 systemd[1]: Stopped update-notifier-motd.timer - Check to see whether there is a new version of Ubuntu available.
+2163:2024-11-05T16:54:35.321783+00:00 server-1 ModemManager[1907]: <msg> caught signal, shutting down...
+2167:2024-11-05T16:54:35.324383+00:00 server-1 systemd[1]: Stopping finalrd.service - Create final runtime dir for shutdown pivot root...
+2168:2024-11-05T16:54:35.324556+00:00 server-1 systemd[1]: Stopping fwupd.service - Firmware update daemon...
+2169:2024-11-05T16:54:35.324727+00:00 server-1 fwupd[30231]: 16:54:35.324 FuMain               Received SIGTERM
+2173:2024-11-05T16:54:35.326127+00:00 server-1 systemd[1]: Stopping networkd-dispatcher.service - Dispatcher daemon for systemd-networkd...
+2179:2024-11-05T16:56:57.861516+00:00 server-1 kernel: KERNEL supported cpus:
+2191:2024-11-05T16:56:57.861520+00:00 server-1 lvm[1132]:   1 logical volume(s) in volume group "vgroot" monitored
+2199:2024-11-05T16:56:57.861525+00:00 server-1 multipathd[1165]: multipathd v0.9.4: start up
+2207:2024-11-05T16:56:57.861557+00:00 server-1 multipathd[1165]: reconfigure: setting up paths and maps
+2226:2024-11-05T16:56:57.861575+00:00 server-1 kernel: e820: update [mem 0x99614018-0x9962f657] usable ==> usable
+2228:2024-11-05T16:56:57.861575+00:00 server-1 kernel: e820: update [mem 0x99614018-0x9962f657] usable ==> usable
+2229:2024-11-05T16:56:57.861578+00:00 server-1 kernel: e820: update [mem 0x995d9018-0x995f4657] usable ==> usable
+2230:2024-11-05T16:56:57.861579+00:00 server-1 kernel: e820: update [mem 0x995d9018-0x995f4657] usable ==> usable
+2231:2024-11-05T16:56:57.861580+00:00 server-1 kernel: e820: update [mem 0x92428018-0x92493e57] usable ==> usable
+2232:2024-11-05T16:56:57.861580+00:00 server-1 kernel: e820: update [mem 0x92428018-0x92493e57] usable ==> usable
+2233:2024-11-05T16:56:57.861581+00:00 server-1 kernel: e820: update [mem 0x923bc018-0x92427e57] usable ==> usable
+2235:2024-11-05T16:56:57.861581+00:00 server-1 kernel: e820: update [mem 0x923bc018-0x92427e57] usable ==> usable
+2236:2024-11-05T16:56:57.861583+00:00 server-1 kernel: e820: update [mem 0x9960d018-0x99613457] usable ==> usable
+2237:2024-11-05T16:56:57.861584+00:00 server-1 kernel: e820: update [mem 0x9960d018-0x99613457] usable ==> usable
+2238:2024-11-05T16:56:57.861584+00:00 server-1 kernel: e820: update [mem 0x99605018-0x9960b457] usable ==> usable
+2239:2024-11-05T16:56:57.861585+00:00 server-1 kernel: e820: update [mem 0x99605018-0x9960b457] usable ==> usable
+2240:2024-11-05T16:56:57.861585+00:00 server-1 kernel: e820: update [mem 0x99323018-0x9933e657] usable ==> usable
+2242:2024-11-05T16:56:57.861586+00:00 server-1 kernel: e820: update [mem 0x99323018-0x9933e657] usable ==> usable
+2243:2024-11-05T16:56:57.861587+00:00 server-1 kernel: e820: update [mem 0x98f9a018-0x98fb5657] usable ==> usable
+2244:2024-11-05T16:56:57.861588+00:00 server-1 kernel: e820: update [mem 0x98f9a018-0x98fb5657] usable ==> usable
+2246:2024-11-05T16:56:57.861589+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000000000000-0x000000000009ffff] usable
+2247:2024-11-05T16:56:57.861590+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000000a0000-0x00000000000fffff] reserved
+2248:2024-11-05T16:56:57.861590+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000000100000-0x0000000075daffff] usable
+2250:2024-11-05T16:56:57.861592+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000075db0000-0x0000000075df0fff] ACPI NVS
+2251:2024-11-05T16:56:57.861592+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000075df1000-0x0000000075eaffff] usable
+2252:2024-11-05T16:56:57.861593+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000075eb0000-0x0000000075ffffff] reserved
+2253:2024-11-05T16:56:57.861593+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000076000000-0x00000000923bc017] usable
+2254:2024-11-05T16:56:57.861593+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000923bc018-0x0000000092427e57] usable
+2255:2024-11-05T16:56:57.861593+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000092427e58-0x0000000092428017] usable
+2257:2024-11-05T16:56:57.861595+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000092428018-0x0000000092493e57] usable
+2258:2024-11-05T16:56:57.861596+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000092493e58-0x0000000098f9a017] usable
+2259:2024-11-05T16:56:57.861596+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000098f9a018-0x0000000098fb5657] usable
+2260:2024-11-05T16:56:57.861597+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000098fb5658-0x0000000099323017] usable
+2261:2024-11-05T16:56:57.861597+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000099323018-0x000000009933e657] usable
+2262:2024-11-05T16:56:57.861597+00:00 server-1 kernel: reserve setup_data: [mem 0x000000009933e658-0x00000000995d9017] usable
+2263:2024-11-05T16:56:57.861597+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000995d9018-0x00000000995f4657] usable
+2265:2024-11-05T16:56:57.861600+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000995f4658-0x0000000099605017] usable
+2266:2024-11-05T16:56:57.861601+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000099605018-0x000000009960b457] usable
+2267:2024-11-05T16:56:57.861601+00:00 server-1 kernel: reserve setup_data: [mem 0x000000009960b458-0x000000009960d017] usable
+2268:2024-11-05T16:56:57.861602+00:00 server-1 kernel: reserve setup_data: [mem 0x000000009960d018-0x0000000099613457] usable
+2269:2024-11-05T16:56:57.861602+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000099613458-0x0000000099614017] usable
+2270:2024-11-05T16:56:57.861602+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000099614018-0x000000009962f657] usable
+2272:2024-11-05T16:56:57.861605+00:00 server-1 kernel: reserve setup_data: [mem 0x000000009962f658-0x00000000a0722fff] usable
+2273:2024-11-05T16:56:57.861605+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a0723000-0x00000000a5c89fff] reserved
+2274:2024-11-05T16:56:57.861606+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a5c8a000-0x00000000a5d74fff] ACPI data
+2275:2024-11-05T16:56:57.861606+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a5d75000-0x00000000a61f5fff] ACPI NVS
+2276:2024-11-05T16:56:57.861606+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a61f6000-0x00000000a79fefff] reserved
+2277:2024-11-05T16:56:57.861607+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a79ff000-0x00000000a7ffcfff] usable
+2280:2024-11-05T16:56:57.861614+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000a7ffd000-0x00000000afffffff] reserved
+2281:2024-11-05T16:56:57.861615+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000b2580000-0x00000000b2580fff] reserved
+2282:2024-11-05T16:56:57.861615+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000b3600000-0x00000000b36fffff] reserved
+2283:2024-11-05T16:56:57.861615+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000b3900000-0x00000000b3900fff] reserved
+2284:2024-11-05T16:56:57.861616+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+2285:2024-11-05T16:56:57.861616+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000f5280000-0x00000000f5280fff] reserved
+2286:2024-11-05T16:56:57.861616+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000f6280000-0x00000000f6280fff] reserved
+2288:2024-11-05T16:56:57.861618+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fea00000-0x00000000feafffff] reserved
+2302:2024-11-05T16:56:57.861671+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+2304:2024-11-05T16:56:57.861671+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fec10000-0x00000000fec10fff] reserved
+2305:2024-11-05T16:56:57.861673+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fed00000-0x00000000fed00fff] reserved
+2306:2024-11-05T16:56:57.861674+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fed40000-0x00000000fed44fff] reserved
+2307:2024-11-05T16:56:57.861674+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fed80000-0x00000000fed8ffff] reserved
+2309:2024-11-05T16:56:57.861676+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fedc0000-0x00000000fedc0fff] reserved
+2310:2024-11-05T16:56:57.861677+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fedc2000-0x00000000fedc8fff] reserved
+2311:2024-11-05T16:56:57.861678+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000fee00000-0x00000000feefffff] reserved
+2312:2024-11-05T16:56:57.861678+00:00 server-1 kernel: reserve setup_data: [mem 0x00000000ff000000-0x00000000ffffffff] reserved
+2313:2024-11-05T16:56:57.861678+00:00 server-1 kernel: reserve setup_data: [mem 0x0000000100000000-0x000000204d9bffff] usable
+2314:2024-11-05T16:56:57.861678+00:00 server-1 kernel: reserve setup_data: [mem 0x000000204d9c0000-0x000000204fffffff] reserved
+2315:2024-11-05T16:56:57.861679+00:00 server-1 kernel: reserve setup_data: [mem 0x00003ffc00000000-0x00003ffc03ffffff] reserved
+2338:2024-11-05T16:56:57.861690+00:00 server-1 systemd[1]: Starting console-setup.service - Set console font and keymap...
+2352:2024-11-05T16:56:57.861705+00:00 server-1 kernel: e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+2353:2024-11-05T16:56:57.861706+00:00 server-1 systemd[1]: Starting finalrd.service - Create final runtime dir for shutdown pivot root...
+2358:2024-11-05T16:56:57.861709+00:00 server-1 kernel: e820: update [mem 0xb0000000-0xffffffff] usable ==> reserved
+2363:2024-11-05T16:56:57.861712+00:00 server-1 kernel: e820: update [mem 0x9d847000-0x9d847fff] usable ==> reserved
+2383:2024-11-05T16:56:57.861722+00:00 server-1 systemd[1]: Starting systemd-binfmt.service - Set Up Additional Binary Formats...
+2390:2024-11-05T16:56:57.861725+00:00 server-1 systemd[1]: Starting systemd-tmpfiles-setup.service - Create Volatile Files and Directories...
+2410:2024-11-05T16:56:57.861742+00:00 server-1 systemd[1]: Finished console-setup.service - Set console font and keymap.
+2411:2024-11-05T16:56:57.861745+00:00 server-1 systemd[1]: Finished finalrd.service - Create final runtime dir for shutdown pivot root.
+2421:2024-11-05T16:56:57.861780+00:00 server-1 systemd[1]: Reached target cryptsetup.target - Local Encrypted Volumes.
+2423:2024-11-05T16:56:57.861785+00:00 server-1 systemd[1]: Starting systemd-networkd.service - Network Configuration...
+2425:2024-11-05T16:56:57.861792+00:00 server-1 systemd[1]: Finished systemd-binfmt.service - Set Up Additional Binary Formats.
+2434:2024-11-05T16:56:57.861807+00:00 server-1 systemd[1]: Finished systemd-tmpfiles-setup.service - Create Volatile Files and Directories.
+2464:2024-11-05T16:56:57.861832+00:00 server-1 systemd[1]: systemd-journal-catalog-update.service - Rebuild Journal Catalog was skipped because of an unmet condition check (ConditionNeedsUpdate=/var).
+2481:2024-11-05T16:56:57.861859+00:00 server-1 systemd[1]: systemd-update-done.service - Update is Completed was skipped because no trigger condition checks were met.
+2505:2024-11-05T16:56:57.861887+00:00 server-1 auditd[1684]: Init complete, auditd 3.1.2 listening for events (startup state enable)
+2562:2024-11-05T16:56:57.861943+00:00 server-1 kernel: Initmem setup node 0 [mem 0x0000000000001000-0x000000204d9bffff]
+2598:2024-11-05T16:56:57.862010+00:00 server-1 kernel: e820: update [mem 0x9a8c7000-0x9a90cfff] usable ==> reserved
+2608:2024-11-05T16:56:57.862017+00:00 server-1 systemd[1]: Starting systemd-update-utmp.service - Record System Boot/Shutdown in UTMP...
+2615:2024-11-05T16:56:57.862021+00:00 server-1 systemd[1]: Finished systemd-update-utmp.service - Record System Boot/Shutdown in UTMP.
+2657:2024-11-05T16:56:57.862057+00:00 server-1 systemd-networkd[1662]: /run/systemd/network/10-netplan-kvm.network: MTUBytes= in [Link] section and UseMTU= in [DHCP] section are set. Disabling UseMTU=.
+2663:2024-11-05T16:56:57.862061+00:00 server-1 systemd-networkd[1662]: lo: Link UP
+2666:2024-11-05T16:56:57.862114+00:00 server-1 systemd-networkd[1662]: lo: Gained carrier
+2667:2024-11-05T16:56:57.862115+00:00 server-1 kernel: setup_percpu: NR_CPUS:8192 nr_cpumask_bits:64 nr_cpu_ids:64 nr_node_ids:1
+2671:2024-11-05T16:56:57.862120+00:00 server-1 systemd-networkd[1662]: Enumeration completed
+2675:2024-11-05T16:56:57.862125+00:00 server-1 systemd[1]: Started systemd-networkd.service - Network Configuration.
+2679:2024-11-05T16:56:57.862130+00:00 server-1 systemd-networkd[1662]: ens10f0: Configuring with /run/systemd/network/10-netplan-ens10f0.network.
+2683:2024-11-05T16:56:57.862135+00:00 server-1 systemd[1]: Starting systemd-networkd-wait-online.service - Wait for Network to be Configured...
+2695:2024-11-05T16:56:57.862149+00:00 server-1 systemd-networkd[1662]: ens10f1: Configuring with /run/systemd/network/10-netplan-ens10f1.network.
+2696:2024-11-05T16:56:57.862153+00:00 server-1 kernel: Built 1 zonelists, mobility grouping on.  Total pages: 32958650
+2704:2024-11-05T16:56:57.862161+00:00 server-1 kernel: ftrace: allocated 227 pages with 5 groups
+2710:2024-11-05T16:56:57.862164+00:00 server-1 systemd[1]: Reached target nss-lookup.target - Host and Network Name Lookups.
+2720:2024-11-05T16:56:57.862184+00:00 server-1 systemd[1]: Started systemd-tmpfiles-clean.timer - Daily Cleanup of Temporary Directories.
+2736:2024-11-05T16:56:57.862224+00:00 server-1 kernel: APIC: Switch to symmetric I/O mode setup
+2755:2024-11-05T16:56:57.862235+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+2757:2024-11-05T16:56:57.862235+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+2758:2024-11-05T16:56:57.862236+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+2759:2024-11-05T16:56:57.862237+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x020: 'AVX-512 opmask'
+2760:2024-11-05T16:56:57.862237+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x040: 'AVX-512 Hi256'
+2761:2024-11-05T16:56:57.862238+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x080: 'AVX-512 ZMM_Hi256'
+2763:2024-11-05T16:56:57.862238+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x200: 'Protection Keys User registers'
+2764:2024-11-05T16:56:57.862241+00:00 server-1 kernel: x86/fpu: Supporting XSAVE feature 0x800: 'Control-flow User registers'
+2777:2024-11-05T16:56:57.862254+00:00 server-1 kernel: LSM: initializing lsm=lockdown,capability,landlock,yama,apparmor,integrity
+2778:2024-11-05T16:56:57.862255+00:00 server-1 kernel: landlock: Up and running.
+2792:2024-11-05T16:56:57.862261+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Configuring with /run/systemd/network/10-netplan-ens2f0np0.network.
+2802:2024-11-05T16:56:57.862301+00:00 server-1 kernel: smp: Bringing up secondary CPUs ...
+2806:2024-11-05T16:56:57.862307+00:00 server-1 kernel: Spectre V2 : Update user space SMT mitigation: STIBP always-on
+2807:2024-11-05T16:56:57.862308+00:00 server-1 kernel: smp: Brought up 1 node, 64 CPUs
+2844:2024-11-05T16:56:57.862348+00:00 server-1 systemd[1]: Starting networkd-dispatcher.service - Dispatcher daemon for systemd-networkd...
+2858:2024-11-05T16:56:57.862358+00:00 server-1 dbus-daemon[1722]: dbus[1722]: Unknown group "power" in message bus configuration file
+2859:2024-11-05T16:56:57.862362+00:00 server-1 kernel: ACPI: PM: (supports S0 S5)
+2860:2024-11-05T16:56:57.862362+00:00 server-1 kernel: ACPI: Using IOAPIC for interrupt routing
+2862:2024-11-05T16:56:57.862367+00:00 server-1 systemd[1]: Starting secureboot-db.service - Secure Boot updates for DB and DBX...
+2863:2024-11-05T16:56:57.862371+00:00 server-1 systemd[1]: snapd.core-fixup.service - Automatically repair incorrect owner/permissions on core devices was skipped because no trigger condition checks were met.
+2884:2024-11-05T16:56:57.862435+00:00 server-1 kernel: acpi PNP0A08:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+2885:2024-11-05T16:56:57.862436+00:00 server-1 kernel: acpi PNP0A08:00: _OSC: platform does not support [AER LTR DPC]
+2908:2024-11-05T16:56:57.862478+00:00 server-1 kernel: pci 0000:c0:01.1: PME# supported from D0 D3hot D3cold
+2917:2024-11-05T16:56:57.862487+00:00 server-1 kernel: pci 0000:c0:03.1: PME# supported from D0 D3hot D3cold
+2927:2024-11-05T16:56:57.862523+00:00 server-1 kernel: pci 0000:c0:05.2: PME# supported from D0 D3hot D3cold
+2932:2024-11-05T16:56:57.862532+00:00 server-1 thermald[1736]: Unsupported cpu model or platform
+2940:2024-11-05T16:56:57.862549+00:00 server-1 kernel: pci 0000:c0:07.1: PME# supported from D0 D3hot D3cold
+2946:2024-11-05T16:56:57.862570+00:00 server-1 kernel: pci 0000:c0:07.2: PME# supported from D0 D3hot D3cold
+2948:2024-11-05T16:56:57.862571+00:00 server-1 kernel: pci 0000:c1:00.0: [1002:1478] type 01 class 0x060400 PCIe Switch Upstream Port
+2951:2024-11-05T16:56:57.862594+00:00 server-1 sbkeysync[1777]:   /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin [21170 bytes]
+2957:2024-11-05T16:56:57.862603+00:00 server-1 kernel: pci 0000:c1:00.0: PME# supported from D0 D3hot D3cold
+2959:2024-11-05T16:56:57.862605+00:00 server-1 kernel: pci 0000:c2:00.0: [1002:1479] type 01 class 0x060400 PCIe Switch Downstream Port
+2969:2024-11-05T16:56:57.862635+00:00 server-1 kernel: pci 0000:c2:00.0: PME# supported from D0 D3hot D3cold
+2980:2024-11-05T16:56:57.862658+00:00 server-1 kernel: pci 0000:c3:00.0: PME# supported from D1 D2 D3hot D3cold
+2985:2024-11-05T16:56:57.862686+00:00 server-1 kernel: pci 0000:c3:00.1: PME# supported from D1 D2 D3hot D3cold
+2987:2024-11-05T16:56:57.862690+00:00 server-1 kernel: pci 0000:c4:00.0: [1002:1478] type 01 class 0x060400 PCIe Switch Upstream Port
+2996:2024-11-05T16:56:57.862703+00:00 server-1 kernel: pci 0000:c4:00.0: PME# supported from D0 D3hot D3cold
+2999:2024-11-05T16:56:57.862705+00:00 server-1 kernel: pci 0000:c5:00.0: [1002:1479] type 01 class 0x060400 PCIe Switch Downstream Port
+3009:2024-11-05T16:56:57.862731+00:00 server-1 kernel: pci 0000:c5:00.0: PME# supported from D0 D3hot D3cold
+3029:2024-11-05T16:56:57.862801+00:00 server-1 kernel: pci 0000:c6:00.0: PME# supported from D1 D2 D3hot D3cold
+3033:2024-11-05T16:56:57.862806+00:00 server-1 kernel: pci 0000:c6:00.1: PME# supported from D1 D2 D3hot D3cold
+3044:2024-11-05T16:56:57.862826+00:00 server-1 kernel: pci 0000:c7:00.0: supports D1 D2
+3046:2024-11-05T16:56:57.862833+00:00 server-1 kernel: pci 0000:c7:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+3058:2024-11-05T16:56:57.862864+00:00 server-1 kernel: pci 0000:c8:00.0: supports D1 D2
+3060:2024-11-05T16:56:57.862866+00:00 server-1 kernel: pci 0000:c8:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+3076:2024-11-05T16:56:57.862913+00:00 server-1 kernel: pci 0000:c9:00.4: PME# supported from D0 D3hot D3cold
+3084:2024-11-05T16:56:57.862931+00:00 server-1 kernel: pci 0000:ca:00.0: PME# supported from D3hot D3cold
+3089:2024-11-05T16:56:57.862937+00:00 server-1 kernel: pci 0000:ca:00.1: PME# supported from D3hot D3cold
+3095:2024-11-05T16:56:57.862956+00:00 server-1 kernel: acpi PNP0A08:01: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+3096:2024-11-05T16:56:57.862957+00:00 server-1 kernel: acpi PNP0A08:01: _OSC: platform does not support [AER LTR DPC]
+3114:2024-11-05T16:56:57.862996+00:00 server-1 kernel: pci 0000:80:01.1: PME# supported from D0 D3hot D3cold
+3123:2024-11-05T16:56:57.863026+00:00 server-1 kernel: pci 0000:80:03.2: PME# supported from D0 D3hot D3cold
+3127:2024-11-05T16:56:57.863030+00:00 server-1 kernel: pci 0000:80:03.3: PME# supported from D0 D3hot D3cold
+3142:2024-11-05T16:56:57.863057+00:00 server-1 kernel: pci 0000:80:07.1: PME# supported from D0 D3hot D3cold
+3164:2024-11-05T16:56:57.863107+00:00 server-1 kernel: acpi PNP0A08:02: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+3166:2024-11-05T16:56:57.863113+00:00 server-1 kernel: acpi PNP0A08:02: _OSC: platform does not support [AER LTR DPC]
+3201:2024-11-05T16:56:57.863213+00:00 server-1 kernel: pci 0000:00:01.1: PME# supported from D0 D3hot D3cold
+3218:2024-11-05T16:56:57.863259+00:00 server-1 kernel: pci 0000:00:03.1: PME# supported from D0 D3hot D3cold
+3228:2024-11-05T16:56:57.863295+00:00 server-1 kernel: pci 0000:00:05.1: PME# supported from D0 D3hot D3cold
+3237:2024-11-05T16:56:57.863303+00:00 server-1 kernel: pci 0000:00:07.1: PME# supported from D0 D3hot D3cold
+3243:2024-11-05T16:56:57.863333+00:00 server-1 kernel: pci 0000:00:07.2: PME# supported from D0 D3hot D3cold
+3257:2024-11-05T16:56:57.863354+00:00 server-1 kernel: pci 0000:01:00.0: [1002:1478] type 01 class 0x060400 PCIe Switch Upstream Port
+3266:2024-11-05T16:56:57.863366+00:00 server-1 kernel: pci 0000:01:00.0: PME# supported from D0 D3hot D3cold
+3269:2024-11-05T16:56:57.863367+00:00 server-1 kernel: pci 0000:02:00.0: [1002:1479] type 01 class 0x060400 PCIe Switch Downstream Port
+3276:2024-11-05T16:56:57.863396+00:00 server-1 kernel: pci 0000:02:00.0: PME# supported from D0 D3hot D3cold
+3286:2024-11-05T16:56:57.863434+00:00 server-1 kernel: pci 0000:03:00.0: PME# supported from D1 D2 D3hot D3cold
+3290:2024-11-05T16:56:57.863443+00:00 server-1 kernel: pci 0000:03:00.1: PME# supported from D1 D2 D3hot D3cold
+3292:2024-11-05T16:56:57.863455+00:00 server-1 kernel: pci 0000:04:00.0: [1002:1478] type 01 class 0x060400 PCIe Switch Upstream Port
+3300:2024-11-05T16:56:57.863476+00:00 server-1 kernel: pci 0000:04:00.0: PME# supported from D0 D3hot D3cold
+3304:2024-11-05T16:56:57.863483+00:00 server-1 kernel: pci 0000:05:00.0: [1002:1479] type 01 class 0x060400 PCIe Switch Downstream Port
+3311:2024-11-05T16:56:57.863494+00:00 server-1 kernel: pci 0000:05:00.0: PME# supported from D0 D3hot D3cold
+3327:2024-11-05T16:56:57.863528+00:00 server-1 kernel: pci 0000:06:00.0: PME# supported from D1 D2 D3hot D3cold
+3332:2024-11-05T16:56:57.863543+00:00 server-1 kernel: pci 0000:06:00.1: PME# supported from D1 D2 D3hot D3cold
+3349:2024-11-05T16:56:57.863615+00:00 server-1 kernel: pci 0000:07:00.0: PME# supported from D0 D3hot D3cold
+3358:2024-11-05T16:56:57.863622+00:00 server-1 systemd[1]: Finished secureboot-db.service - Secure Boot updates for DB and DBX.
+3360:2024-11-05T16:56:57.863626+00:00 server-1 kernel: pci 0000:07:00.1: PME# supported from D0 D3hot D3cold
+3377:2024-11-05T16:56:57.863648+00:00 server-1 kernel: pci 0000:09:00.4: PME# supported from D0 D3hot D3cold
+3388:2024-11-05T16:56:57.863683+00:00 server-1 kernel: pci 0000:0a:00.0: PME# supported from D3hot D3cold
+3392:2024-11-05T16:56:57.863694+00:00 server-1 kernel: pci 0000:0a:00.1: PME# supported from D3hot D3cold
+3397:2024-11-05T16:56:57.863698+00:00 server-1 kernel: acpi PNP0A08:03: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+3398:2024-11-05T16:56:57.863699+00:00 server-1 kernel: acpi PNP0A08:03: _OSC: platform does not support [AER LTR DPC]
+3419:2024-11-05T16:56:57.863742+00:00 server-1 kernel: pci 0000:40:01.1: PME# supported from D0 D3hot D3cold
+3429:2024-11-05T16:56:57.863774+00:00 server-1 kernel: pci 0000:40:03.2: PME# supported from D0 D3hot D3cold
+3435:2024-11-05T16:56:57.863784+00:00 server-1 kernel: pci 0000:40:03.3: PME# supported from D0 D3hot D3cold
+3445:2024-11-05T16:56:57.863813+00:00 server-1 kernel: pci 0000:40:07.1: PME# supported from D0 D3hot D3cold
+3451:2024-11-05T16:56:57.863824+00:00 server-1 kernel: pci 0000:41:00.0: PME# supported from D3cold
+3459:2024-11-05T16:56:57.863854+00:00 server-1 kernel: pci 0000:41:00.1: PME# supported from D3cold
+3498:2024-11-05T16:56:57.863957+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKA configured for IRQ 0
+3499:2024-11-05T16:56:57.863961+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKB configured for IRQ 0
+3500:2024-11-05T16:56:57.863962+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKC configured for IRQ 0
+3501:2024-11-05T16:56:57.863963+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKD configured for IRQ 0
+3502:2024-11-05T16:56:57.863971+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKE configured for IRQ 0
+3503:2024-11-05T16:56:57.863972+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKF configured for IRQ 0
+3505:2024-11-05T16:56:57.863973+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKG configured for IRQ 0
+3507:2024-11-05T16:56:57.863985+00:00 server-1 kernel: ACPI: PCI: Interrupt link LNKH configured for IRQ 0
+3534:2024-11-05T16:56:57.864030+00:00 server-1 kernel: PTP clock support registered
+3786:2024-11-05T16:56:57.864680+00:00 server-1 sssd[1733]: Starting up
+3837:2024-11-05T16:56:57.861686+00:00 server-1 rsyslogd: rsyslogd's groupid changed to 102
+3962:2024-11-05T16:56:57.865249+00:00 server-1 kernel: pci 0000:c0:00.2: AMD-Vi: IOMMU performance counters supported
+3964:2024-11-05T16:56:57.865251+00:00 server-1 kernel: pci 0000:c0:00.3: Adding to iommu group 0
+3965:2024-11-05T16:56:57.865252+00:00 server-1 kernel: pci 0000:c0:01.0: Adding to iommu group 1
+3966:2024-11-05T16:56:57.865253+00:00 server-1 kernel: pci 0000:c0:01.1: Adding to iommu group 2
+3967:2024-11-05T16:56:57.865261+00:00 server-1 kernel: pci 0000:c0:02.0: Adding to iommu group 3
+3968:2024-11-05T16:56:57.865268+00:00 server-1 kernel: pci 0000:c0:03.0: Adding to iommu group 4
+3969:2024-11-05T16:56:57.865269+00:00 server-1 kernel: pci 0000:c0:03.1: Adding to iommu group 5
+3970:2024-11-05T16:56:57.865270+00:00 server-1 kernel: pci 0000:c0:04.0: Adding to iommu group 6
+3971:2024-11-05T16:56:57.865270+00:00 server-1 kernel: pci 0000:c0:05.0: Adding to iommu group 7
+3972:2024-11-05T16:56:57.865276+00:00 server-1 kernel: pci 0000:c0:05.2: Adding to iommu group 8
+3973:2024-11-05T16:56:57.865277+00:00 server-1 kernel: pci 0000:c0:07.0: Adding to iommu group 9
+3974:2024-11-05T16:56:57.865278+00:00 server-1 kernel: pci 0000:c0:07.1: Adding to iommu group 9
+3975:2024-11-05T16:56:57.865280+00:00 server-1 kernel: pci 0000:c0:07.2: Adding to iommu group 9
+3976:2024-11-05T16:56:57.865288+00:00 server-1 kernel: pci 0000:c1:00.0: Adding to iommu group 10
+3977:2024-11-05T16:56:57.865298+00:00 server-1 kernel: pci 0000:c2:00.0: Adding to iommu group 11
+3978:2024-11-05T16:56:57.865299+00:00 server-1 kernel: pci 0000:c3:00.0: Adding to iommu group 12
+3979:2024-11-05T16:56:57.865300+00:00 server-1 kernel: pci 0000:c3:00.1: Adding to iommu group 13
+3980:2024-11-05T16:56:57.865301+00:00 server-1 kernel: pci 0000:c4:00.0: Adding to iommu group 14
+3981:2024-11-05T16:56:57.865307+00:00 server-1 kernel: pci 0000:c5:00.0: Adding to iommu group 15
+3982:2024-11-05T16:56:57.865308+00:00 server-1 kernel: pci 0000:c6:00.0: Adding to iommu group 16
+3983:2024-11-05T16:56:57.865309+00:00 server-1 kernel: pci 0000:c6:00.1: Adding to iommu group 17
+3984:2024-11-05T16:56:57.865317+00:00 server-1 kernel: pci 0000:c7:00.0: Adding to iommu group 18
+3985:2024-11-05T16:56:57.865318+00:00 server-1 kernel: pci 0000:c8:00.0: Adding to iommu group 18
+3986:2024-11-05T16:56:57.865319+00:00 server-1 kernel: pci 0000:c9:00.0: Adding to iommu group 9
+3987:2024-11-05T16:56:57.865319+00:00 server-1 kernel: pci 0000:c9:00.1: Adding to iommu group 9
+3988:2024-11-05T16:56:57.865326+00:00 server-1 kernel: pci 0000:c9:00.4: Adding to iommu group 9
+3989:2024-11-05T16:56:57.865334+00:00 server-1 kernel: pci 0000:ca:00.0: Adding to iommu group 9
+3990:2024-11-05T16:56:57.865335+00:00 server-1 kernel: pci 0000:ca:00.1: Adding to iommu group 9
+3991:2024-11-05T16:56:57.865336+00:00 server-1 kernel: pci 0000:80:00.2: AMD-Vi: IOMMU performance counters supported
+3992:2024-11-05T16:56:57.865343+00:00 server-1 kernel: pci 0000:80:00.3: Adding to iommu group 19
+3993:2024-11-05T16:56:57.865356+00:00 server-1 kernel: pci 0000:80:01.0: Adding to iommu group 20
+3994:2024-11-05T16:56:57.865356+00:00 server-1 kernel: pci 0000:80:01.1: Adding to iommu group 21
+3995:2024-11-05T16:56:57.865357+00:00 server-1 kernel: pci 0000:80:02.0: Adding to iommu group 22
+3996:2024-11-05T16:56:57.865358+00:00 server-1 kernel: pci 0000:80:03.0: Adding to iommu group 23
+3997:2024-11-05T16:56:57.865359+00:00 server-1 kernel: pci 0000:80:03.2: Adding to iommu group 24
+3998:2024-11-05T16:56:57.865360+00:00 server-1 kernel: pci 0000:80:03.3: Adding to iommu group 25
+3999:2024-11-05T16:56:57.865361+00:00 server-1 kernel: pci 0000:80:04.0: Adding to iommu group 26
+4000:2024-11-05T16:56:57.865362+00:00 server-1 kernel: pci 0000:80:05.0: Adding to iommu group 27
+4001:2024-11-05T16:56:57.865362+00:00 server-1 kernel: pci 0000:80:07.0: Adding to iommu group 28
+4002:2024-11-05T16:56:57.865363+00:00 server-1 kernel: pci 0000:80:07.1: Adding to iommu group 28
+4003:2024-11-05T16:56:57.865363+00:00 server-1 kernel: pci 0000:85:00.0: Adding to iommu group 28
+4004:2024-11-05T16:56:57.865370+00:00 server-1 kernel: pci 0000:85:00.1: Adding to iommu group 28
+4005:2024-11-05T16:56:57.865383+00:00 server-1 kernel: pci 0000:00:00.2: AMD-Vi: IOMMU performance counters supported
+4006:2024-11-05T16:56:57.865384+00:00 server-1 kernel: pci 0000:00:00.3: Adding to iommu group 29
+4007:2024-11-05T16:56:57.865385+00:00 server-1 kernel: pci 0000:00:01.0: Adding to iommu group 30
+4008:2024-11-05T16:56:57.865391+00:00 server-1 kernel: pci 0000:00:01.1: Adding to iommu group 31
+4009:2024-11-05T16:56:57.865394+00:00 server-1 kernel: pci 0000:00:02.0: Adding to iommu group 32
+4010:2024-11-05T16:56:57.865395+00:00 server-1 kernel: pci 0000:00:03.0: Adding to iommu group 33
+4011:2024-11-05T16:56:57.865396+00:00 server-1 kernel: pci 0000:00:03.1: Adding to iommu group 34
+4012:2024-11-05T16:56:57.865397+00:00 server-1 kernel: pci 0000:00:04.0: Adding to iommu group 35
+4013:2024-11-05T16:56:57.865398+00:00 server-1 kernel: pci 0000:00:05.0: Adding to iommu group 36
+4014:2024-11-05T16:56:57.865399+00:00 server-1 kernel: pci 0000:00:05.1: Adding to iommu group 37
+4015:2024-11-05T16:56:57.865400+00:00 server-1 kernel: pci 0000:00:07.0: Adding to iommu group 38
+4016:2024-11-05T16:56:57.865401+00:00 server-1 kernel: pci 0000:00:07.1: Adding to iommu group 38
+4017:2024-11-05T16:56:57.865401+00:00 server-1 kernel: pci 0000:00:07.2: Adding to iommu group 38
+4018:2024-11-05T16:56:57.865402+00:00 server-1 kernel: pci 0000:00:14.0: Adding to iommu group 39
+4019:2024-11-05T16:56:57.865402+00:00 server-1 kernel: pci 0000:00:14.3: Adding to iommu group 39
+4020:2024-11-05T16:56:57.865403+00:00 server-1 kernel: pci 0000:00:18.0: Adding to iommu group 40
+4021:2024-11-05T16:56:57.865409+00:00 server-1 kernel: pci 0000:00:18.1: Adding to iommu group 40
+4022:2024-11-05T16:56:57.865410+00:00 server-1 kernel: pci 0000:00:18.2: Adding to iommu group 40
+4023:2024-11-05T16:56:57.865411+00:00 server-1 kernel: pci 0000:00:18.3: Adding to iommu group 40
+4024:2024-11-05T16:56:57.865412+00:00 server-1 kernel: pci 0000:00:18.4: Adding to iommu group 40
+4025:2024-11-05T16:56:57.865413+00:00 server-1 kernel: pci 0000:00:18.5: Adding to iommu group 40
+4026:2024-11-05T16:56:57.865413+00:00 server-1 kernel: pci 0000:00:18.6: Adding to iommu group 40
+4027:2024-11-05T16:56:57.865420+00:00 server-1 kernel: pci 0000:00:18.7: Adding to iommu group 40
+4028:2024-11-05T16:56:57.865432+00:00 server-1 kernel: pci 0000:01:00.0: Adding to iommu group 41
+4029:2024-11-05T16:56:57.865435+00:00 server-1 kernel: pci 0000:02:00.0: Adding to iommu group 42
+4030:2024-11-05T16:56:57.865437+00:00 server-1 kernel: pci 0000:03:00.0: Adding to iommu group 43
+4031:2024-11-05T16:56:57.865437+00:00 server-1 kernel: pci 0000:03:00.1: Adding to iommu group 44
+4032:2024-11-05T16:56:57.865438+00:00 server-1 kernel: pci 0000:04:00.0: Adding to iommu group 45
+4033:2024-11-05T16:56:57.865439+00:00 server-1 kernel: pci 0000:05:00.0: Adding to iommu group 46
+4034:2024-11-05T16:56:57.865440+00:00 server-1 kernel: pci 0000:06:00.0: Adding to iommu group 47
+4035:2024-11-05T16:56:57.865446+00:00 server-1 kernel: pci 0000:06:00.1: Adding to iommu group 48
+4036:2024-11-05T16:56:57.865455+00:00 server-1 kernel: pci 0000:07:00.0: Adding to iommu group 49
+4037:2024-11-05T16:56:57.865456+00:00 server-1 kernel: pci 0000:07:00.1: Adding to iommu group 50
+4038:2024-11-05T16:56:57.865456+00:00 server-1 kernel: pci 0000:09:00.0: Adding to iommu group 38
+4039:2024-11-05T16:56:57.865457+00:00 server-1 kernel: pci 0000:09:00.1: Adding to iommu group 38
+4040:2024-11-05T16:56:57.865464+00:00 server-1 kernel: pci 0000:09:00.4: Adding to iommu group 38
+4041:2024-11-05T16:56:57.865471+00:00 server-1 kernel: pci 0000:09:00.5: Adding to iommu group 38
+4042:2024-11-05T16:56:57.865472+00:00 server-1 kernel: pci 0000:0a:00.0: Adding to iommu group 38
+4043:2024-11-05T16:56:57.865473+00:00 server-1 kernel: pci 0000:0a:00.1: Adding to iommu group 38
+4044:2024-11-05T16:56:57.865473+00:00 server-1 kernel: pci 0000:40:00.2: AMD-Vi: IOMMU performance counters supported
+4045:2024-11-05T16:56:57.865475+00:00 server-1 kernel: pci 0000:40:00.3: Adding to iommu group 51
+4046:2024-11-05T16:56:57.865478+00:00 server-1 kernel: pci 0000:40:01.0: Adding to iommu group 52
+4047:2024-11-05T16:56:57.865479+00:00 server-1 kernel: pci 0000:40:01.1: Adding to iommu group 53
+4048:2024-11-05T16:56:57.865480+00:00 server-1 kernel: pci 0000:40:02.0: Adding to iommu group 54
+4049:2024-11-05T16:56:57.865480+00:00 server-1 kernel: pci 0000:40:03.0: Adding to iommu group 55
+4050:2024-11-05T16:56:57.865481+00:00 server-1 kernel: pci 0000:40:03.2: Adding to iommu group 56
+4051:2024-11-05T16:56:57.865488+00:00 server-1 kernel: pci 0000:40:03.3: Adding to iommu group 57
+4052:2024-11-05T16:56:57.865489+00:00 server-1 kernel: pci 0000:40:04.0: Adding to iommu group 58
+4053:2024-11-05T16:56:57.865489+00:00 server-1 kernel: pci 0000:40:05.0: Adding to iommu group 59
+4054:2024-11-05T16:56:57.865490+00:00 server-1 kernel: pci 0000:40:07.0: Adding to iommu group 60
+4055:2024-11-05T16:56:57.865496+00:00 server-1 kernel: pci 0000:40:07.1: Adding to iommu group 60
+4056:2024-11-05T16:56:57.865505+00:00 server-1 kernel: pci 0000:41:00.0: Adding to iommu group 61
+4057:2024-11-05T16:56:57.865505+00:00 server-1 kernel: pci 0000:41:00.1: Adding to iommu group 62
+4058:2024-11-05T16:56:57.865506+00:00 server-1 kernel: pci 0000:42:00.0: Adding to iommu group 63
+4059:2024-11-05T16:56:57.865507+00:00 server-1 kernel: pci 0000:43:00.0: Adding to iommu group 64
+4060:2024-11-05T16:56:57.865514+00:00 server-1 kernel: pci 0000:44:00.0: Adding to iommu group 60
+4061:2024-11-05T16:56:57.865515+00:00 server-1 kernel: pci 0000:44:00.1: Adding to iommu group 60
+4063:2024-11-05T16:56:57.865523+00:00 server-1 kernel: AMD-Vi: Interrupt remapping enabled
+4183:2024-11-05T16:56:57.865884+00:00 server-1 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+4200:2024-11-05T16:56:57.865983+00:00 server-1 kernel: rtc_cmos 00:01: alarms up to one month, y3k, 114 bytes nvram
+4202:2024-11-05T16:56:57.865984+00:00 server-1 kernel: device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+4226:2024-11-05T16:56:57.866051+00:00 server-1 kernel: Key type dns_resolver registered
+4228:2024-11-05T16:56:57.866053+00:00 server-1 kernel: microcode: Updated early from: 0x0a101144
+4308:2024-11-05T16:56:57.866333+00:00 server-1 kernel: xhci_hcd 0000:c9:00.4: Host supports USB 3.1 Enhanced SuperSpeed
+4342:2024-11-05T16:56:57.866441+00:00 server-1 kernel: xhci_hcd 0000:09:00.4: Host supports USB 3.1 Enhanced SuperSpeed
+4402:2024-11-05T16:56:57.866603+00:00 server-1 kernel: igb 0000:07:00.0: Using MSI-X interrupts. 8 rx queue(s), 8 tx queue(s)
+4404:2024-11-05T16:56:57.866612+00:00 server-1 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+4413:2024-11-05T16:56:57.866652+00:00 server-1 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+4443:2024-11-05T16:56:57.866788+00:00 server-1 kernel: igb 0000:07:00.1: Using MSI-X interrupts. 8 rx queue(s), 8 tx queue(s)
+4449:2024-11-05T16:56:57.866799+00:00 server-1 kernel: ata1: SATA link down (SStatus 0 SControl 300)
+4450:2024-11-05T16:56:57.866806+00:00 server-1 kernel: ata9: SATA link down (SStatus 0 SControl 300)
+4451:2024-11-05T16:56:57.866807+00:00 server-1 kernel: ata17: SATA link down (SStatus 0 SControl 300)
+4460:2024-11-05T16:56:57.866845+00:00 server-1 kernel: ata25: SATA link down (SStatus 0 SControl 300)
+4467:2024-11-05T16:56:57.866855+00:00 server-1 kernel: usb 2-1: new SuperSpeed USB device number 2 using xhci_hcd
+4472:2024-11-05T16:56:57.866868+00:00 server-1 kernel: usb 4-1: new SuperSpeed USB device number 2 using xhci_hcd
+4481:2024-11-05T16:56:57.866888+00:00 server-1 kernel: ata2: SATA link down (SStatus 0 SControl 300)
+4484:2024-11-05T16:56:57.866908+00:00 server-1 kernel: mlx5_core 0000:41:00.0: is_dpll_supported:213:(pid 674): Missing SyncE capability
+4494:2024-11-05T16:56:57.866928+00:00 server-1 kernel: ata3: SATA link down (SStatus 0 SControl 300)
+4503:2024-11-05T16:56:57.866948+00:00 server-1 kernel: ata4: SATA link down (SStatus 0 SControl 300)
+4512:2024-11-05T16:56:57.866970+00:00 server-1 kernel: mlx5_core 0000:41:00.1: is_dpll_supported:213:(pid 674): Missing SyncE capability
+4518:2024-11-05T16:56:57.866988+00:00 server-1 kernel: ata5: SATA link down (SStatus 0 SControl 300)
+4525:2024-11-05T16:56:57.867017+00:00 server-1 kernel: ata6: SATA link down (SStatus 0 SControl 300)
+4526:2024-11-05T16:56:57.867019+00:00 server-1 kernel: ata7: SATA link down (SStatus 0 SControl 300)
+4527:2024-11-05T16:56:57.867019+00:00 server-1 kernel: ata8: SATA link down (SStatus 0 SControl 300)
+4528:2024-11-05T16:56:57.867027+00:00 server-1 kernel: ata10: SATA link down (SStatus 0 SControl 300)
+4529:2024-11-05T16:56:57.867030+00:00 server-1 kernel: ata11: SATA link down (SStatus 0 SControl 300)
+4530:2024-11-05T16:56:57.867031+00:00 server-1 kernel: ata12: SATA link down (SStatus 0 SControl 300)
+4531:2024-11-05T16:56:57.867032+00:00 server-1 kernel: ata13: SATA link down (SStatus 0 SControl 300)
+4532:2024-11-05T16:56:57.867039+00:00 server-1 kernel: ata14: SATA link down (SStatus 0 SControl 300)
+4533:2024-11-05T16:56:57.867039+00:00 server-1 kernel: ata15: SATA link down (SStatus 0 SControl 300)
+4534:2024-11-05T16:56:57.867081+00:00 server-1 kernel: ata16: SATA link down (SStatus 0 SControl 300)
+4535:2024-11-05T16:56:57.867084+00:00 server-1 kernel: ata18: SATA link down (SStatus 0 SControl 300)
+4536:2024-11-05T16:56:57.867085+00:00 server-1 kernel: ata19: SATA link down (SStatus 0 SControl 300)
+4537:2024-11-05T16:56:57.867085+00:00 server-1 kernel: ata20: SATA link down (SStatus 0 SControl 300)
+4538:2024-11-05T16:56:57.867086+00:00 server-1 kernel: ata21: SATA link down (SStatus 0 SControl 300)
+4539:2024-11-05T16:56:57.867086+00:00 server-1 kernel: ata22: SATA link down (SStatus 0 SControl 300)
+4540:2024-11-05T16:56:57.867093+00:00 server-1 kernel: ata23: SATA link down (SStatus 0 SControl 300)
+4541:2024-11-05T16:56:57.867100+00:00 server-1 kernel: ata24: SATA link down (SStatus 0 SControl 300)
+4542:2024-11-05T16:56:57.867101+00:00 server-1 kernel: ata26: SATA link down (SStatus 0 SControl 300)
+4543:2024-11-05T16:56:57.867102+00:00 server-1 kernel: ata27: SATA link down (SStatus 0 SControl 300)
+4544:2024-11-05T16:56:57.867109+00:00 server-1 kernel: ata28: SATA link down (SStatus 0 SControl 300)
+4545:2024-11-05T16:56:57.867110+00:00 server-1 kernel: ata29: SATA link down (SStatus 0 SControl 300)
+4546:2024-11-05T16:56:57.867117+00:00 server-1 kernel: ata30: SATA link down (SStatus 0 SControl 300)
+4547:2024-11-05T16:56:57.867118+00:00 server-1 kernel: ata31: SATA link down (SStatus 0 SControl 300)
+4548:2024-11-05T16:56:57.867119+00:00 server-1 kernel: ata32: SATA link down (SStatus 0 SControl 300)
+4584:2024-11-05T16:56:57.867210+00:00 server-1 kernel: systemd[1]: systemd 255.4-1ubuntu8.4 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT -GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY +P11KIT +QRENCODE +TPM2 +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -BPF_FRAMEWORK -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+4587:2024-11-05T16:56:57.867221+00:00 server-1 kernel: systemd[1]: Configuration file /run/systemd/system/systemd-networkd-wait-online.service.d/10-netplan.conf is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.
+4588:2024-11-05T16:56:57.867222+00:00 server-1 kernel: systemd[1]: Configuration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.
+4595:2024-11-05T16:56:57.867259+00:00 server-1 kernel: systemd[1]: Set up automount proc-sys-fs-binfmt_misc.automount - Arbitrary Executable File Formats File System Automount Point.
+4597:2024-11-05T16:56:57.867273+00:00 server-1 kernel: systemd[1]: Reached target integritysetup.target - Local Integrity Protected Volumes.
+4603:2024-11-05T16:56:57.867287+00:00 server-1 kernel: systemd[1]: Reached target veritysetup.target - Local Verity Protected Volumes.
+4604:2024-11-05T16:56:57.867288+00:00 server-1 kernel: systemd[1]: Reached target virt-guest-shutdown.target - libvirt guests shutdown target.
+4614:2024-11-05T16:56:57.867326+00:00 server-1 kernel: systemd[1]: Listening on systemd-networkd.socket - Network Service Netlink Socket.
+4623:2024-11-05T16:56:57.867393+00:00 server-1 kernel: systemd[1]: auth-rpcgss-module.service - Kernel Module supporting RPCSEC_GSS was skipped because of an unmet condition check (ConditionPathExists=/etc/krb5.keytab).
+4624:2024-11-05T16:56:57.867395+00:00 server-1 kernel: systemd[1]: Starting keyboard-setup.service - Set the console keyboard layout...
+4634:2024-11-05T16:56:57.867412+00:00 server-1 kernel: systemd[1]: netplan-ovs-cleanup.service - OpenVSwitch configuration for cleanup was skipped because of an unmet condition check (ConditionFileIsExecutable=/usr/bin/ovs-vsctl).
+4640:2024-11-05T16:56:57.867431+00:00 server-1 kernel: systemd[1]: systemd-tpm2-setup-early.service - TPM2 SRK Setup (Early) was skipped because of an unmet condition check (ConditionSecurity=measured-uki).
+4662:2024-11-05T16:56:57.867475+00:00 server-1 kernel: systemd[1]: Starting systemd-tmpfiles-setup-dev-early.service - Create Static Device Nodes in /dev gracefully...
+4663:2024-11-05T16:56:57.867485+00:00 server-1 kernel: systemd[1]: Finished keyboard-setup.service - Set the console keyboard layout.
+4668:2024-11-05T16:56:57.867500+00:00 server-1 kernel: systemd[1]: Finished systemd-tmpfiles-setup-dev-early.service - Create Static Device Nodes in /dev gracefully.
+4670:2024-11-05T16:56:57.867513+00:00 server-1 kernel: systemd[1]: systemd-hwdb-update.service - Rebuild Hardware Database was skipped because of an unmet condition check (ConditionNeedsUpdate=/etc).
+4674:2024-11-05T16:56:57.867521+00:00 server-1 kernel: systemd[1]: Starting systemd-tmpfiles-setup-dev.service - Create Static Device Nodes in /dev...
+4675:2024-11-05T16:56:57.867530+00:00 server-1 kernel: systemd[1]: systemd-tpm2-setup.service - TPM2 SRK Setup was skipped because of an unmet condition check (ConditionSecurity=measured-uki).
+4685:2024-11-05T16:56:57.867540+00:00 server-1 kernel: systemd[1]: Finished systemd-tmpfiles-setup-dev.service - Create Static Device Nodes in /dev.
+4699:2024-11-05T16:56:57.867580+00:00 server-1 kernel: systemd[1]: Mounting run-qemu.mount - Prepare /run/qemu to allow still running qemu binaries of former builds (after package upgrades) to fallback-load modules from there...
+4702:2024-11-05T16:56:57.867631+00:00 server-1 kernel: systemd[1]: Mounted run-qemu.mount - Prepare /run/qemu to allow still running qemu binaries of former builds (after package upgrades) to fallback-load modules from there.
+4747:2024-11-05T16:56:57.867740+00:00 server-1 kernel: kvm_amd: TSC scaling supported
+4750:2024-11-05T16:56:57.867749+00:00 server-1 kernel: kvm_amd: LBR virtualization supported
+4751:2024-11-05T16:56:57.867750+00:00 server-1 kernel: kvm_amd: Virtual VMLOAD VMSAVE supported
+4752:2024-11-05T16:56:57.867751+00:00 server-1 kernel: kvm_amd: Virtual GIF supported
+4764:2024-11-05T16:56:57.867780+00:00 server-1 kernel: EDAC MC0: Giving out device to module amd64_edac controller F19h_M10h: DEV 0000:00:18.3 (INTERRUPT)
+4815:2024-11-05T16:56:57.871243+00:00 server-1 sssd_nss[1854]: Starting up
+4816:2024-11-05T16:56:57.872296+00:00 server-1 sssd_ssh[1856]: Starting up
+4817:2024-11-05T16:56:57.873701+00:00 server-1 sssd_pam[1855]: Starting up
+4824:2024-11-05T16:56:57.907677+00:00 server-1 systemd[1]: Reached target nss-user-lookup.target - User and Group Name Lookups.
+4867:2024-11-05T16:56:57.955618+00:00 server-1 systemd[1]: Started unattended-upgrades.service - Unattended Upgrades Shutdown.
+4869:2024-11-05T16:56:58.485477+00:00 server-1 kernel: mlx5_core 0000:41:00.0 ens2f0np0: Link up
+4870:2024-11-05T16:56:58.490309+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Configuring with /run/systemd/network/10-netplan-ens2f1np1.network.
+4871:2024-11-05T16:56:59.248454+00:00 server-1 kernel: mlx5_core 0000:41:00.1 ens2f1np1: Link up
+4872:2024-11-05T16:56:59.253758+00:00 server-1 systemd-networkd[1662]: ens10f0: Link UP
+4873:2024-11-05T16:56:59.263140+00:00 server-1 systemd-networkd[1662]: ens10f1: Link UP
+4876:2024-11-05T16:56:59.266183+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Link UP
+4878:2024-11-05T16:56:59.274439+00:00 server-1 kernel: 8021q: 802.1Q VLAN Support v1.8
+4886:2024-11-05T16:56:59.291457+00:00 server-1 snapd[1732]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+4894:2024-11-05T16:56:59.363246+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Gained carrier
+4895:2024-11-05T16:56:59.371681+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Link UP
+4897:2024-11-05T16:56:59.396469+00:00 server-1 systemd-networkd[1662]: kvm: netdev ready
+4898:2024-11-05T16:56:59.399017+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Gained carrier
+4899:2024-11-05T16:56:59.412458+00:00 server-1 systemd-networkd[1662]: vm: netdev ready
+4900:2024-11-05T16:56:59.413463+00:00 server-1 systemd-networkd[1662]: kvm: Configuring with /run/systemd/network/10-netplan-kvm.network.
+4901:2024-11-05T16:56:59.413542+00:00 server-1 systemd-networkd[1662]: vm: Configuring with /run/systemd/network/10-netplan-vm.network.
+4902:2024-11-05T16:56:59.413570+00:00 server-1 systemd-networkd[1662]: kvm: Link UP
+4903:2024-11-05T16:56:59.413587+00:00 server-1 systemd-networkd[1662]: kvm: Gained carrier
+4908:2024-11-05T16:56:59.435745+00:00 server-1 systemd-networkd[1662]: vm: Link UP
+4909:2024-11-05T16:56:59.435767+00:00 server-1 systemd-networkd[1662]: vm: Gained carrier
+4910:2024-11-05T16:56:59.438464+00:00 server-1 snapd[1732]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+4912:2024-11-05T16:56:59.469473+00:00 server-1 systemd-networkd[1662]: kvm: DHCPv4 address 172.16.19.80/24, gateway 172.16.19.254 acquired from 172.16.19.254
+4914:2024-11-05T16:56:59.473232+00:00 server-1 systemd[1]: Started networkd-dispatcher.service - Dispatcher daemon for systemd-networkd.
+4920:2024-11-05T16:57:00.276772+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Gained IPv6LL
+4921:2024-11-05T16:57:00.596622+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Gained IPv6LL
+4922:2024-11-05T16:57:01.172602+00:00 server-1 systemd-networkd[1662]: vm: Gained IPv6LL
+4923:2024-11-05T16:57:01.492768+00:00 server-1 systemd-networkd[1662]: kvm: Gained IPv6LL
+4924:2024-11-05T16:57:01.930094+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:05.1/0000:07:00.0': not supported by any plugin
+4925:2024-11-05T16:57:01.930154+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:05.1/0000:07:00.1': not supported by any plugin
+4926:2024-11-05T16:57:01.930173+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.0': not supported by any plugin
+4927:2024-11-05T16:57:01.930192+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.1': not supported by any plugin
+4928:2024-11-05T16:57:01.930206+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.3': not supported by any plugin
+4939:2024-11-05T16:58:57.689087+00:00 server-1 systemd-networkd-wait-online[1715]: Timeout occurred while waiting for network connectivity.
+4940:2024-11-05T16:58:57.690677+00:00 server-1 systemd[1]: systemd-networkd-wait-online.service: Main process exited, code=exited, status=1/FAILURE
+4941:2024-11-05T16:58:57.690746+00:00 server-1 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+4942:2024-11-05T16:58:57.690882+00:00 server-1 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+4944:2024-11-05T16:58:57.692488+00:00 server-1 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+4945:2024-11-05T16:58:57.693201+00:00 server-1 systemd[1]: Started update-notifier-motd.timer - Check to see whether there is a new version of Ubuntu available.
+4984:2024-11-05T16:58:58.076754+00:00 server-1 systemd[1]: Starting plymouth-quit-wait.service - Hold until boot process finishes up...
+4986:2024-11-05T16:58:58.081096+00:00 server-1 systemd[1]: Finished plymouth-quit-wait.service - Hold until boot process finishes up.
+4996:2024-11-05T16:58:58.153434+00:00 server-1 systemd[1]: Starting systemd-update-utmp-runlevel.service - Record Runlevel Change in UTMP...
+4999:2024-11-05T16:58:58.236601+00:00 server-1 systemd[1]: Configuration file /run/systemd/system/systemd-networkd-wait-online.service.d/10-netplan.conf is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.
+5000:2024-11-05T16:58:58.237798+00:00 server-1 systemd[1]: Configuration file /run/systemd/system/netplan-ovs-cleanup.service is marked world-inaccessible. This has no effect as configuration data is accessible via APIs without restrictions. Proceeding anyway.
+5002:2024-11-05T16:58:58.359180+00:00 server-1 systemd[1]: systemd-update-utmp-runlevel.service: Deactivated successfully.
+5003:2024-11-05T16:58:58.359300+00:00 server-1 systemd[1]: Finished systemd-update-utmp-runlevel.service - Record Runlevel Change in UTMP.
+5004:2024-11-05T16:58:58.359638+00:00 server-1 systemd[1]: Startup finished in 1min 24.677s (firmware) + 37.440s (loader) + 11.602s (kernel) + 2min 3.218s (userspace) = 4min 16.939s.
+5005:2024-11-05T16:58:58.499002+00:00 server-1 systemd-networkd[1662]: /run/systemd/network/10-netplan-kvm.network: MTUBytes= in [Link] section and UseMTU= in [DHCP] section are set. Disabling UseMTU=.
+5006:2024-11-05T16:58:58.500039+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Reconfiguring with /run/systemd/network/10-netplan-ens2f1np1.network.
+5007:2024-11-05T16:58:58.511460+00:00 server-1 systemd-networkd[1662]: ens2f1np1: DHCPv6 lease lost
+5008:2024-11-05T16:58:58.520715+00:00 server-1 systemd-networkd[1662]: vm: Reconfiguring with /run/systemd/network/10-netplan-vm.network.
+5009:2024-11-05T16:58:58.536475+00:00 server-1 systemd-networkd[1662]: vm: DHCPv6 lease lost
+5010:2024-11-05T16:58:58.544657+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Reconfiguring with /run/systemd/network/10-netplan-ens2f0np0.network.
+5011:2024-11-05T16:58:58.553460+00:00 server-1 systemd-networkd[1662]: ens2f0np0: DHCPv6 lease lost
+5012:2024-11-05T16:58:58.559773+00:00 server-1 systemd-networkd[1662]: ens10f1: Reconfiguring with /run/systemd/network/10-netplan-ens10f1.network.
+5013:2024-11-05T16:58:58.560123+00:00 server-1 systemd-networkd[1662]: ens10f0: Reconfiguring with /run/systemd/network/10-netplan-ens10f0.network.
+5014:2024-11-05T16:58:58.560482+00:00 server-1 systemd-networkd[1662]: kvm: Reconfiguring with /run/systemd/network/10-netplan-kvm.network.
+5015:2024-11-05T16:58:58.560517+00:00 server-1 systemd-networkd[1662]: kvm: DHCP lease lost
+5016:2024-11-05T16:58:58.573496+00:00 server-1 systemd-networkd[1662]: kvm: DHCPv6 lease lost
+5017:2024-11-05T16:58:58.580014+00:00 server-1 systemd-networkd[1662]: ens2f1np1: Configuring with /run/systemd/network/10-netplan-ens2f1np1.network.
+5018:2024-11-05T16:58:58.602816+00:00 server-1 systemd-networkd[1662]: ens2f0np0: Configuring with /run/systemd/network/10-netplan-ens2f0np0.network.
+5019:2024-11-05T16:58:58.606544+00:00 server-1 systemd[1]: netplan-ovs-cleanup.service - OpenVSwitch configuration for cleanup was skipped because of an unmet condition check (ConditionFileIsExecutable=/usr/bin/ovs-vsctl).
+5020:2024-11-05T16:58:58.616660+00:00 server-1 systemd-networkd[1662]: vm: Configuring with /run/systemd/network/10-netplan-vm.network.
+5023:2024-11-05T16:58:58.640732+00:00 server-1 systemd-networkd[1662]: ens10f1: Configuring with /run/systemd/network/10-netplan-ens10f1.network.
+5024:2024-11-05T16:58:58.640960+00:00 server-1 systemd-networkd[1662]: kvm: Configuring with /run/systemd/network/10-netplan-kvm.network.
+5025:2024-11-05T16:58:58.654633+00:00 server-1 systemd-networkd[1662]: ens10f0: Configuring with /run/systemd/network/10-netplan-ens10f0.network.
+5026:2024-11-05T16:58:58.664467+00:00 server-1 systemd-networkd[1662]: kvm: DHCPv4 address 172.16.19.80/24, gateway 172.16.19.254 acquired from 172.16.19.254
+5044:2024-11-05T16:59:01.663453+00:00 server-1 afterboot_check.sh:                                  Dload  Upload   Total   Spent    Left  Speed
+5078:2024-11-05T16:59:02.152758+00:00 server-1 systemd[2326]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5082:2024-11-05T16:59:02.152882+00:00 server-1 systemd[2326]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+5083:2024-11-05T16:59:02.152901+00:00 server-1 systemd[2326]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5084:2024-11-05T16:59:02.152923+00:00 server-1 systemd[2326]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5085:2024-11-05T16:59:02.152941+00:00 server-1 systemd[2326]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5086:2024-11-05T16:59:02.152959+00:00 server-1 systemd[2326]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5087:2024-11-05T16:59:02.152977+00:00 server-1 systemd[2326]: Listening on keyboxd.socket - GnuPG public key management service.
+5091:2024-11-05T16:59:02.161494+00:00 server-1 systemd[2326]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5095:2024-11-05T16:59:02.161600+00:00 server-1 systemd[2326]: Startup finished in 108ms.
+5098:2024-11-05T16:59:02.491852+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:05.1/0000:07:00.0': not supported by any plugin
+5099:2024-11-05T16:59:02.491927+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.0': not supported by any plugin
+5100:2024-11-05T16:59:02.492796+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:05.1/0000:07:00.1': not supported by any plugin
+5101:2024-11-05T16:59:02.492816+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.1': not supported by any plugin
+5102:2024-11-05T16:59:02.493889+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.3': not supported by any plugin
+5113:2024-11-05T16:59:15.190326+00:00 server-1 systemd[2326]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5115:2024-11-05T16:59:15.190479+00:00 server-1 systemd[2326]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+5116:2024-11-05T16:59:15.190541+00:00 server-1 systemd[2326]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5117:2024-11-05T16:59:15.190602+00:00 server-1 systemd[2326]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5118:2024-11-05T16:59:15.198589+00:00 server-1 systemd[2326]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5119:2024-11-05T16:59:15.198677+00:00 server-1 systemd[2326]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5120:2024-11-05T16:59:15.198710+00:00 server-1 systemd[2326]: Closed keyboxd.socket - GnuPG public key management service.
+5123:2024-11-05T16:59:15.208957+00:00 server-1 systemd[2326]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5125:2024-11-05T16:59:15.209626+00:00 server-1 systemd[2326]: Reached target shutdown.target - Shutdown.
+5146:2024-11-05T17:01:11.505235+00:00 server-1 systemd[2536]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5150:2024-11-05T17:01:11.506000+00:00 server-1 systemd[2536]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+5151:2024-11-05T17:01:11.506059+00:00 server-1 systemd[2536]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5152:2024-11-05T17:01:11.506115+00:00 server-1 systemd[2536]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5153:2024-11-05T17:01:11.506680+00:00 server-1 systemd[2536]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5154:2024-11-05T17:01:11.506743+00:00 server-1 systemd[2536]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5155:2024-11-05T17:01:11.506805+00:00 server-1 systemd[2536]: Listening on keyboxd.socket - GnuPG public key management service.
+5159:2024-11-05T17:01:11.520750+00:00 server-1 systemd[2536]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5163:2024-11-05T17:01:11.520891+00:00 server-1 systemd[2536]: Startup finished in 95ms.
+5191:2024-11-05T17:01:20.770118+00:00 server-1 systemd-networkd[1662]: macvtap0: Link UP
+5192:2024-11-05T17:01:20.770534+00:00 server-1 systemd-networkd[1662]: macvtap0: Gained carrier
+5194:2024-11-05T17:01:21.406117+00:00 server-1 systemd-networkd[1662]: macvtap1: Link UP
+5195:2024-11-05T17:01:21.406193+00:00 server-1 systemd-networkd[1662]: macvtap1: Gained carrier
+5200:2024-11-05T17:01:22.740765+00:00 server-1 systemd-networkd[1662]: macvtap1: Gained IPv6LL
+5201:2024-11-05T17:01:22.740843+00:00 server-1 systemd-networkd[1662]: macvtap0: Gained IPv6LL
+5202:2024-11-05T17:01:23.464698+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.1': not supported by any plugin
+5210:2024-11-05T17:01:32.690250+00:00 server-1 systemd[2536]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5212:2024-11-05T17:01:32.690401+00:00 server-1 systemd[2536]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+5213:2024-11-05T17:01:32.690476+00:00 server-1 systemd[2536]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5214:2024-11-05T17:01:32.690540+00:00 server-1 systemd[2536]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5215:2024-11-05T17:01:32.706516+00:00 server-1 systemd[2536]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5216:2024-11-05T17:01:32.706586+00:00 server-1 systemd[2536]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5217:2024-11-05T17:01:32.706685+00:00 server-1 systemd[2536]: Closed keyboxd.socket - GnuPG public key management service.
+5220:2024-11-05T17:01:32.717019+00:00 server-1 systemd[2536]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5222:2024-11-05T17:01:32.717743+00:00 server-1 systemd[2536]: Reached target shutdown.target - Shutdown.
+5239:2024-11-05T17:01:54.370454+00:00 server-1 systemd[3976]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5243:2024-11-05T17:01:54.371187+00:00 server-1 systemd[3976]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+5244:2024-11-05T17:01:54.371224+00:00 server-1 systemd[3976]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5245:2024-11-05T17:01:54.371259+00:00 server-1 systemd[3976]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5246:2024-11-05T17:01:54.371932+00:00 server-1 systemd[3976]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5247:2024-11-05T17:01:54.371997+00:00 server-1 systemd[3976]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5248:2024-11-05T17:01:54.372056+00:00 server-1 systemd[3976]: Listening on keyboxd.socket - GnuPG public key management service.
+5252:2024-11-05T17:01:54.385279+00:00 server-1 systemd[3976]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5256:2024-11-05T17:01:54.385391+00:00 server-1 systemd[3976]: Startup finished in 104ms.
+5261:2024-11-05T17:01:55.451778+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+5262:2024-11-05T17:01:55.511045+00:00 server-1 systemd[1]: update-notifier-download.service: Deactivated successfully.
+5263:2024-11-05T17:01:55.511168+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+5291:2024-11-05T17:02:08.872493+00:00 server-1 systemd-networkd[1662]: macvtap2: Link UP
+5292:2024-11-05T17:02:08.872566+00:00 server-1 systemd-networkd[1662]: macvtap2: Gained carrier
+5293:2024-11-05T17:02:08.938962+00:00 server-1 systemd-networkd[1662]: macvtap3: Link UP
+5294:2024-11-05T17:02:08.939026+00:00 server-1 systemd-networkd[1662]: macvtap3: Gained carrier
+5297:2024-11-05T17:02:10.100742+00:00 server-1 systemd-networkd[1662]: macvtap3: Gained IPv6LL
+5300:2024-11-05T17:02:10.484590+00:00 server-1 systemd-networkd[1662]: macvtap2: Gained IPv6LL
+5301:2024-11-05T17:02:11.097891+00:00 server-1 ModemManager[1841]: <msg> [base-manager] couldn't check support for device '/sys/devices/pci0000:40/0000:40:01.1/0000:41:00.1': not supported by any plugin
+5309:2024-11-05T17:02:20.440165+00:00 server-1 systemd[3976]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5311:2024-11-05T17:02:20.440345+00:00 server-1 systemd[3976]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+5312:2024-11-05T17:02:20.440458+00:00 server-1 systemd[3976]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5313:2024-11-05T17:02:20.440527+00:00 server-1 systemd[3976]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5314:2024-11-05T17:02:20.456614+00:00 server-1 systemd[3976]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5315:2024-11-05T17:02:20.456699+00:00 server-1 systemd[3976]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5316:2024-11-05T17:02:20.456801+00:00 server-1 systemd[3976]: Closed keyboxd.socket - GnuPG public key management service.
+5319:2024-11-05T17:02:20.467679+00:00 server-1 systemd[3976]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5321:2024-11-05T17:02:20.468410+00:00 server-1 systemd[3976]: Reached target shutdown.target - Shutdown.
+5338:2024-11-05T17:02:39.648473+00:00 server-1 systemd[4946]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5342:2024-11-05T17:02:39.649208+00:00 server-1 systemd[4946]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+5343:2024-11-05T17:02:39.649255+00:00 server-1 systemd[4946]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5344:2024-11-05T17:02:39.649321+00:00 server-1 systemd[4946]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5345:2024-11-05T17:02:39.649903+00:00 server-1 systemd[4946]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5346:2024-11-05T17:02:39.649971+00:00 server-1 systemd[4946]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5347:2024-11-05T17:02:39.650033+00:00 server-1 systemd[4946]: Listening on keyboxd.socket - GnuPG public key management service.
+5351:2024-11-05T17:02:39.664017+00:00 server-1 systemd[4946]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5355:2024-11-05T17:02:39.664140+00:00 server-1 systemd[4946]: Startup finished in 106ms.
+5374:2024-11-05T17:02:51.940143+00:00 server-1 systemd[4946]: Stopped launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5376:2024-11-05T17:02:51.940283+00:00 server-1 systemd[4946]: Closed dirmngr.socket - GnuPG network certificate management daemon.
+5377:2024-11-05T17:02:51.940347+00:00 server-1 systemd[4946]: Closed gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5378:2024-11-05T17:02:51.940411+00:00 server-1 systemd[4946]: Closed gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5379:2024-11-05T17:02:51.953609+00:00 server-1 systemd[4946]: Stopping gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5380:2024-11-05T17:02:51.953722+00:00 server-1 systemd[4946]: Closed gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5381:2024-11-05T17:02:51.953749+00:00 server-1 systemd[4946]: Closed keyboxd.socket - GnuPG public key management service.
+5384:2024-11-05T17:02:51.964253+00:00 server-1 systemd[4946]: Closed gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5386:2024-11-05T17:02:51.964982+00:00 server-1 systemd[4946]: Reached target shutdown.target - Shutdown.
+5400:2024-11-05T17:11:55.451824+00:00 server-1 systemd[1]: Starting systemd-tmpfiles-clean.service - Cleanup of Temporary Directories...
+5402:2024-11-05T17:11:55.488005+00:00 server-1 systemd[1]: Finished systemd-tmpfiles-clean.service - Cleanup of Temporary Directories.
+5409:2024-11-05T17:13:16.567435+00:00 server-1 systemd[5459]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+5413:2024-11-05T17:13:16.568143+00:00 server-1 systemd[5459]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+5414:2024-11-05T17:13:16.568204+00:00 server-1 systemd[5459]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+5415:2024-11-05T17:13:16.568263+00:00 server-1 systemd[5459]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+5416:2024-11-05T17:13:16.568951+00:00 server-1 systemd[5459]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+5417:2024-11-05T17:13:16.569016+00:00 server-1 systemd[5459]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+5418:2024-11-05T17:13:16.569077+00:00 server-1 systemd[5459]: Listening on keyboxd.socket - GnuPG public key management service.
+5422:2024-11-05T17:13:16.583006+00:00 server-1 systemd[5459]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+5426:2024-11-05T17:13:16.583137+00:00 server-1 systemd[5459]: Startup finished in 111ms.
+
+[AUTH]
+49:2024-11-03T01:36:29.101482+00:00 server-1 sssd_be[1810]: Backend is offline
+50:2024-11-03T01:36:44.255077+00:00 server-1 sssd_be[1810]: Backend is online
+619:2024-11-03T18:41:18.097565+00:00 server-1 sssd_be[1810]: Backend is offline
+620:2024-11-03T18:41:32.809931+00:00 server-1 sssd_be[1810]: Backend is online
+693:2024-11-03T21:14:22.085717+00:00 server-1 sssd_be[1810]: Backend is offline
+695:2024-11-03T21:16:39.921872+00:00 server-1 sssd_be[1810]: Backend is online
+735:2024-11-03T22:21:32.011224+00:00 server-1 sssd_be[1810]: Backend is offline
+736:2024-11-03T22:23:40.472787+00:00 server-1 sssd_be[1810]: Backend is online
+767:2024-11-03T23:10:30.097535+00:00 server-1 sssd_be[1810]: Backend is offline
+768:2024-11-03T23:10:45.049858+00:00 server-1 sssd_be[1810]: Backend is online
+787:2024-11-03T23:58:33.087830+00:00 server-1 sssd_be[1810]: Backend is offline
+788:2024-11-03T23:58:48.877055+00:00 server-1 sssd_be[1810]: Backend is online
+2111:2024-11-05T16:54:35.289714+00:00 server-1 root: root [139808]: sudo reboot now [0]
+2153:2024-11-05T16:54:35.300102+00:00 server-1 systemd[1]: sssd-autofs.socket: Deactivated successfully.
+2154:2024-11-05T16:54:35.300251+00:00 server-1 systemd[1]: Closed sssd-autofs.socket - SSSD AutoFS Service responder socket.
+2155:2024-11-05T16:54:35.300423+00:00 server-1 systemd[1]: sssd-pac.socket: Deactivated successfully.
+2156:2024-11-05T16:54:35.300563+00:00 server-1 systemd[1]: Closed sssd-pac.socket - SSSD PAC Service responder socket.
+2157:2024-11-05T16:54:35.300713+00:00 server-1 systemd[1]: sssd-sudo.socket: Deactivated successfully.
+2158:2024-11-05T16:54:35.300842+00:00 server-1 systemd[1]: Closed sssd-sudo.socket - SSSD Sudo Service responder socket.
+2343:2024-11-05T16:56:57.861697+00:00 server-1 apparmor.systemd[1601]: Warning: found usr.sbin.sssd in /etc/apparmor.d/force-complain, forcing complain mode
+2348:2024-11-05T16:56:57.861701+00:00 server-1 apparmor.systemd[1601]: Warning from /etc/apparmor.d (/etc/apparmor.d/usr.sbin.sssd line 63): Caching disabled for: 'usr.sbin.sssd' due to force complain
+2850:2024-11-05T16:56:57.862353+00:00 server-1 systemd[1]: Starting polkit.service - Authorization Manager...
+2878:2024-11-05T16:56:57.862418+00:00 server-1 systemd[1]: Starting sssd.service - System Security Services Daemon...
+2947:2024-11-05T16:56:57.862574+00:00 server-1 dbus-daemon[1722]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.3' (uid=0 pid=1737 comm="/usr/libexec/udisks2/udisksd" label="unconfined")
+3786:2024-11-05T16:56:57.864680+00:00 server-1 sssd[1733]: Starting up
+4584:2024-11-05T16:56:57.867210+00:00 server-1 kernel: systemd[1]: systemd 255.4-1ubuntu8.4 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT -GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY +P11KIT +QRENCODE +TPM2 +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -BPF_FRAMEWORK -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+4815:2024-11-05T16:56:57.871243+00:00 server-1 sssd_nss[1854]: Starting up
+4816:2024-11-05T16:56:57.872296+00:00 server-1 sssd_ssh[1856]: Starting up
+4817:2024-11-05T16:56:57.873701+00:00 server-1 sssd_pam[1855]: Starting up
+4823:2024-11-05T16:56:57.906890+00:00 server-1 systemd[1]: Started sssd.service - System Security Services Daemon.
+4825:2024-11-05T16:56:57.925625+00:00 server-1 systemd[1]: Starting sssd-nss.socket - SSSD NSS Service responder socket...
+4826:2024-11-05T16:56:57.927781+00:00 server-1 systemd[1]: Starting sssd-pam-priv.socket - SSSD PAM Service responder private socket...
+4827:2024-11-05T16:56:57.928244+00:00 server-1 sssd_check_socket_activated_responders[1868]: [sssd] [main] (0x0070): Misconfiguration found for the nss responder.
+4828:2024-11-05T16:56:57.928264+00:00 server-1 sssd_check_socket_activated_responders[1868]: The nss responder has been configured to be socket-activated but it's still mentioned in the services' line in /etc/sssd/sssd.conf.
+4829:2024-11-05T16:56:57.928276+00:00 server-1 sssd_check_socket_activated_responders[1868]: Please, consider either adjusting your services' line in /etc/sssd/sssd.conf or disabling the nss's socket by calling:
+4830:2024-11-05T16:56:57.928378+00:00 server-1 sssd_check_socket_activated_responders[1868]: "systemctl disable sssd-nss.socket"
+4832:2024-11-05T16:56:57.931349+00:00 server-1 systemd[1]: sssd-nss.socket: Control process exited, code=exited, status=17/n/a
+4833:2024-11-05T16:56:57.931415+00:00 server-1 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+4834:2024-11-05T16:56:57.931552+00:00 server-1 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+4835:2024-11-05T16:56:57.933398+00:00 server-1 sssd_check_socket_activated_responders[1870]: [sssd] [main] (0x0070): Misconfiguration found for the pam responder.
+4836:2024-11-05T16:56:57.933422+00:00 server-1 sssd_check_socket_activated_responders[1870]: The pam responder has been configured to be socket-activated but it's still mentioned in the services' line in /etc/sssd/sssd.conf.
+4837:2024-11-05T16:56:57.933439+00:00 server-1 sssd_check_socket_activated_responders[1870]: Please, consider either adjusting your services' line in /etc/sssd/sssd.conf or disabling the pam's socket by calling:
+4838:2024-11-05T16:56:57.933704+00:00 server-1 sssd_check_socket_activated_responders[1870]: "systemctl disable sssd-pam.socket"
+4839:2024-11-05T16:56:57.933993+00:00 server-1 systemd[1]: Starting sssd-autofs.socket - SSSD AutoFS Service responder socket...
+4840:2024-11-05T16:56:57.935128+00:00 server-1 systemd[1]: Starting sssd-pac.socket - SSSD PAC Service responder socket...
+4841:2024-11-05T16:56:57.936334+00:00 server-1 systemd[1]: Starting sssd-pam.socket - SSSD PAM Service responder socket...
+4842:2024-11-05T16:56:57.937529+00:00 server-1 systemd[1]: Starting sssd-ssh.socket - SSSD SSH Service responder socket...
+4843:2024-11-05T16:56:57.939803+00:00 server-1 systemd[1]: Starting sssd-sudo.socket - SSSD Sudo Service responder socket...
+4844:2024-11-05T16:56:57.940859+00:00 server-1 systemd[1]: sssd-pam-priv.socket: Control process exited, code=exited, status=17/n/a
+4845:2024-11-05T16:56:57.940925+00:00 server-1 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+4846:2024-11-05T16:56:57.941063+00:00 server-1 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+4847:2024-11-05T16:56:57.942158+00:00 server-1 sssd_check_socket_activated_responders[1875]: [sssd] [main] (0x0070): Misconfiguration found for the pam responder.
+4848:2024-11-05T16:56:57.942185+00:00 server-1 sssd_check_socket_activated_responders[1875]: The pam responder has been configured to be socket-activated but it's still mentioned in the services' line in /etc/sssd/sssd.conf.
+4849:2024-11-05T16:56:57.942210+00:00 server-1 sssd_check_socket_activated_responders[1875]: Please, consider either adjusting your services' line in /etc/sssd/sssd.conf or disabling the pam's socket by calling:
+4850:2024-11-05T16:56:57.942329+00:00 server-1 sssd_check_socket_activated_responders[1875]: "systemctl disable sssd-pam.socket"
+4851:2024-11-05T16:56:57.942369+00:00 server-1 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+4852:2024-11-05T16:56:57.942999+00:00 server-1 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+4853:2024-11-05T16:56:57.943866+00:00 server-1 sssd_check_socket_activated_responders[1876]: [sssd] [main] (0x0070): Misconfiguration found for the ssh responder.
+4854:2024-11-05T16:56:57.943891+00:00 server-1 sssd_check_socket_activated_responders[1876]: The ssh responder has been configured to be socket-activated but it's still mentioned in the services' line in /etc/sssd/sssd.conf.
+4855:2024-11-05T16:56:57.943903+00:00 server-1 sssd_check_socket_activated_responders[1876]: Please, consider either adjusting your services' line in /etc/sssd/sssd.conf or disabling the ssh's socket by calling:
+4856:2024-11-05T16:56:57.944069+00:00 server-1 sssd_check_socket_activated_responders[1876]: "systemctl disable sssd-ssh.socket"
+4857:2024-11-05T16:56:57.944924+00:00 server-1 systemd[1]: sssd-pam.socket: Control process exited, code=exited, status=17/n/a
+4858:2024-11-05T16:56:57.944990+00:00 server-1 systemd[1]: sssd-pam.socket: Failed with result 'exit-code'.
+4859:2024-11-05T16:56:57.945134+00:00 server-1 systemd[1]: Closed sssd-pam.socket - SSSD PAM Service responder socket.
+4860:2024-11-05T16:56:57.945975+00:00 server-1 systemd[1]: sssd-ssh.socket: Control process exited, code=exited, status=17/n/a
+4861:2024-11-05T16:56:57.946035+00:00 server-1 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+4862:2024-11-05T16:56:57.946158+00:00 server-1 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+4863:2024-11-05T16:56:57.948190+00:00 server-1 systemd[1]: Listening on sssd-autofs.socket - SSSD AutoFS Service responder socket.
+4864:2024-11-05T16:56:57.948863+00:00 server-1 systemd[1]: Listening on sssd-pac.socket - SSSD PAC Service responder socket.
+4865:2024-11-05T16:56:57.949505+00:00 server-1 systemd[1]: Listening on sssd-sudo.socket - SSSD Sudo Service responder socket.
+5038:2024-11-05T16:58:59.652021+00:00 server-1 afterboot_check.sh: sshd service active - ok
+5039:2024-11-05T16:58:59.655997+00:00 server-1 afterboot_check.sh: sshd service enabled - ok

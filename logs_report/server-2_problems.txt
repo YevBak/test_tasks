@@ -1,0 +1,1156 @@
+40:2025-03-02T00:04:40.015622+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap107" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap107']' returned non-zero exit status 1.
+189:2025-03-02T00:10:11.228055+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap103" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap103']' returned non-zero exit status 1.
+353:2025-03-02T00:13:54.270580+00:00 server-2 sssd_be[1902]: Backend is offline
+450:2025-03-02T00:16:55.219652+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap110" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap110']' returned non-zero exit status 1.
+705:2025-03-02T00:23:01.430729+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap109" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap109']' returned non-zero exit status 1.
+902:2025-03-02T00:24:48.772951+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap108" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap108']' returned non-zero exit status 1.
+1106:2025-03-02T00:34:04.353895+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap113" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap113']' returned non-zero exit status 1.
+1398:2025-03-02T00:42:20.031993+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap111" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap111']' returned non-zero exit status 1.
+1511:2025-03-02T00:43:32.157356+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap112" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap112']' returned non-zero exit status 1.
+1654:2025-03-02T00:45:30.909333+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap115" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap115']' returned non-zero exit status 1.
+1805:2025-03-02T00:48:41.389302+00:00 server-2 sssd_be[1902]: Backend is offline
+1815:2025-03-02T01:06:06.642635+00:00 server-2 sssd_be[1902]: Backend is offline
+1857:2025-03-02T01:19:24.483441+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap114" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap114']' returned non-zero exit status 1.
+2022:2025-03-02T01:22:50.434620+00:00 server-2 sssd_be[1902]: Backend is offline
+2032:2025-03-02T01:40:20.311605+00:00 server-2 sssd_be[1902]: Backend is offline
+2034:2025-03-02T01:41:53.477626+00:00 server-2 sssd_be[1902]: Backend is offline
+2037:2025-03-02T01:45:23.934177+00:00 server-2 sssd_be[1902]: Backend is offline
+2052:2025-03-02T02:02:53.380607+00:00 server-2 sssd_be[1902]: Backend is offline
+2063:2025-03-02T02:20:35.397317+00:00 server-2 sssd_be[1902]: Backend is offline
+2077:2025-03-02T02:53:39.424610+00:00 server-2 sssd_be[1902]: Backend is offline
+2168:2025-03-02T03:53:19.607149+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap118" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap118']' returned non-zero exit status 1.
+2174:2025-03-02T03:53:19.661947+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap119" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap119']' returned non-zero exit status 1.
+2186:2025-03-02T03:53:20.342043+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap116" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap116']' returned non-zero exit status 1.
+2197:2025-03-02T03:53:21.356128+00:00 server-2 networkd-dispatcher[1826]: ERROR:Failed to get interface "macvtap117" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap117']' returned non-zero exit status 1.
+2210:2025-03-02T08:47:25.777464+00:00 server-2 (udev-worker)[1301]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+2211:2025-03-02T08:47:25.777468+00:00 server-2 (udev-worker)[1359]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+2214:2025-03-02T08:47:25.777481+00:00 server-2 (udev-worker)[1308]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+2215:2025-03-02T08:47:25.777484+00:00 server-2 (udev-worker)[1359]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+2218:2025-03-02T08:47:25.777494+00:00 server-2 (udev-worker)[1379]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+2221:2025-03-02T08:47:25.777507+00:00 server-2 (udev-worker)[1293]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+2240:2025-03-02T08:47:25.777572+00:00 server-2 (udev-worker)[1394]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+2421:2025-03-02T08:47:25.778303+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2423:2025-03-02T08:47:25.778311+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2593:2025-03-02T08:47:25.778800+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+3065:2025-03-02T08:47:25.779979+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+3079:2025-03-02T08:47:25.780044+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+3852:2025-03-02T08:47:25.782227+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+3854:2025-03-02T08:47:25.782229+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+3856:2025-03-02T08:47:25.782284+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+3858:2025-03-02T08:47:25.782288+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+3860:2025-03-02T08:47:25.782288+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+3862:2025-03-02T08:47:25.782290+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+3952:2025-03-02T08:47:25.782559+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+3954:2025-03-02T08:47:25.782561+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+3956:2025-03-02T08:47:25.782617+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+3958:2025-03-02T08:47:25.782618+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+4205:2025-03-02T08:47:25.783446+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+4315:2025-03-02T08:47:25.783860+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+4426:2025-03-02T08:47:25.784154+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+4427:2025-03-02T08:47:25.784155+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+4859:2025-03-02T08:47:25.807345+00:00 server-2 snapd[1837]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+4873:2025-03-02T08:47:25.860344+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+4874:2025-03-02T08:47:25.860519+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+4885:2025-03-02T08:47:25.868638+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+4886:2025-03-02T08:47:25.868767+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+4887:2025-03-02T08:47:25.871002+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+4888:2025-03-02T08:47:25.871612+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+4897:2025-03-02T08:47:25.873473+00:00 server-2 systemd[1]: sssd-pam.socket: Failed with result 'exit-code'.
+4901:2025-03-02T08:47:25.874385+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+4902:2025-03-02T08:47:25.874497+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+4915:2025-03-02T08:47:25.950063+00:00 server-2 snapd[1837]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+4966:2025-03-02T08:49:08.890454+00:00 server-2 sssd_be[1899]: Backend is offline
+4967:2025-03-02T08:49:25.816221+00:00 server-2 systemd-networkd-wait-online[1872]: Timeout occurred while waiting for network connectivity.
+4969:2025-03-02T08:49:25.816834+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+4970:2025-03-02T08:49:25.816978+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+4972:2025-03-02T08:49:25.819340+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+5279:2025-03-02T08:52:26.588647+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+5281:2025-03-02T08:52:26.653057+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+5284:2025-03-02T08:57:48.065552+00:00 server-2 systemd-networkd-wait-online[4593]: Timeout occurred while waiting for network connectivity.
+5285:2025-03-02T08:57:48.074412+00:00 server-2 apt-helper[4591]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+5432:2025-03-02T09:11:18.418440+00:00 server-2 fwupd[5741]: 09:11:18.418 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+5433:2025-03-02T09:11:20.130700+00:00 server-2 fwupd[5741]: 09:11:20.130 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+5434:2025-03-02T09:11:20.131470+00:00 server-2 fwupd[5741]: 09:11:20.131 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+5462:2025-03-02T09:51:16.241479+00:00 server-2 sssd_be[1899]: Backend is offline
+5464:2025-03-02T09:52:57.438758+00:00 server-2 sssd_be[1899]: Backend is offline
+5532:2025-03-02T09:55:48.204564+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap0" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap0']' returned non-zero exit status 1.
+5569:2025-03-02T09:55:57.251153+00:00 server-2 sssd_be[1899]: Backend is offline
+5735:2025-03-02T10:12:56.451747+00:00 server-2 sssd_be[1899]: Backend is offline
+5808:2025-03-02T10:27:05.339344+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap1" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap1']' returned non-zero exit status 1.
+6066:2025-03-02T10:37:14.912259+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap2" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap2']' returned non-zero exit status 1.
+6262:2025-03-02T10:50:29.116700+00:00 server-2 sssd_be[1899]: Backend is offline
+6305:2025-03-02T11:05:26.033504+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap4" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap4']' returned non-zero exit status 1.
+6477:2025-03-02T11:22:26.118729+00:00 server-2 sssd_be[1899]: Backend is offline
+6492:2025-03-02T11:40:26.595784+00:00 server-2 sssd_be[1899]: Backend is offline
+6538:2025-03-02T12:07:49.420604+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap6" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap6']' returned non-zero exit status 1.
+6766:2025-03-02T12:27:21.125731+00:00 server-2 sssd_be[1899]: Backend is offline
+6835:2025-03-02T12:34:58.201465+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap5" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap5']' returned non-zero exit status 1.
+6981:2025-03-02T12:44:26.925558+00:00 server-2 sssd_be[1899]: Backend is offline
+7031:2025-03-02T13:13:24.027067+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap3" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap3']' returned non-zero exit status 1.
+7204:2025-03-02T13:31:33.130726+00:00 server-2 sssd_be[1899]: Backend is offline
+7223:2025-03-02T14:02:47.662229+00:00 server-2 sssd_be[1899]: Backend is offline
+7290:2025-03-02T14:08:09.949391+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap9" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap9']' returned non-zero exit status 1.
+7436:2025-03-02T14:19:47.438778+00:00 server-2 sssd_be[1899]: Backend is offline
+7512:2025-03-02T14:55:08.610645+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap8" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap8']' returned non-zero exit status 1.
+7715:2025-03-02T15:13:44.334661+00:00 server-2 sssd_be[1899]: Backend is offline
+7726:2025-03-02T15:30:35.584740+00:00 server-2 sssd_be[1899]: Backend is offline
+7733:2025-03-02T15:47:36.497768+00:00 server-2 sssd_be[1899]: Backend is offline
+7743:2025-03-02T15:54:13.083704+00:00 server-2 sssd_be[1899]: Backend is offline
+7750:2025-03-02T16:01:48.315576+00:00 server-2 systemd-networkd-wait-online[22697]: Timeout occurred while waiting for network connectivity.
+7751:2025-03-02T16:01:48.325270+00:00 server-2 apt-helper[22695]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+7826:2025-03-02T16:36:18.608991+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap12" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap12']' returned non-zero exit status 1.
+8003:2025-03-02T16:59:56.236701+00:00 server-2 sssd_be[1899]: Backend is offline
+8008:2025-03-02T17:01:58.464755+00:00 server-2 sssd_be[1899]: Backend is offline
+8011:2025-03-02T17:05:18.368712+00:00 server-2 sssd_be[1899]: Backend is offline
+8058:2025-03-02T17:16:04.392722+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap13" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap13']' returned non-zero exit status 1.
+8317:2025-03-02T17:28:22.495291+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap14" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap14']' returned non-zero exit status 1.
+8520:2025-03-02T17:32:49.531181+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap15" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap15']' returned non-zero exit status 1.
+8732:2025-03-02T17:53:40.476827+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap10" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap10']' returned non-zero exit status 1.
+8747:2025-03-02T17:53:46.429357+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap7" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap7']' returned non-zero exit status 1.
+8974:2025-03-02T17:58:53.010818+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap18" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap18']' returned non-zero exit status 1.
+9231:2025-03-02T19:17:36.446815+00:00 server-2 sssd_be[1899]: Backend is offline
+9237:2025-03-02T19:27:20.388762+00:00 server-2 sssd_be[1899]: Backend is offline
+9252:2025-03-02T19:46:54.393911+00:00 server-2 sssd_be[1899]: Backend is offline
+9323:2025-03-02T20:52:23.471256+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap17" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap17']' returned non-zero exit status 1.
+9391:2025-03-02T20:52:34.921654+00:00 server-2 sssd_be[1899]: Backend is offline
+9639:2025-03-02T22:10:23.693020+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap16" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap16']' returned non-zero exit status 1.
+9889:2025-03-02T22:14:14.246353+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap21" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap21']' returned non-zero exit status 1.
+9943:2025-03-02T22:14:23.297180+00:00 server-2 sssd_be[1899]: Backend is offline
+10168:2025-03-02T22:19:25.139713+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap20" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap20']' returned non-zero exit status 1.
+10369:2025-03-02T22:33:03.438977+00:00 server-2 sssd_be[1899]: Backend is offline
+10408:2025-03-02T22:37:43.190747+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap19" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap19']' returned non-zero exit status 1.
+10525:2025-03-02T22:53:24.615737+00:00 server-2 sssd_be[1899]: Backend is offline
+10528:2025-03-02T22:56:41.537714+00:00 server-2 sssd_be[1899]: Backend is offline
+10533:2025-03-02T23:02:35.876836+00:00 server-2 sssd_be[1899]: Backend is offline
+10576:2025-03-02T23:15:41.822842+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap22" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap22']' returned non-zero exit status 1.
+10826:2025-03-02T23:23:44.915454+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap25" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap25']' returned non-zero exit status 1.
+10874:2025-03-02T23:24:09.376140+00:00 server-2 sssd_be[1899]: Backend is offline
+11058:2025-03-02T23:26:53.476054+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap26" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap26']' returned non-zero exit status 1.
+11131:2025-03-02T23:27:38.187706+00:00 server-2 sssd_be[1899]: Backend is offline
+11305:2025-03-02T23:43:19.950330+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap27" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap27']' returned non-zero exit status 1.
+11369:2025-03-02T23:43:39.987352+00:00 server-2 sssd_be[1899]: Backend is offline
+11554:2025-03-02T23:46:34.114387+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap28" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap28']' returned non-zero exit status 1.
+11772:2025-03-02T23:49:12.909712+00:00 server-2 sssd_be[1899]: Backend is offline
+11843:2025-03-02T23:55:02.542560+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap29" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap29']' returned non-zero exit status 1.
+12078:2025-03-03T00:02:05.297334+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap30" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap30']' returned non-zero exit status 1.
+12294:2025-03-03T00:10:48.359772+00:00 server-2 sssd_be[1899]: Backend is offline
+12337:2025-03-03T00:22:38.429558+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap11" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap11']' returned non-zero exit status 1.
+12601:2025-03-03T00:36:37.752345+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap24" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap24']' returned non-zero exit status 1.
+12808:2025-03-03T00:53:17.414748+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap23" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap23']' returned non-zero exit status 1.
+12975:2025-03-03T01:01:19.631647+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap34" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap34']' returned non-zero exit status 1.
+13251:2025-03-03T01:15:17.157899+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap32" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap32']' returned non-zero exit status 1.
+13324:2025-03-03T01:15:39.145704+00:00 server-2 sssd_be[1899]: Backend is offline
+13370:2025-03-03T01:16:31.284181+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap35" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap35']' returned non-zero exit status 1.
+13486:2025-03-03T01:20:39.219623+00:00 server-2 sssd_be[1899]: Backend is offline
+13489:2025-03-03T01:23:48.315546+00:00 server-2 systemd-networkd-wait-online[59205]: Timeout occurred while waiting for network connectivity.
+13490:2025-03-03T01:23:48.324817+00:00 server-2 apt-helper[59203]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+13573:2025-03-03T01:27:47.726947+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap33" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap33']' returned non-zero exit status 1.
+13711:2025-03-03T01:38:25.925006+00:00 server-2 sssd_be[1899]: Backend is offline
+13721:2025-03-03T01:56:20.941648+00:00 server-2 sssd_be[1899]: Backend is offline
+13770:2025-03-03T02:23:32.367521+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap31" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap31']' returned non-zero exit status 1.
+13940:2025-03-03T02:30:33.929877+00:00 server-2 sssd_be[1899]: Backend is offline
+13991:2025-03-03T02:36:23.491715+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap39" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap39']' returned non-zero exit status 1.
+13998:2025-03-03T02:36:23.545917+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap36" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap36']' returned non-zero exit status 1.
+14018:2025-03-03T02:36:25.150260+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap37" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap37']' returned non-zero exit status 1.
+14027:2025-03-03T02:36:25.844094+00:00 server-2 networkd-dispatcher[1831]: ERROR:Failed to get interface "macvtap38" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap38']' returned non-zero exit status 1.
+14039:2025-03-03T09:07:21.669200+00:00 server-2 (udev-worker)[1291]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+14054:2025-03-03T09:07:21.669222+00:00 server-2 (udev-worker)[1374]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+14071:2025-03-03T09:07:21.669237+00:00 server-2 (udev-worker)[1402]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+14079:2025-03-03T09:07:21.669242+00:00 server-2 (udev-worker)[1357]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+14092:2025-03-03T09:07:21.669252+00:00 server-2 (udev-worker)[1296]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+14099:2025-03-03T09:07:21.669257+00:00 server-2 (udev-worker)[1409]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+14106:2025-03-03T09:07:21.669262+00:00 server-2 (udev-worker)[1374]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+14507:2025-03-03T09:07:21.669776+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+14521:2025-03-03T09:07:21.669785+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+14733:2025-03-03T09:07:21.670290+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+14748:2025-03-03T09:07:21.670360+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+14758:2025-03-03T09:07:21.670375+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+15681:2025-03-03T09:07:21.672874+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+15683:2025-03-03T09:07:21.672881+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+15685:2025-03-03T09:07:21.672930+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+15687:2025-03-03T09:07:21.672934+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+15689:2025-03-03T09:07:21.672935+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+15691:2025-03-03T09:07:21.672937+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+15782:2025-03-03T09:07:21.673207+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+15784:2025-03-03T09:07:21.673208+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+15786:2025-03-03T09:07:21.673266+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+15788:2025-03-03T09:07:21.673268+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+16035:2025-03-03T09:07:21.674059+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+16142:2025-03-03T09:07:21.674406+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+16252:2025-03-03T09:07:21.674695+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+16253:2025-03-03T09:07:21.674695+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+16694:2025-03-03T09:07:21.730136+00:00 server-2 snapd[1846]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+16706:2025-03-03T09:07:21.738587+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+16707:2025-03-03T09:07:21.738711+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+16714:2025-03-03T09:07:21.740741+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+16715:2025-03-03T09:07:21.740847+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+16716:2025-03-03T09:07:21.741981+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+16717:2025-03-03T09:07:21.742534+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+16729:2025-03-03T09:07:21.755587+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+16730:2025-03-03T09:07:21.755708+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+16743:2025-03-03T09:07:21.850074+00:00 server-2 snapd[1846]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+16792:2025-03-03T09:09:21.854099+00:00 server-2 systemd-networkd-wait-online[1885]: Timeout occurred while waiting for network connectivity.
+16794:2025-03-03T09:09:21.855094+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+16795:2025-03-03T09:09:21.855235+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+16797:2025-03-03T09:09:21.857671+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+17108:2025-03-03T09:12:24.411397+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+17110:2025-03-03T09:12:24.474932+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+17117:2025-03-03T09:20:54.854048+00:00 server-2 systemd-networkd-wait-online[4785]: Timeout occurred while waiting for network connectivity.
+17118:2025-03-03T09:20:54.862252+00:00 server-2 apt-helper[4781]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+17138:2025-03-03T09:33:25.521366+00:00 server-2 fwupd[5127]: 09:33:25.521 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+17139:2025-03-03T09:33:27.393878+00:00 server-2 fwupd[5127]: 09:33:27.393 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+17140:2025-03-03T09:33:27.394549+00:00 server-2 fwupd[5127]: 09:33:27.394 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+17396:2025-03-03T09:49:22.128438+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap3" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap3']' returned non-zero exit status 1.
+17551:2025-03-03T09:50:39.183865+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap2" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap2']' returned non-zero exit status 1.
+17780:2025-03-03T09:53:02.888334+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap4" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap4']' returned non-zero exit status 1.
+17922:2025-03-03T09:54:33.934516+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap5" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap5']' returned non-zero exit status 1.
+18130:2025-03-03T10:00:10.918106+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap7" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap7']' returned non-zero exit status 1.
+18243:2025-03-03T10:01:11.689374+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap0" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap0']' returned non-zero exit status 1.
+18508:2025-03-03T10:06:00.743861+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap6" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap6']' returned non-zero exit status 1.
+18675:2025-03-03T10:07:45.889922+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap9" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap9']' returned non-zero exit status 1.
+18882:2025-03-03T10:10:54.046645+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap11" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap11']' returned non-zero exit status 1.
+19167:2025-03-03T10:18:45.458433+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap8" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap8']' returned non-zero exit status 1.
+19430:2025-03-03T11:31:51.910168+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap10" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap10']' returned non-zero exit status 1.
+19685:2025-03-03T11:36:50.509624+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap14" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap14']' returned non-zero exit status 1.
+19920:2025-03-03T11:52:36.459820+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap15" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap15']' returned non-zero exit status 1.
+20089:2025-03-03T12:55:37.454951+00:00 server-2 sssd_be[1903]: Backend is offline
+20142:2025-03-03T13:05:17.112131+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap1" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap1']' returned non-zero exit status 1.
+20393:2025-03-03T13:27:55.452356+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap13" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap13']' returned non-zero exit status 1.
+20597:2025-03-03T13:31:59.009731+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap18" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap18']' returned non-zero exit status 1.
+20843:2025-03-03T13:35:22.466531+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap19" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap19']' returned non-zero exit status 1.
+21046:2025-03-03T13:40:37.121225+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap20" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap20']' returned non-zero exit status 1.
+21270:2025-03-03T14:12:18.125688+00:00 server-2 sssd_be[1903]: Backend is offline
+21286:2025-03-03T14:47:48.787687+00:00 server-2 sssd_be[1903]: Backend is offline
+21311:2025-03-03T15:11:15.583949+00:00 server-2 sssd_be[1903]: Backend is offline
+21314:2025-03-03T15:16:36.502617+00:00 server-2 sssd_be[1903]: Backend is offline
+21385:2025-03-03T15:20:48.665955+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap12" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap12']' returned non-zero exit status 1.
+21556:2025-03-03T15:23:14.240189+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap16" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap16']' returned non-zero exit status 1.
+21788:2025-03-03T15:55:03.854147+00:00 server-2 systemd-networkd-wait-online[33799]: Timeout occurred while waiting for network connectivity.
+21789:2025-03-03T15:55:03.868975+00:00 server-2 apt-helper[33797]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+21796:2025-03-03T16:09:56.436181+00:00 server-2 sssd_be[1903]: Backend is offline
+21848:2025-03-03T16:14:46.242658+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap21" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap21']' returned non-zero exit status 1.
+22061:2025-03-03T16:28:19.966769+00:00 server-2 sssd_be[1903]: Backend is offline
+22063:2025-03-03T16:30:02.807178+00:00 server-2 sssd_be[1903]: Backend is offline
+22110:2025-03-03T16:40:38.688152+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap24" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap24']' returned non-zero exit status 1.
+22276:2025-03-03T16:47:00.033692+00:00 server-2 sssd_be[1903]: Backend is offline
+22318:2025-03-03T16:59:54.412366+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap22" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap22']' returned non-zero exit status 1.
+22575:2025-03-03T17:03:44.382303+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap23" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap23']' returned non-zero exit status 1.
+22776:2025-03-03T17:06:44.717547+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap17" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap17']' returned non-zero exit status 1.
+22982:2025-03-03T17:11:13.188159+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap28" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap28']' returned non-zero exit status 1.
+23238:2025-03-03T17:19:52.680130+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap26" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap26']' returned non-zero exit status 1.
+23253:2025-03-03T17:20:01.731138+00:00 server-2 sssd_be[1903]: Backend is offline
+23419:2025-03-03T17:54:14.262445+00:00 server-2 sssd_be[1903]: Backend is offline
+23422:2025-03-03T17:56:02.681812+00:00 server-2 sssd_be[1903]: Backend is offline
+23466:2025-03-03T18:13:52.064008+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap30" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap30']' returned non-zero exit status 1.
+23524:2025-03-03T18:14:01.108556+00:00 server-2 sssd_be[1903]: Backend is offline
+23679:2025-03-03T18:16:15.536566+00:00 server-2 sssd_be[1903]: Backend is offline
+23716:2025-03-03T18:16:42.389339+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap27" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap27']' returned non-zero exit status 1.
+23921:2025-03-03T18:24:14.289387+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap32" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap32']' returned non-zero exit status 1.
+24104:2025-03-03T19:03:23.193396+00:00 server-2 sssd_be[1903]: Backend is offline
+24107:2025-03-03T19:03:53.354052+00:00 server-2 systemd-networkd-wait-online[48246]: Timeout occurred while waiting for network connectivity.
+24108:2025-03-03T19:03:53.363644+00:00 server-2 apt-helper[48244]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+24180:2025-03-03T19:11:52.141233+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap33" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap33']' returned non-zero exit status 1.
+24407:2025-03-03T19:19:09.458076+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap34" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap34']' returned non-zero exit status 1.
+24655:2025-03-03T19:59:55.137391+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap35" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap35']' returned non-zero exit status 1.
+24896:2025-03-03T20:39:46.662550+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap29" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap29']' returned non-zero exit status 1.
+25046:2025-03-03T20:40:56.656154+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap31" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap31']' returned non-zero exit status 1.
+25256:2025-03-03T20:56:51.997844+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap38" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap38']' returned non-zero exit status 1.
+25445:2025-03-03T21:47:34.394510+00:00 server-2 sssd_be[1903]: Backend is offline
+25490:2025-03-03T22:03:37.744873+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap39" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap39']' returned non-zero exit status 1.
+25658:2025-03-03T22:06:47.420528+00:00 server-2 sssd_be[1903]: Backend is offline
+25700:2025-03-03T22:17:29.401772+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap37" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap37']' returned non-zero exit status 1.
+25919:2025-03-03T22:24:24.507318+00:00 server-2 sssd_be[1903]: Backend is offline
+25929:2025-03-03T22:44:00.504564+00:00 server-2 sssd_be[1903]: Backend is offline
+25971:2025-03-03T22:50:22.228282+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap36" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap36']' returned non-zero exit status 1.
+26174:2025-03-03T22:53:38.760817+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap40" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap40']' returned non-zero exit status 1.
+26429:2025-03-03T22:57:50.259133+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap42" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap42']' returned non-zero exit status 1.
+26632:2025-03-03T23:01:24.664632+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap43" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap43']' returned non-zero exit status 1.
+26770:2025-03-03T23:02:18.686581+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap44" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap44']' returned non-zero exit status 1.
+26828:2025-03-03T23:03:19.686825+00:00 server-2 sssd_be[1903]: Backend is offline
+26983:2025-03-03T23:05:48.943210+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap46" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap46']' returned non-zero exit status 1.
+27214:2025-03-03T23:49:51.739674+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap45" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap45']' returned non-zero exit status 1.
+27461:2025-03-03T23:58:59.017186+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap48" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap48']' returned non-zero exit status 1.
+27671:2025-03-04T00:04:08.181623+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap49" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap49']' returned non-zero exit status 1.
+27790:2025-03-04T00:25:46.454459+00:00 server-2 sssd_be[1903]: Backend is offline
+27907:2025-03-04T00:36:22.134464+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap41" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap41']' returned non-zero exit status 1.
+28147:2025-03-04T00:40:06.251105+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap51" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap51']' returned non-zero exit status 1.
+28366:2025-03-04T00:45:35.238985+00:00 server-2 sssd_be[1903]: Backend is offline
+28374:2025-03-04T00:50:41.863523+00:00 server-2 sssd_be[1903]: Backend is offline
+28441:2025-03-04T00:51:39.298383+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap50" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap50']' returned non-zero exit status 1.
+28666:2025-03-04T00:54:55.937794+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap47" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap47']' returned non-zero exit status 1.
+28750:2025-03-04T00:55:36.011901+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap53" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap53']' returned non-zero exit status 1.
+28986:2025-03-04T01:25:22.456519+00:00 server-2 sssd_be[1903]: Backend is offline
+28988:2025-03-04T01:28:13.243357+00:00 server-2 sssd_be[1903]: Backend is offline
+29033:2025-03-04T01:44:04.461888+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap52" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap52']' returned non-zero exit status 1.
+29144:2025-03-04T01:59:50.125550+00:00 server-2 sssd_be[1903]: Backend is offline
+29149:2025-03-04T02:02:06.673490+00:00 server-2 sssd_be[1903]: Backend is offline
+29152:2025-03-04T02:07:16.275322+00:00 server-2 sssd_be[1903]: Backend is offline
+29194:2025-03-04T02:15:41.092860+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap25" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap25']' returned non-zero exit status 1.
+29304:2025-03-04T02:24:36.065174+00:00 server-2 sssd_be[1903]: Backend is offline
+29356:2025-03-04T02:52:21.192582+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap56" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap56']' returned non-zero exit status 1.
+29370:2025-03-04T02:52:23.506211+00:00 server-2 networkd-dispatcher[1840]: ERROR:Failed to get interface "macvtap54" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap54']' returned non-zero exit status 1.
+29398:2025-03-04T09:17:55.573074+00:00 server-2 (udev-worker)[1281]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+29401:2025-03-04T09:17:55.573085+00:00 server-2 (udev-worker)[1358]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+29402:2025-03-04T09:17:55.573088+00:00 server-2 (udev-worker)[1362]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+29403:2025-03-04T09:17:55.573093+00:00 server-2 (udev-worker)[1364]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+29404:2025-03-04T09:17:55.573097+00:00 server-2 (udev-worker)[1398]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+29409:2025-03-04T09:17:55.573116+00:00 server-2 (udev-worker)[1295]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+29426:2025-03-04T09:17:55.573175+00:00 server-2 (udev-worker)[1358]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+29728:2025-03-04T09:17:55.573829+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+29739:2025-03-04T09:17:55.573839+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+29922:2025-03-04T09:17:55.574289+00:00 server-2 snapd[1819]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+30127:2025-03-04T09:17:55.574710+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+30130:2025-03-04T09:17:55.574764+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+30762:2025-03-04T09:17:55.576888+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+30764:2025-03-04T09:17:55.576897+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+30767:2025-03-04T09:17:55.576943+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+30769:2025-03-04T09:17:55.576946+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+30771:2025-03-04T09:17:55.576947+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+30773:2025-03-04T09:17:55.576951+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+30868:2025-03-04T09:17:55.577335+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+30870:2025-03-04T09:17:55.577337+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+30873:2025-03-04T09:17:55.577400+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+30875:2025-03-04T09:17:55.577401+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+31144:2025-03-04T09:17:55.578820+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+31272:2025-03-04T09:17:55.579478+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+31383:2025-03-04T09:17:55.580075+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+31387:2025-03-04T09:17:55.580077+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+32057:2025-03-04T09:17:55.600682+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+32215:2025-03-04T09:17:55.610630+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+32247:2025-03-04T09:17:55.611697+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+32311:2025-03-04T09:17:55.613917+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+32346:2025-03-04T09:17:55.615227+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+32379:2025-03-04T09:17:55.616184+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+32411:2025-03-04T09:17:55.616930+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+32604:2025-03-04T09:17:55.622271+00:00 server-2 systemd[1]: Finished grub-initrd-fallback.service - GRUB failed boot detection.
+32736:2025-03-04T09:17:55.625635+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+32769:2025-03-04T09:17:55.625995+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+32966:2025-03-04T09:17:55.646522+00:00 server-2 snapd[1819]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+32976:2025-03-04T09:17:56.463886+00:00 server-2 sssd_be[1845]: Backend is offline
+33025:2025-03-04T09:19:55.824292+00:00 server-2 systemd-networkd-wait-online[1942]: Timeout occurred while waiting for network connectivity.
+33027:2025-03-04T09:19:55.825067+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+33028:2025-03-04T09:19:55.825198+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+33030:2025-03-04T09:19:55.827345+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+33346:2025-03-04T09:22:56.840972+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+33348:2025-03-04T09:22:56.907098+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+33366:2025-03-04T09:58:46.324291+00:00 server-2 systemd-networkd-wait-online[5328]: Timeout occurred while waiting for network connectivity.
+33367:2025-03-04T09:58:46.333294+00:00 server-2 apt-helper[5326]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+33384:2025-03-04T10:05:16.599262+00:00 server-2 fwupd[5586]: 10:05:16.598 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+33385:2025-03-04T10:05:18.314866+00:00 server-2 fwupd[5586]: 10:05:18.314 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+33386:2025-03-04T10:05:18.315483+00:00 server-2 fwupd[5586]: 10:05:18.315 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+33699:2025-03-04T10:20:52.082726+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap0" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap0']' returned non-zero exit status 1.
+33978:2025-03-04T11:10:41.790531+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap1" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap1']' returned non-zero exit status 1.
+34277:2025-03-04T12:20:16.519828+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap4" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap4']' returned non-zero exit status 1.
+34550:2025-03-04T13:00:38.917865+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap2" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap2']' returned non-zero exit status 1.
+34776:2025-03-04T13:08:09.189804+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap6" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap6']' returned non-zero exit status 1.
+34979:2025-03-04T13:13:13.483315+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap5" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap5']' returned non-zero exit status 1.
+35163:2025-03-04T13:52:24.413098+00:00 server-2 sssd_be[1845]: Backend is offline
+35234:2025-03-04T14:04:17.432046+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap3" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap3']' returned non-zero exit status 1.
+35447:2025-03-04T14:39:27.074321+00:00 server-2 systemd-networkd-wait-online[19109]: Timeout occurred while waiting for network connectivity.
+35448:2025-03-04T14:39:27.085706+00:00 server-2 apt-helper[19107]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+35458:2025-03-04T14:39:33.481126+00:00 server-2 python3[19176]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+35514:2025-03-04T14:51:18.947484+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap10" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap10']' returned non-zero exit status 1.
+35740:2025-03-04T15:11:05.117097+00:00 server-2 sssd_be[1845]: Backend is offline
+35742:2025-03-04T15:12:33.700066+00:00 server-2 sssd_be[1845]: Backend is offline
+35745:2025-03-04T15:16:02.572380+00:00 server-2 sssd_be[1845]: Backend is offline
+35760:2025-03-04T15:49:41.444144+00:00 server-2 sssd_be[1845]: Backend is offline
+35765:2025-03-04T15:53:16.783229+00:00 server-2 sssd_be[1845]: Backend is offline
+35771:2025-03-04T15:57:14.099190+00:00 server-2 sssd_be[1845]: Backend is offline
+35776:2025-03-04T16:00:41.599052+00:00 server-2 sssd_be[1845]: Backend is offline
+35778:2025-03-04T16:04:23.993012+00:00 server-2 sssd_be[1845]: Backend is offline
+35781:2025-03-04T16:08:15.867265+00:00 server-2 sssd_be[1845]: Backend is offline
+35783:2025-03-04T16:10:07.419153+00:00 server-2 sssd_be[1845]: Backend is offline
+35828:2025-03-04T16:23:44.364287+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap7" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap7']' returned non-zero exit status 1.
+36039:2025-03-04T16:28:20.242084+00:00 server-2 sssd_be[1845]: Backend is offline
+36106:2025-03-04T16:28:45.439573+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap11" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap11']' returned non-zero exit status 1.
+36252:2025-03-04T16:45:08.528217+00:00 server-2 sssd_be[1845]: Backend is offline
+36254:2025-03-04T16:46:47.449773+00:00 server-2 sssd_be[1845]: Backend is offline
+36324:2025-03-04T16:54:46.468213+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap12" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap12']' returned non-zero exit status 1.
+36557:2025-03-04T17:02:26.430062+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap9" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap9']' returned non-zero exit status 1.
+36736:2025-03-04T17:10:07.749168+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap14" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap14']' returned non-zero exit status 1.
+36960:2025-03-04T17:22:14.598821+00:00 server-2 sssd_be[1845]: Backend is offline
+36969:2025-03-04T17:22:22.363024+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap13" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap13']' returned non-zero exit status 1.
+37133:2025-03-04T17:24:29.264945+00:00 server-2 sssd_be[1845]: Backend is offline
+37136:2025-03-04T17:26:40.653142+00:00 server-2 sssd_be[1845]: Backend is offline
+37174:2025-03-04T17:29:51.777010+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap17" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap17']' returned non-zero exit status 1.
+37381:2025-03-04T17:43:27.061795+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap18" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap18']' returned non-zero exit status 1.
+37601:2025-03-04T18:00:20.488105+00:00 server-2 sssd_be[1845]: Backend is offline
+37617:2025-03-04T18:35:51.437092+00:00 server-2 sssd_be[1845]: Backend is offline
+37684:2025-03-04T18:50:06.631846+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap19" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap19']' returned non-zero exit status 1.
+37945:2025-03-04T18:53:30.093466+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap8" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap8']' returned non-zero exit status 1.
+38120:2025-03-04T19:03:58.671114+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap15" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap15']' returned non-zero exit status 1.
+38380:2025-03-04T19:19:32.664897+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap22" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap22']' returned non-zero exit status 1.
+38638:2025-03-04T19:26:35.090532+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap16" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap16']' returned non-zero exit status 1.
+38856:2025-03-04T19:29:04.386093+00:00 server-2 sssd_be[1845]: Backend is offline
+38876:2025-03-04T20:01:07.338405+00:00 server-2 sssd_be[1845]: Backend is offline
+38927:2025-03-04T20:05:36.163462+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap24" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap24']' returned non-zero exit status 1.
+39180:2025-03-04T20:22:42.023968+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap20" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap20']' returned non-zero exit status 1.
+39294:2025-03-04T20:34:54.352098+00:00 server-2 sssd_be[1845]: Backend is offline
+39332:2025-03-04T20:37:44.731661+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap26" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap26']' returned non-zero exit status 1.
+39451:2025-03-04T20:55:05.233272+00:00 server-2 sssd_be[1845]: Backend is offline
+39453:2025-03-04T20:56:47.494253+00:00 server-2 sssd_be[1845]: Backend is offline
+39455:2025-03-04T20:59:12.510119+00:00 server-2 sssd_be[1845]: Backend is offline
+39496:2025-03-04T21:08:55.173332+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap23" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap23']' returned non-zero exit status 1.
+39647:2025-03-04T21:15:51.956861+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap28" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap28']' returned non-zero exit status 1.
+39812:2025-03-04T21:17:54.545012+00:00 server-2 sssd_be[1845]: Backend is offline
+39853:2025-03-04T21:22:51.287740+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap21" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap21']' returned non-zero exit status 1.
+40003:2025-03-04T21:33:28.857053+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap29" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap29']' returned non-zero exit status 1.
+40196:2025-03-04T22:37:56.873014+00:00 server-2 sssd_be[1845]: Backend is offline
+40243:2025-03-04T22:50:16.783741+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap30" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap30']' returned non-zero exit status 1.
+40454:2025-03-04T22:57:20.587201+00:00 server-2 sssd_be[1845]: Backend is offline
+40495:2025-03-04T23:00:41.303239+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap32" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap32']' returned non-zero exit status 1.
+40741:2025-03-04T23:05:07.180063+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap33" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap33']' returned non-zero exit status 1.
+40917:2025-03-04T23:20:46.574274+00:00 server-2 systemd-networkd-wait-online[55303]: Timeout occurred while waiting for network connectivity.
+40918:2025-03-04T23:20:46.583326+00:00 server-2 apt-helper[55300]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+40970:2025-03-04T23:28:02.995692+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap34" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap34']' returned non-zero exit status 1.
+41041:2025-03-04T23:28:32.178561+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap31" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap31']' returned non-zero exit status 1.
+41263:2025-03-04T23:31:40.939289+00:00 server-2 sssd_be[1845]: Backend is offline
+41265:2025-03-04T23:33:35.432060+00:00 server-2 sssd_be[1845]: Backend is offline
+41304:2025-03-04T23:38:30.960056+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap27" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap27']' returned non-zero exit status 1.
+41417:2025-03-04T23:52:19.977786+00:00 server-2 sssd_be[1845]: Backend is offline
+41443:2025-03-05T00:25:45.999074+00:00 server-2 sssd_be[1845]: Backend is offline
+41467:2025-03-05T01:12:56.114053+00:00 server-2 sssd_be[1845]: Backend is offline
+41546:2025-03-05T02:36:23.364855+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap25" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap25']' returned non-zero exit status 1.
+41761:2025-03-05T02:40:20.367858+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap38" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap38']' returned non-zero exit status 1.
+41767:2025-03-05T02:40:20.421865+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap37" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap37']' returned non-zero exit status 1.
+41775:2025-03-05T02:40:20.561054+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap35" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap35']' returned non-zero exit status 1.
+41789:2025-03-05T02:40:25.193097+00:00 server-2 networkd-dispatcher[1807]: ERROR:Failed to get interface "macvtap36" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap36']' returned non-zero exit status 1.
+41837:2025-03-05T09:04:57.979750+00:00 server-2 (udev-worker)[1297]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+41860:2025-03-05T09:04:57.979767+00:00 server-2 (udev-worker)[1355]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+41863:2025-03-05T09:04:57.979772+00:00 server-2 (udev-worker)[1289]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+41887:2025-03-05T09:04:57.979784+00:00 server-2 (udev-worker)[1355]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+41893:2025-03-05T09:04:57.979790+00:00 server-2 (udev-worker)[1294]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+41901:2025-03-05T09:04:57.979795+00:00 server-2 (udev-worker)[1347]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+41910:2025-03-05T09:04:57.979803+00:00 server-2 (udev-worker)[1278]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+42346:2025-03-05T09:04:57.980386+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+42354:2025-03-05T09:04:57.980397+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+42470:2025-03-05T09:04:57.980543+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+42485:2025-03-05T09:04:57.980608+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+42612:2025-03-05T09:04:57.980859+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+43406:2025-03-05T09:04:57.982862+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+43410:2025-03-05T09:04:57.982872+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+43420:2025-03-05T09:04:57.982930+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+43422:2025-03-05T09:04:57.982935+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+43424:2025-03-05T09:04:57.982937+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+43427:2025-03-05T09:04:57.982941+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+43553:2025-03-05T09:04:57.983324+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+43556:2025-03-05T09:04:57.983326+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+43571:2025-03-05T09:04:57.983390+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+43574:2025-03-05T09:04:57.983392+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+43936:2025-03-05T09:04:57.984280+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+44058:2025-03-05T09:04:57.984631+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+44195:2025-03-05T09:04:57.984992+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+44196:2025-03-05T09:04:57.984995+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+44640:2025-03-05T09:04:57.990281+00:00 server-2 dbus-daemon[1830]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.network1.service': Unit dbus-org.freedesktop.network1.service not found.
+44660:2025-03-05T09:04:58.041459+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+44661:2025-03-05T09:04:58.041621+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+44667:2025-03-05T09:04:58.043471+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+44668:2025-03-05T09:04:58.043643+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+44669:2025-03-05T09:04:58.044728+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+44670:2025-03-05T09:04:58.045260+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+44682:2025-03-05T09:04:58.056709+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+44683:2025-03-05T09:04:58.056834+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+44713:2025-03-05T09:04:59.659823+00:00 server-2 snapd[1840]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+44761:2025-03-05T09:06:57.763560+00:00 server-2 systemd-networkd-wait-online[1823]: Timeout occurred while waiting for network connectivity.
+44763:2025-03-05T09:06:57.764773+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+44764:2025-03-05T09:06:57.764929+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+44766:2025-03-05T09:06:57.783497+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+45072:2025-03-05T09:10:00.327577+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+45076:2025-03-05T09:10:00.395196+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+45104:2025-03-05T09:41:51.296500+00:00 server-2 fwupd[5347]: 09:41:51.296 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+45105:2025-03-05T09:41:53.014636+00:00 server-2 fwupd[5347]: 09:41:53.014 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+45106:2025-03-05T09:41:53.015561+00:00 server-2 fwupd[5347]: 09:41:53.015 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+45361:2025-03-05T09:56:06.543007+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap2" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap2']' returned non-zero exit status 1.
+45400:2025-03-05T09:56:17.513585+00:00 server-2 systemd-networkd-wait-online[6503]: Timeout occurred while waiting for network connectivity.
+45401:2025-03-05T09:56:17.523038+00:00 server-2 apt-helper[6498]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+45463:2025-03-05T09:56:25.313851+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+45464:2025-03-05T09:56:25.314024+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+45475:2025-03-05T09:56:25.318677+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+45476:2025-03-05T09:56:25.318841+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+45477:2025-03-05T09:56:25.318924+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+45478:2025-03-05T09:56:25.318952+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+45480:2025-03-05T09:56:25.321198+00:00 server-2 systemd[1]: sssd-pam.socket: Failed with result 'signal'.
+45489:2025-03-05T09:56:25.327482+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+45490:2025-03-05T09:56:25.327666+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+45492:2025-03-05T09:56:25.328368+00:00 server-2 fwupd[7415]: 09:56:25.328 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+45493:2025-03-05T09:56:26.952818+00:00 server-2 fwupd[7415]: 09:56:26.952 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+45494:2025-03-05T09:56:26.953396+00:00 server-2 fwupd[7415]: 09:56:26.953 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+45741:2025-03-05T10:45:55.923126+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap1" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap1']' returned non-zero exit status 1.
+45970:2025-03-05T10:52:27.991244+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap5" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap5']' returned non-zero exit status 1.
+46249:2025-03-05T11:07:07.696741+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap3" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap3']' returned non-zero exit status 1.
+46480:2025-03-05T11:11:40.227060+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap7" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap7']' returned non-zero exit status 1.
+46683:2025-03-05T11:19:25.320072+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap8" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap8']' returned non-zero exit status 1.
+46894:2025-03-05T11:42:45.951314+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap9" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap9']' returned non-zero exit status 1.
+46979:2025-03-05T11:43:52.967079+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap4" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap4']' returned non-zero exit status 1.
+47021:2025-03-05T11:44:12.036782+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap0" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap0']' returned non-zero exit status 1.
+47347:2025-03-05T11:57:25.018269+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap11" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap11']' returned non-zero exit status 1.
+47560:2025-03-05T12:20:24.229535+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap6" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap6']' returned non-zero exit status 1.
+47790:2025-03-05T12:28:39.950365+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap10" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap10']' returned non-zero exit status 1.
+48060:2025-03-05T12:56:29.078474+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap13" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap13']' returned non-zero exit status 1.
+48170:2025-03-05T12:57:19.377370+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap15" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap15']' returned non-zero exit status 1.
+48508:2025-03-05T13:44:50.943453+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap17" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap17']' returned non-zero exit status 1.
+48721:2025-03-05T14:05:17.904359+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap14" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap14']' returned non-zero exit status 1.
+49027:2025-03-05T15:56:02.546810+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap18" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap18']' returned non-zero exit status 1.
+49288:2025-03-05T16:04:05.610504+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap20" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap20']' returned non-zero exit status 1.
+49435:2025-03-05T16:09:16.791911+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap21" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap21']' returned non-zero exit status 1.
+49640:2025-03-05T16:17:50.763610+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap22" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap22']' returned non-zero exit status 1.
+49789:2025-03-05T16:20:59.731289+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap23" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap23']' returned non-zero exit status 1.
+49965:2025-03-05T16:51:04.483031+00:00 server-2 sssd_be[7416]: Backend is offline
+50006:2025-03-05T17:01:41.434457+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap19" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap19']' returned non-zero exit status 1.
+50118:2025-03-05T17:09:04.479018+00:00 server-2 sssd_be[7416]: Backend is offline
+50126:2025-03-05T17:19:45.513604+00:00 server-2 systemd-networkd-wait-online[38044]: Timeout occurred while waiting for network connectivity.
+50127:2025-03-05T17:19:45.524420+00:00 server-2 apt-helper[38041]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+50137:2025-03-05T17:19:50.361516+00:00 server-2 python3[38089]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+50187:2025-03-05T17:21:47.392339+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap16" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap16']' returned non-zero exit status 1.
+50343:2025-03-05T17:39:42.661565+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap24" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap24']' returned non-zero exit status 1.
+50577:2025-03-05T17:45:41.040935+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap12" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap12']' returned non-zero exit status 1.
+50752:2025-03-05T17:56:11.061845+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap28" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap28']' returned non-zero exit status 1.
+51009:2025-03-05T18:04:22.900572+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap26" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap26']' returned non-zero exit status 1.
+51177:2025-03-05T18:10:55.119895+00:00 server-2 sssd_be[7416]: Backend is offline
+51214:2025-03-05T18:12:56.260211+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap29" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap29']' returned non-zero exit status 1.
+51371:2025-03-05T18:16:24.009041+00:00 server-2 sssd_be[7416]: Backend is offline
+51413:2025-03-05T18:23:15.656187+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap25" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap25']' returned non-zero exit status 1.
+51560:2025-03-05T18:26:00.604893+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap32" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap32']' returned non-zero exit status 1.
+51727:2025-03-05T18:34:56.611598+00:00 server-2 sssd_be[7416]: Backend is offline
+51733:2025-03-05T18:36:59.892061+00:00 server-2 sssd_be[7416]: Backend is offline
+51775:2025-03-05T18:47:24.454424+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap30" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap30']' returned non-zero exit status 1.
+51804:2025-03-05T18:48:02.782411+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap27" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap27']' returned non-zero exit status 1.
+52102:2025-03-05T19:02:33.340893+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap31" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap31']' returned non-zero exit status 1.
+52275:2025-03-05T19:06:36.956321+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap35" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap35']' returned non-zero exit status 1.
+52400:2025-03-05T19:25:03.130952+00:00 server-2 sssd_be[7416]: Backend is offline
+52444:2025-03-05T19:33:25.497269+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap36" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap36']' returned non-zero exit status 1.
+52558:2025-03-05T19:41:44.452983+00:00 server-2 sssd_be[7416]: Backend is offline
+52560:2025-03-05T19:44:52.736936+00:00 server-2 sssd_be[7416]: Backend is offline
+52563:2025-03-05T19:46:51.381022+00:00 server-2 sssd_be[7416]: Backend is offline
+52616:2025-03-05T19:54:30.115563+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap37" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap37']' returned non-zero exit status 1.
+52859:2025-03-05T19:58:45.158871+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap38" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap38']' returned non-zero exit status 1.
+52943:2025-03-05T19:59:31.761833+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap39" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap39']' returned non-zero exit status 1.
+53118:2025-03-05T20:03:20.682587+00:00 server-2 sssd_be[7416]: Backend is offline
+53121:2025-03-05T20:10:06.229239+00:00 server-2 sssd_be[7416]: Backend is offline
+53190:2025-03-05T20:10:26.627059+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap34" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap34']' returned non-zero exit status 1.
+53380:2025-03-05T20:12:33.179926+00:00 server-2 sssd_be[7416]: Backend is offline
+53382:2025-03-05T20:14:39.504157+00:00 server-2 sssd_be[7416]: Backend is offline
+53458:2025-03-05T20:31:33.265548+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap41" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap41']' returned non-zero exit status 1.
+53575:2025-03-05T20:33:01.359355+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap42" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap42']' returned non-zero exit status 1.
+53797:2025-03-05T20:38:28.075001+00:00 server-2 sssd_be[7416]: Backend is offline
+53807:2025-03-05T20:57:55.781980+00:00 server-2 sssd_be[7416]: Backend is offline
+53860:2025-03-05T21:32:50.727644+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap43" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap43']' returned non-zero exit status 1.
+54026:2025-03-05T21:37:36.925936+00:00 server-2 sssd_be[7416]: Backend is offline
+54028:2025-03-05T21:39:27.589990+00:00 server-2 sssd_be[7416]: Backend is offline
+54033:2025-03-05T21:41:24.832032+00:00 server-2 sssd_be[7416]: Backend is offline
+54075:2025-03-05T21:47:39.191717+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap44" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap44']' returned non-zero exit status 1.
+54167:2025-03-05T21:49:06.782435+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap45" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap45']' returned non-zero exit status 1.
+54389:2025-03-05T22:03:55.737533+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap47" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap47']' returned non-zero exit status 1.
+54463:2025-03-05T22:04:34.588986+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap40" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap40']' returned non-zero exit status 1.
+54729:2025-03-05T22:12:34.513326+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap49" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap49']' returned non-zero exit status 1.
+54939:2025-03-05T22:16:31.193337+00:00 server-2 sssd_be[7416]: Backend is offline
+54950:2025-03-05T22:35:04.091178+00:00 server-2 sssd_be[7416]: Backend is offline
+54990:2025-03-05T22:43:42.953138+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap48" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap48']' returned non-zero exit status 1.
+55159:2025-03-05T22:53:01.848171+00:00 server-2 sssd_be[7416]: Backend is offline
+55166:2025-03-05T23:09:57.460245+00:00 server-2 sssd_be[7416]: Backend is offline
+55173:2025-03-05T23:19:43.468613+00:00 server-2 sssd_be[7416]: Backend is offline
+55178:2025-03-05T23:22:15.654950+00:00 server-2 sssd_be[7416]: Backend is offline
+55217:2025-03-05T23:25:23.991860+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap46" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap46']' returned non-zero exit status 1.
+55363:2025-03-05T23:28:38.147546+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap51" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap51']' returned non-zero exit status 1.
+55522:2025-03-05T23:36:31.701502+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap33" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap33']' returned non-zero exit status 1.
+55783:2025-03-05T23:40:23.666401+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap53" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap53']' returned non-zero exit status 1.
+55984:2025-03-05T23:46:00.260827+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap54" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap54']' returned non-zero exit status 1.
+56187:2025-03-05T23:52:34.749970+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap56" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap56']' returned non-zero exit status 1.
+56343:2025-03-05T23:56:49.295074+00:00 server-2 sssd_be[7416]: Backend is offline
+56382:2025-03-05T23:59:51.128777+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap55" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap55']' returned non-zero exit status 1.
+56652:2025-03-06T00:09:03.471924+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap58" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap58']' returned non-zero exit status 1.
+56820:2025-03-06T00:16:25.323100+00:00 server-2 sssd_be[7416]: Backend is offline
+56866:2025-03-06T00:35:32.036648+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap52" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap52']' returned non-zero exit status 1.
+57027:2025-03-06T00:39:16.442387+00:00 server-2 sssd_be[7416]: Backend is offline
+57069:2025-03-06T00:45:10.414706+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap57" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap57']' returned non-zero exit status 1.
+57233:2025-03-06T00:58:46.168382+00:00 server-2 sssd_be[7416]: Backend is offline
+57256:2025-03-06T01:45:12.118935+00:00 server-2 sssd_be[7416]: Backend is offline
+57280:2025-03-06T02:19:42.464948+00:00 server-2 sssd_be[7416]: Backend is offline
+57285:2025-03-06T02:24:36.334211+00:00 server-2 sssd_be[7416]: Backend is offline
+57288:2025-03-06T02:26:22.498971+00:00 server-2 sssd_be[7416]: Backend is offline
+57290:2025-03-06T02:29:45.686415+00:00 server-2 sssd_be[7416]: Backend is offline
+57353:2025-03-06T03:00:03.279924+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap50" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap50']' returned non-zero exit status 1.
+57574:2025-03-06T03:13:31.942788+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap60" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap60']' returned non-zero exit status 1.
+57714:2025-03-06T03:34:26.117968+00:00 server-2 sssd_be[7416]: Backend is offline
+57727:2025-03-06T03:51:21.072936+00:00 server-2 sssd_be[7416]: Backend is offline
+57747:2025-03-06T04:37:57.119975+00:00 server-2 sssd_be[7416]: Backend is offline
+57749:2025-03-06T04:39:02.763532+00:00 server-2 systemd-networkd-wait-online[91324]: Timeout occurred while waiting for network connectivity.
+57750:2025-03-06T04:39:02.772442+00:00 server-2 apt-helper[91322]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+57861:2025-03-06T06:24:05.270942+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap59" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap59']' returned non-zero exit status 1.
+58024:2025-03-06T06:46:02.763543+00:00 server-2 systemd-networkd-wait-online[95957]: Timeout occurred while waiting for network connectivity.
+58025:2025-03-06T06:46:02.772225+00:00 server-2 apt-helper[95955]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+58371:2025-03-06T07:51:16.666825+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap62" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap62']' returned non-zero exit status 1.
+58604:2025-03-06T08:12:30.791057+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap65" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap65']' returned non-zero exit status 1.
+58698:2025-03-06T08:13:46.682942+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap61" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap61']' returned non-zero exit status 1.
+58875:2025-03-06T08:18:46.069784+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap64" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap64']' returned non-zero exit status 1.
+59129:2025-03-06T08:37:21.545767+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap68" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap68']' returned non-zero exit status 1.
+59310:2025-03-06T09:10:32.531797+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+59314:2025-03-06T09:10:32.648765+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+59380:2025-03-06T09:13:49.523542+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap69" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap69']' returned non-zero exit status 1.
+59625:2025-03-06T09:25:37.980867+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap70" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap70']' returned non-zero exit status 1.
+59884:2025-03-06T09:36:33.409675+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap63" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap63']' returned non-zero exit status 1.
+60129:2025-03-06T09:41:57.691198+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap67" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap67']' returned non-zero exit status 1.
+60213:2025-03-06T09:42:47.012604+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap72" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap72']' returned non-zero exit status 1.
+60521:2025-03-06T09:51:02.763645+00:00 server-2 systemd-networkd-wait-online[111819]: Timeout occurred while waiting for network connectivity.
+60522:2025-03-06T09:51:02.773151+00:00 server-2 apt-helper[111816]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+60545:2025-03-06T09:51:16.783824+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap73" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap73']' returned non-zero exit status 1.
+60810:2025-03-06T10:19:55.692707+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap66" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap66']' returned non-zero exit status 1.
+61057:2025-03-06T10:25:51.519209+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap76" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap76']' returned non-zero exit status 1.
+61163:2025-03-06T10:26:36.823264+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap75" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap75']' returned non-zero exit status 1.
+61514:2025-03-06T10:31:24.898030+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap78" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap78']' returned non-zero exit status 1.
+61716:2025-03-06T10:37:41.208899+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap79" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap79']' returned non-zero exit status 1.
+61997:2025-03-06T11:01:19.029776+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap71" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap71']' returned non-zero exit status 1.
+62264:2025-03-06T11:22:26.072969+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap77" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap77']' returned non-zero exit status 1.
+62463:2025-03-06T11:24:47.617883+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap74" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap74']' returned non-zero exit status 1.
+62664:2025-03-06T11:27:40.661333+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap81" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap81']' returned non-zero exit status 1.
+62860:2025-03-06T11:29:19.644751+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap83" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap83']' returned non-zero exit status 1.
+63073:2025-03-06T11:33:45.419762+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap84" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap84']' returned non-zero exit status 1.
+63359:2025-03-06T11:57:15.027943+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap82" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap82']' returned non-zero exit status 1.
+63624:2025-03-06T12:12:23.896714+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap80" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap80']' returned non-zero exit status 1.
+63859:2025-03-06T12:32:33.816201+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap88" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap88']' returned non-zero exit status 1.
+64114:2025-03-06T12:41:41.847304+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap89" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap89']' returned non-zero exit status 1.
+64401:2025-03-06T12:52:51.638546+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap90" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap90']' returned non-zero exit status 1.
+64627:2025-03-06T12:56:50.093765+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap91" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap91']' returned non-zero exit status 1.
+64830:2025-03-06T13:02:18.987099+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap85" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap85']' returned non-zero exit status 1.
+65082:2025-03-06T13:06:09.358537+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap93" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap93']' returned non-zero exit status 1.
+65341:2025-03-06T13:18:58.031503+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap94" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap94']' returned non-zero exit status 1.
+65629:2025-03-06T14:25:16.036771+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap95" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap95']' returned non-zero exit status 1.
+65903:2025-03-06T15:16:16.163505+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap92" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap92']' returned non-zero exit status 1.
+66130:2025-03-06T15:27:48.806671+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap87" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap87']' returned non-zero exit status 1.
+66365:2025-03-06T15:31:03.036015+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap86" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap86']' returned non-zero exit status 1.
+66502:2025-03-06T15:32:33.086850+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap97" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap97']' returned non-zero exit status 1.
+66670:2025-03-06T15:41:44.127929+00:00 server-2 sssd_be[7416]: Backend is offline
+66727:2025-03-06T15:56:12.163790+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap99" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap99']' returned non-zero exit status 1.
+66982:2025-03-06T16:28:39.259630+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap96" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap96']' returned non-zero exit status 1.
+67040:2025-03-06T16:28:48.307005+00:00 server-2 sssd_be[7416]: Backend is offline
+67213:2025-03-06T17:04:45.989934+00:00 server-2 sssd_be[7416]: Backend is offline
+67216:2025-03-06T17:08:10.047986+00:00 server-2 sssd_be[7416]: Backend is offline
+67258:2025-03-06T17:19:02.357320+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap100" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap100']' returned non-zero exit status 1.
+67457:2025-03-06T17:28:32.386960+00:00 server-2 sssd_be[7416]: Backend is offline
+67465:2025-03-06T17:28:39.193578+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap98" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap98']' returned non-zero exit status 1.
+67698:2025-03-06T17:31:34.775499+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap103" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap103']' returned non-zero exit status 1.
+67931:2025-03-06T17:45:06.888316+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap102" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap102']' returned non-zero exit status 1.
+67945:2025-03-06T17:45:15.941706+00:00 server-2 sssd_be[7416]: Backend is offline
+68043:2025-03-06T17:46:54.891935+00:00 server-2 sssd_be[7416]: Backend is offline
+68048:2025-03-06T17:51:38.787038+00:00 server-2 sssd_be[7416]: Backend is offline
+68124:2025-03-06T18:16:44.161479+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap104" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap104']' returned non-zero exit status 1.
+68268:2025-03-06T18:26:41.498959+00:00 server-2 sssd_be[7416]: Backend is offline
+68313:2025-03-06T18:40:42.367067+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap101" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap101']' returned non-zero exit status 1.
+68517:2025-03-06T18:51:36.668423+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap108" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap108']' returned non-zero exit status 1.
+68717:2025-03-06T18:54:35.374267+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap109" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap109']' returned non-zero exit status 1.
+68882:2025-03-06T18:58:48.981104+00:00 server-2 sssd_be[7416]: Backend is offline
+68887:2025-03-06T19:03:12.664059+00:00 server-2 sssd_be[7416]: Backend is offline
+68954:2025-03-06T19:03:54.869140+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap110" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap110']' returned non-zero exit status 1.
+68991:2025-03-06T19:04:03.920877+00:00 server-2 sssd_be[7416]: Backend is offline
+69106:2025-03-06T19:36:21.263550+00:00 server-2 systemd-networkd-wait-online[161724]: Timeout occurred while waiting for network connectivity.
+69107:2025-03-06T19:36:21.273370+00:00 server-2 apt-helper[161722]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+69146:2025-03-06T19:39:22.141822+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap105" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap105']' returned non-zero exit status 1.
+69296:2025-03-06T19:48:53.149798+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap112" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap112']' returned non-zero exit status 1.
+69463:2025-03-06T19:51:06.259255+00:00 server-2 sssd_be[7416]: Backend is offline
+69505:2025-03-06T19:56:25.170656+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap111" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap111']' returned non-zero exit status 1.
+69738:2025-03-06T20:06:39.119355+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap114" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap114']' returned non-zero exit status 1.
+69777:2025-03-06T20:06:48.170269+00:00 server-2 sssd_be[7416]: Backend is offline
+69929:2025-03-06T20:08:30.811991+00:00 server-2 sssd_be[7416]: Backend is offline
+69934:2025-03-06T20:12:20.152053+00:00 server-2 sssd_be[7416]: Backend is offline
+69936:2025-03-06T20:14:23.170155+00:00 server-2 sssd_be[7416]: Backend is offline
+69939:2025-03-06T20:15:53.527961+00:00 server-2 sssd_be[7416]: Backend is offline
+69948:2025-03-06T20:20:21.655203+00:00 server-2 sssd_be[7416]: Backend is offline
+69950:2025-03-06T20:23:58.318561+00:00 server-2 sssd_be[7416]: Backend is offline
+69992:2025-03-06T20:32:20.029958+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap106" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap106']' returned non-zero exit status 1.
+70246:2025-03-06T20:37:12.921599+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap116" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap116']' returned non-zero exit status 1.
+70448:2025-03-06T20:41:01.831047+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap117" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap117']' returned non-zero exit status 1.
+70531:2025-03-06T20:41:18.623672+00:00 server-2 sssd_be[7416]: Backend is offline
+70625:2025-03-06T20:44:27.493935+00:00 server-2 sssd_be[7416]: Backend is offline
+70693:2025-03-06T20:48:51.785850+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap118" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap118']' returned non-zero exit status 1.
+70926:2025-03-06T21:08:56.663155+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap113" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap113']' returned non-zero exit status 1.
+71132:2025-03-06T21:13:16.226739+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap120" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap120']' returned non-zero exit status 1.
+71353:2025-03-06T21:15:59.520573+00:00 server-2 kernel: {1}[Hardware Error]: Hardware error from APEI Generic Hardware Error Source: 514
+71354:2025-03-06T21:15:59.520591+00:00 server-2 kernel: {1}[Hardware Error]: It has been corrected by h/w and requires no further action
+71355:2025-03-06T21:15:59.520602+00:00 server-2 kernel: {1}[Hardware Error]: event severity: corrected
+71356:2025-03-06T21:15:59.520603+00:00 server-2 kernel: {1}[Hardware Error]:  Error 0, type: corrected
+71357:2025-03-06T21:15:59.520604+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71358:2025-03-06T21:15:59.520604+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71359:2025-03-06T21:15:59.520605+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71360:2025-03-06T21:15:59.520605+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71361:2025-03-06T21:15:59.520605+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0407, status: 0x0810
+71362:2025-03-06T21:15:59.520606+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.0
+71363:2025-03-06T21:15:59.520606+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71364:2025-03-06T21:15:59.520607+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71365:2025-03-06T21:15:59.520622+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71366:2025-03-06T21:15:59.520625+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 030000
+71367:2025-03-06T21:15:59.520626+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71368:2025-03-06T21:15:59.520627+00:00 server-2 kernel: {1}[Hardware Error]:  Error 1, type: corrected
+71369:2025-03-06T21:15:59.520627+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71370:2025-03-06T21:15:59.520627+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71371:2025-03-06T21:15:59.520628+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71372:2025-03-06T21:15:59.520628+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71373:2025-03-06T21:15:59.520628+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0000, status: 0x0010
+71374:2025-03-06T21:15:59.520629+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.1
+71375:2025-03-06T21:15:59.520629+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71376:2025-03-06T21:15:59.520629+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71377:2025-03-06T21:15:59.520630+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0xab30
+71378:2025-03-06T21:15:59.520630+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 040300
+71379:2025-03-06T21:15:59.520631+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71380:2025-03-06T21:15:59.520631+00:00 server-2 kernel: {1}[Hardware Error]:  Error 2, type: corrected
+71381:2025-03-06T21:15:59.520631+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71382:2025-03-06T21:15:59.520632+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71383:2025-03-06T21:15:59.520632+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71384:2025-03-06T21:15:59.520632+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71385:2025-03-06T21:15:59.520632+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0407, status: 0x0810
+71386:2025-03-06T21:15:59.520633+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.0
+71387:2025-03-06T21:15:59.520633+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71388:2025-03-06T21:15:59.520633+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71389:2025-03-06T21:15:59.520633+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71390:2025-03-06T21:15:59.520634+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 030000
+71391:2025-03-06T21:15:59.520634+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71392:2025-03-06T21:15:59.520634+00:00 server-2 kernel: {1}[Hardware Error]:  Error 3, type: corrected
+71393:2025-03-06T21:15:59.520635+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71394:2025-03-06T21:15:59.520635+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71395:2025-03-06T21:15:59.520635+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71396:2025-03-06T21:15:59.520635+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71397:2025-03-06T21:15:59.520636+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0407, status: 0x0810
+71398:2025-03-06T21:15:59.520636+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.0
+71399:2025-03-06T21:15:59.520636+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71400:2025-03-06T21:15:59.520636+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71401:2025-03-06T21:15:59.520637+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71402:2025-03-06T21:15:59.520637+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 030000
+71403:2025-03-06T21:15:59.520638+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71404:2025-03-06T21:15:59.520638+00:00 server-2 kernel: {1}[Hardware Error]:  Error 4, type: corrected
+71405:2025-03-06T21:15:59.520638+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71406:2025-03-06T21:15:59.520638+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71407:2025-03-06T21:15:59.520639+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71408:2025-03-06T21:15:59.520639+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71409:2025-03-06T21:15:59.520639+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0407, status: 0x0810
+71410:2025-03-06T21:15:59.520640+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.0
+71411:2025-03-06T21:15:59.520640+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71412:2025-03-06T21:15:59.520640+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71413:2025-03-06T21:15:59.520640+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71414:2025-03-06T21:15:59.520641+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 030000
+71415:2025-03-06T21:15:59.520641+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71416:2025-03-06T21:15:59.520641+00:00 server-2 kernel: {1}[Hardware Error]:  Error 5, type: corrected
+71417:2025-03-06T21:15:59.520641+00:00 server-2 kernel: {1}[Hardware Error]:  fru_text: PcieError
+71418:2025-03-06T21:15:59.520642+00:00 server-2 kernel: {1}[Hardware Error]:   section_type: PCIe error
+71419:2025-03-06T21:15:59.520642+00:00 server-2 kernel: {1}[Hardware Error]:   port_type: 1, legacy PCI end point
+71420:2025-03-06T21:15:59.520642+00:00 server-2 kernel: {1}[Hardware Error]:   version: 0.2
+71421:2025-03-06T21:15:59.520643+00:00 server-2 kernel: {1}[Hardware Error]:   command: 0x0407, status: 0x0810
+71422:2025-03-06T21:15:59.520643+00:00 server-2 kernel: {1}[Hardware Error]:   device_id: 0000:06:00.0
+71423:2025-03-06T21:15:59.520643+00:00 server-2 kernel: {1}[Hardware Error]:   slot: 0
+71424:2025-03-06T21:15:59.520643+00:00 server-2 kernel: {1}[Hardware Error]:   secondary_bus: 0x00
+71425:2025-03-06T21:15:59.520644+00:00 server-2 kernel: {1}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71426:2025-03-06T21:15:59.520644+00:00 server-2 kernel: {1}[Hardware Error]:   class_code: 030000
+71427:2025-03-06T21:15:59.520644+00:00 server-2 kernel: {1}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71428:2025-03-06T21:15:59.520645+00:00 server-2 kernel: {2}[Hardware Error]: Hardware error from APEI Generic Hardware Error Source: 516
+71429:2025-03-06T21:15:59.520645+00:00 server-2 kernel: {2}[Hardware Error]: It has been corrected by h/w and requires no further action
+71430:2025-03-06T21:15:59.520645+00:00 server-2 kernel: {2}[Hardware Error]: event severity: corrected
+71431:2025-03-06T21:15:59.520645+00:00 server-2 kernel: {2}[Hardware Error]:  Error 0, type: corrected
+71432:2025-03-06T21:15:59.520646+00:00 server-2 kernel: {2}[Hardware Error]:  fru_text: PcieError
+71433:2025-03-06T21:15:59.520646+00:00 server-2 kernel: {2}[Hardware Error]:   section_type: PCIe error
+71434:2025-03-06T21:15:59.520646+00:00 server-2 kernel: {2}[Hardware Error]:   port_type: 5, upstream switch port
+71435:2025-03-06T21:15:59.520647+00:00 server-2 kernel: {2}[Hardware Error]:   version: 0.2
+71436:2025-03-06T21:15:59.520653+00:00 server-2 kernel: {2}[Hardware Error]:   command: 0x0007, status: 0x0010
+71437:2025-03-06T21:15:59.520653+00:00 server-2 kernel: {2}[Hardware Error]:   device_id: 0000:04:00.0
+71438:2025-03-06T21:15:59.520654+00:00 server-2 kernel: {2}[Hardware Error]:   slot: 0
+71439:2025-03-06T21:15:59.520654+00:00 server-2 kernel: {2}[Hardware Error]:   secondary_bus: 0x05
+71440:2025-03-06T21:15:59.520654+00:00 server-2 kernel: {2}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x1478
+71441:2025-03-06T21:15:59.520655+00:00 server-2 kernel: {2}[Hardware Error]:   class_code: 060400
+71442:2025-03-06T21:15:59.520655+00:00 server-2 kernel: {2}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0012
+71443:2025-03-06T21:15:59.520656+00:00 server-2 kernel: {2}[Hardware Error]:  Error 1, type: corrected
+71444:2025-03-06T21:15:59.520656+00:00 server-2 kernel: {2}[Hardware Error]:  fru_text: PcieError
+71445:2025-03-06T21:15:59.520656+00:00 server-2 kernel: {2}[Hardware Error]:   section_type: PCIe error
+71446:2025-03-06T21:15:59.520657+00:00 server-2 kernel: {2}[Hardware Error]:   port_type: 6, downstream switch port
+71447:2025-03-06T21:15:59.520657+00:00 server-2 kernel: {2}[Hardware Error]:   version: 0.2
+71448:2025-03-06T21:15:59.520657+00:00 server-2 kernel: {2}[Hardware Error]:   command: 0x0407, status: 0x0010
+71449:2025-03-06T21:15:59.520658+00:00 server-2 kernel: {2}[Hardware Error]:   device_id: 0000:05:00.0
+71450:2025-03-06T21:15:59.520658+00:00 server-2 kernel: {2}[Hardware Error]:   slot: 0
+71451:2025-03-06T21:15:59.520659+00:00 server-2 kernel: {2}[Hardware Error]:   secondary_bus: 0x06
+71452:2025-03-06T21:15:59.520659+00:00 server-2 kernel: {2}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x1479
+71453:2025-03-06T21:15:59.520659+00:00 server-2 kernel: {2}[Hardware Error]:   class_code: 060400
+71454:2025-03-06T21:15:59.520660+00:00 server-2 kernel: {2}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0012
+71479:2025-03-06T21:16:05.663549+00:00 server-2 kernel: {3}[Hardware Error]: Hardware error from APEI Generic Hardware Error Source: 514
+71480:2025-03-06T21:16:05.663569+00:00 server-2 kernel: {3}[Hardware Error]: It has been corrected by h/w and requires no further action
+71481:2025-03-06T21:16:05.663570+00:00 server-2 kernel: {3}[Hardware Error]: event severity: corrected
+71482:2025-03-06T21:16:05.663571+00:00 server-2 kernel: {3}[Hardware Error]:  Error 0, type: corrected
+71483:2025-03-06T21:16:05.663571+00:00 server-2 kernel: {3}[Hardware Error]:  fru_text: PcieError
+71484:2025-03-06T21:16:05.663571+00:00 server-2 kernel: {3}[Hardware Error]:   section_type: PCIe error
+71485:2025-03-06T21:16:05.663572+00:00 server-2 kernel: {3}[Hardware Error]:   port_type: 1, legacy PCI end point
+71486:2025-03-06T21:16:05.663572+00:00 server-2 kernel: {3}[Hardware Error]:   version: 0.2
+71487:2025-03-06T21:16:05.663573+00:00 server-2 kernel: {3}[Hardware Error]:   command: 0x0407, status: 0x0810
+71488:2025-03-06T21:16:05.663573+00:00 server-2 kernel: {3}[Hardware Error]:   device_id: 0000:06:00.0
+71489:2025-03-06T21:16:05.663573+00:00 server-2 kernel: {3}[Hardware Error]:   slot: 0
+71490:2025-03-06T21:16:05.663574+00:00 server-2 kernel: {3}[Hardware Error]:   secondary_bus: 0x00
+71491:2025-03-06T21:16:05.663574+00:00 server-2 kernel: {3}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71492:2025-03-06T21:16:05.663575+00:00 server-2 kernel: {3}[Hardware Error]:   class_code: 030000
+71493:2025-03-06T21:16:05.663575+00:00 server-2 kernel: {3}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71494:2025-03-06T21:16:05.663575+00:00 server-2 kernel: {3}[Hardware Error]:  Error 1, type: corrected
+71495:2025-03-06T21:16:05.663576+00:00 server-2 kernel: {3}[Hardware Error]:  fru_text: PcieError
+71496:2025-03-06T21:16:05.663576+00:00 server-2 kernel: {3}[Hardware Error]:   section_type: PCIe error
+71497:2025-03-06T21:16:05.663576+00:00 server-2 kernel: {3}[Hardware Error]:   port_type: 1, legacy PCI end point
+71498:2025-03-06T21:16:05.663577+00:00 server-2 kernel: {3}[Hardware Error]:   version: 0.2
+71499:2025-03-06T21:16:05.663577+00:00 server-2 kernel: {3}[Hardware Error]:   command: 0x0407, status: 0x0810
+71500:2025-03-06T21:16:05.663586+00:00 server-2 kernel: {3}[Hardware Error]:   device_id: 0000:06:00.0
+71501:2025-03-06T21:16:05.663587+00:00 server-2 kernel: {3}[Hardware Error]:   slot: 0
+71502:2025-03-06T21:16:05.663587+00:00 server-2 kernel: {3}[Hardware Error]:   secondary_bus: 0x00
+71503:2025-03-06T21:16:05.663587+00:00 server-2 kernel: {3}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71504:2025-03-06T21:16:05.663587+00:00 server-2 kernel: {3}[Hardware Error]:   class_code: 030000
+71505:2025-03-06T21:16:05.663588+00:00 server-2 kernel: {3}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71506:2025-03-06T21:16:05.663588+00:00 server-2 kernel: {3}[Hardware Error]:  Error 2, type: corrected
+71507:2025-03-06T21:16:05.663588+00:00 server-2 kernel: {3}[Hardware Error]:  fru_text: PcieError
+71508:2025-03-06T21:16:05.663589+00:00 server-2 kernel: {3}[Hardware Error]:   section_type: PCIe error
+71509:2025-03-06T21:16:05.663589+00:00 server-2 kernel: {3}[Hardware Error]:   port_type: 1, legacy PCI end point
+71510:2025-03-06T21:16:05.663589+00:00 server-2 kernel: {3}[Hardware Error]:   version: 0.2
+71511:2025-03-06T21:16:05.663590+00:00 server-2 kernel: {3}[Hardware Error]:   command: 0x0407, status: 0x0810
+71512:2025-03-06T21:16:05.663590+00:00 server-2 kernel: {3}[Hardware Error]:   device_id: 0000:06:00.0
+71513:2025-03-06T21:16:05.663590+00:00 server-2 kernel: {3}[Hardware Error]:   slot: 0
+71514:2025-03-06T21:16:05.663591+00:00 server-2 kernel: {3}[Hardware Error]:   secondary_bus: 0x00
+71515:2025-03-06T21:16:05.663591+00:00 server-2 kernel: {3}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71516:2025-03-06T21:16:05.663591+00:00 server-2 kernel: {3}[Hardware Error]:   class_code: 030000
+71517:2025-03-06T21:16:05.663592+00:00 server-2 kernel: {3}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71518:2025-03-06T21:16:05.663592+00:00 server-2 kernel: {3}[Hardware Error]:  Error 3, type: corrected
+71519:2025-03-06T21:16:05.663592+00:00 server-2 kernel: {3}[Hardware Error]:  fru_text: PcieError
+71520:2025-03-06T21:16:05.663593+00:00 server-2 kernel: {3}[Hardware Error]:   section_type: PCIe error
+71521:2025-03-06T21:16:05.663593+00:00 server-2 kernel: {3}[Hardware Error]:   port_type: 1, legacy PCI end point
+71522:2025-03-06T21:16:05.663593+00:00 server-2 kernel: {3}[Hardware Error]:   version: 0.2
+71523:2025-03-06T21:16:05.663594+00:00 server-2 kernel: {3}[Hardware Error]:   command: 0x0407, status: 0x0810
+71524:2025-03-06T21:16:05.663594+00:00 server-2 kernel: {3}[Hardware Error]:   device_id: 0000:06:00.0
+71525:2025-03-06T21:16:05.663594+00:00 server-2 kernel: {3}[Hardware Error]:   slot: 0
+71526:2025-03-06T21:16:05.663595+00:00 server-2 kernel: {3}[Hardware Error]:   secondary_bus: 0x00
+71527:2025-03-06T21:16:05.663595+00:00 server-2 kernel: {3}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71528:2025-03-06T21:16:05.663595+00:00 server-2 kernel: {3}[Hardware Error]:   class_code: 030000
+71529:2025-03-06T21:16:05.663595+00:00 server-2 kernel: {3}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71542:2025-03-06T21:16:11.296559+00:00 server-2 kernel: {4}[Hardware Error]: Hardware error from APEI Generic Hardware Error Source: 514
+71543:2025-03-06T21:16:11.296577+00:00 server-2 kernel: {4}[Hardware Error]: It has been corrected by h/w and requires no further action
+71544:2025-03-06T21:16:11.296578+00:00 server-2 kernel: {4}[Hardware Error]: event severity: corrected
+71545:2025-03-06T21:16:11.296578+00:00 server-2 kernel: {4}[Hardware Error]:  Error 0, type: corrected
+71546:2025-03-06T21:16:11.296579+00:00 server-2 kernel: {4}[Hardware Error]:  fru_text: PcieError
+71547:2025-03-06T21:16:11.296579+00:00 server-2 kernel: {4}[Hardware Error]:   section_type: PCIe error
+71548:2025-03-06T21:16:11.296580+00:00 server-2 kernel: {4}[Hardware Error]:   port_type: 1, legacy PCI end point
+71549:2025-03-06T21:16:11.296580+00:00 server-2 kernel: {4}[Hardware Error]:   version: 0.2
+71550:2025-03-06T21:16:11.296581+00:00 server-2 kernel: {4}[Hardware Error]:   command: 0x0407, status: 0x0810
+71551:2025-03-06T21:16:11.296581+00:00 server-2 kernel: {4}[Hardware Error]:   device_id: 0000:06:00.0
+71552:2025-03-06T21:16:11.296581+00:00 server-2 kernel: {4}[Hardware Error]:   slot: 0
+71553:2025-03-06T21:16:11.296582+00:00 server-2 kernel: {4}[Hardware Error]:   secondary_bus: 0x00
+71554:2025-03-06T21:16:11.296582+00:00 server-2 kernel: {4}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71555:2025-03-06T21:16:11.296582+00:00 server-2 kernel: {4}[Hardware Error]:   class_code: 030000
+71556:2025-03-06T21:16:11.296583+00:00 server-2 kernel: {4}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71557:2025-03-06T21:16:11.296583+00:00 server-2 kernel: {4}[Hardware Error]:  Error 1, type: corrected
+71558:2025-03-06T21:16:11.296583+00:00 server-2 kernel: {4}[Hardware Error]:  fru_text: PcieError
+71559:2025-03-06T21:16:11.296584+00:00 server-2 kernel: {4}[Hardware Error]:   section_type: PCIe error
+71560:2025-03-06T21:16:11.296584+00:00 server-2 kernel: {4}[Hardware Error]:   port_type: 1, legacy PCI end point
+71561:2025-03-06T21:16:11.296591+00:00 server-2 kernel: {4}[Hardware Error]:   version: 0.2
+71562:2025-03-06T21:16:11.296592+00:00 server-2 kernel: {4}[Hardware Error]:   command: 0x0407, status: 0x0810
+71563:2025-03-06T21:16:11.296592+00:00 server-2 kernel: {4}[Hardware Error]:   device_id: 0000:06:00.0
+71564:2025-03-06T21:16:11.296592+00:00 server-2 kernel: {4}[Hardware Error]:   slot: 0
+71565:2025-03-06T21:16:11.296593+00:00 server-2 kernel: {4}[Hardware Error]:   secondary_bus: 0x00
+71566:2025-03-06T21:16:11.296593+00:00 server-2 kernel: {4}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71567:2025-03-06T21:16:11.296593+00:00 server-2 kernel: {4}[Hardware Error]:   class_code: 030000
+71568:2025-03-06T21:16:11.296593+00:00 server-2 kernel: {4}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71569:2025-03-06T21:16:11.296594+00:00 server-2 kernel: {4}[Hardware Error]:  Error 2, type: corrected
+71570:2025-03-06T21:16:11.296594+00:00 server-2 kernel: {4}[Hardware Error]:  fru_text: PcieError
+71571:2025-03-06T21:16:11.296595+00:00 server-2 kernel: {4}[Hardware Error]:   section_type: PCIe error
+71572:2025-03-06T21:16:11.296595+00:00 server-2 kernel: {4}[Hardware Error]:   port_type: 1, legacy PCI end point
+71573:2025-03-06T21:16:11.296595+00:00 server-2 kernel: {4}[Hardware Error]:   version: 0.2
+71574:2025-03-06T21:16:11.296595+00:00 server-2 kernel: {4}[Hardware Error]:   command: 0x0407, status: 0x0810
+71575:2025-03-06T21:16:11.296596+00:00 server-2 kernel: {4}[Hardware Error]:   device_id: 0000:06:00.0
+71576:2025-03-06T21:16:11.296596+00:00 server-2 kernel: {4}[Hardware Error]:   slot: 0
+71577:2025-03-06T21:16:11.296596+00:00 server-2 kernel: {4}[Hardware Error]:   secondary_bus: 0x00
+71578:2025-03-06T21:16:11.296597+00:00 server-2 kernel: {4}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71579:2025-03-06T21:16:11.296597+00:00 server-2 kernel: {4}[Hardware Error]:   class_code: 030000
+71580:2025-03-06T21:16:11.296597+00:00 server-2 kernel: {4}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71581:2025-03-06T21:16:11.296598+00:00 server-2 kernel: {4}[Hardware Error]:  Error 3, type: corrected
+71582:2025-03-06T21:16:11.296598+00:00 server-2 kernel: {4}[Hardware Error]:  fru_text: PcieError
+71583:2025-03-06T21:16:11.296598+00:00 server-2 kernel: {4}[Hardware Error]:   section_type: PCIe error
+71584:2025-03-06T21:16:11.296599+00:00 server-2 kernel: {4}[Hardware Error]:   port_type: 1, legacy PCI end point
+71585:2025-03-06T21:16:11.296599+00:00 server-2 kernel: {4}[Hardware Error]:   version: 0.2
+71586:2025-03-06T21:16:11.296599+00:00 server-2 kernel: {4}[Hardware Error]:   command: 0x0407, status: 0x0810
+71587:2025-03-06T21:16:11.296600+00:00 server-2 kernel: {4}[Hardware Error]:   device_id: 0000:06:00.0
+71588:2025-03-06T21:16:11.296600+00:00 server-2 kernel: {4}[Hardware Error]:   slot: 0
+71589:2025-03-06T21:16:11.296600+00:00 server-2 kernel: {4}[Hardware Error]:   secondary_bus: 0x00
+71590:2025-03-06T21:16:11.296600+00:00 server-2 kernel: {4}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71591:2025-03-06T21:16:11.296601+00:00 server-2 kernel: {4}[Hardware Error]:   class_code: 030000
+71592:2025-03-06T21:16:11.296601+00:00 server-2 kernel: {4}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71593:2025-03-06T21:16:11.296601+00:00 server-2 kernel: {4}[Hardware Error]:  Error 4, type: corrected
+71594:2025-03-06T21:16:11.296602+00:00 server-2 kernel: {4}[Hardware Error]:  fru_text: PcieError
+71595:2025-03-06T21:16:11.296602+00:00 server-2 kernel: {4}[Hardware Error]:   section_type: PCIe error
+71596:2025-03-06T21:16:11.296602+00:00 server-2 kernel: {4}[Hardware Error]:   port_type: 1, legacy PCI end point
+71597:2025-03-06T21:16:11.296603+00:00 server-2 kernel: {4}[Hardware Error]:   version: 0.2
+71598:2025-03-06T21:16:11.296603+00:00 server-2 kernel: {4}[Hardware Error]:   command: 0x0407, status: 0x0810
+71599:2025-03-06T21:16:11.296604+00:00 server-2 kernel: {4}[Hardware Error]:   device_id: 0000:06:00.0
+71600:2025-03-06T21:16:11.296604+00:00 server-2 kernel: {4}[Hardware Error]:   slot: 0
+71601:2025-03-06T21:16:11.296604+00:00 server-2 kernel: {4}[Hardware Error]:   secondary_bus: 0x00
+71602:2025-03-06T21:16:11.296605+00:00 server-2 kernel: {4}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71603:2025-03-06T21:16:11.296605+00:00 server-2 kernel: {4}[Hardware Error]:   class_code: 030000
+71604:2025-03-06T21:16:11.296605+00:00 server-2 kernel: {4}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71620:2025-03-06T21:16:16.927554+00:00 server-2 kernel: {5}[Hardware Error]: Hardware error from APEI Generic Hardware Error Source: 514
+71621:2025-03-06T21:16:16.927573+00:00 server-2 kernel: {5}[Hardware Error]: It has been corrected by h/w and requires no further action
+71622:2025-03-06T21:16:16.927573+00:00 server-2 kernel: {5}[Hardware Error]: event severity: corrected
+71623:2025-03-06T21:16:16.927574+00:00 server-2 kernel: {5}[Hardware Error]:  Error 0, type: corrected
+71624:2025-03-06T21:16:16.927575+00:00 server-2 kernel: {5}[Hardware Error]:  fru_text: PcieError
+71625:2025-03-06T21:16:16.927575+00:00 server-2 kernel: {5}[Hardware Error]:   section_type: PCIe error
+71626:2025-03-06T21:16:16.927576+00:00 server-2 kernel: {5}[Hardware Error]:   port_type: 1, legacy PCI end point
+71627:2025-03-06T21:16:16.927576+00:00 server-2 kernel: {5}[Hardware Error]:   version: 0.2
+71628:2025-03-06T21:16:16.927577+00:00 server-2 kernel: {5}[Hardware Error]:   command: 0x0407, status: 0x0810
+71629:2025-03-06T21:16:16.927577+00:00 server-2 kernel: {5}[Hardware Error]:   device_id: 0000:06:00.0
+71630:2025-03-06T21:16:16.927577+00:00 server-2 kernel: {5}[Hardware Error]:   slot: 0
+71631:2025-03-06T21:16:16.927577+00:00 server-2 kernel: {5}[Hardware Error]:   secondary_bus: 0x00
+71632:2025-03-06T21:16:16.927578+00:00 server-2 kernel: {5}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71633:2025-03-06T21:16:16.927578+00:00 server-2 kernel: {5}[Hardware Error]:   class_code: 030000
+71634:2025-03-06T21:16:16.927579+00:00 server-2 kernel: {5}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71635:2025-03-06T21:16:16.927579+00:00 server-2 kernel: {5}[Hardware Error]:  Error 1, type: corrected
+71636:2025-03-06T21:16:16.927580+00:00 server-2 kernel: {5}[Hardware Error]:  fru_text: PcieError
+71637:2025-03-06T21:16:16.927580+00:00 server-2 kernel: {5}[Hardware Error]:   section_type: PCIe error
+71638:2025-03-06T21:16:16.927580+00:00 server-2 kernel: {5}[Hardware Error]:   port_type: 1, legacy PCI end point
+71639:2025-03-06T21:16:16.927581+00:00 server-2 kernel: {5}[Hardware Error]:   version: 0.2
+71640:2025-03-06T21:16:16.927581+00:00 server-2 kernel: {5}[Hardware Error]:   command: 0x0407, status: 0x0810
+71641:2025-03-06T21:16:16.927587+00:00 server-2 kernel: {5}[Hardware Error]:   device_id: 0000:06:00.0
+71642:2025-03-06T21:16:16.927588+00:00 server-2 kernel: {5}[Hardware Error]:   slot: 0
+71643:2025-03-06T21:16:16.927588+00:00 server-2 kernel: {5}[Hardware Error]:   secondary_bus: 0x00
+71644:2025-03-06T21:16:16.927589+00:00 server-2 kernel: {5}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71645:2025-03-06T21:16:16.927589+00:00 server-2 kernel: {5}[Hardware Error]:   class_code: 030000
+71646:2025-03-06T21:16:16.927589+00:00 server-2 kernel: {5}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71647:2025-03-06T21:16:16.927590+00:00 server-2 kernel: {5}[Hardware Error]:  Error 2, type: corrected
+71648:2025-03-06T21:16:16.927590+00:00 server-2 kernel: {5}[Hardware Error]:  fru_text: PcieError
+71649:2025-03-06T21:16:16.927590+00:00 server-2 kernel: {5}[Hardware Error]:   section_type: PCIe error
+71650:2025-03-06T21:16:16.927590+00:00 server-2 kernel: {5}[Hardware Error]:   port_type: 1, legacy PCI end point
+71651:2025-03-06T21:16:16.927591+00:00 server-2 kernel: {5}[Hardware Error]:   version: 0.2
+71652:2025-03-06T21:16:16.927591+00:00 server-2 kernel: {5}[Hardware Error]:   command: 0x0407, status: 0x0810
+71653:2025-03-06T21:16:16.927591+00:00 server-2 kernel: {5}[Hardware Error]:   device_id: 0000:06:00.0
+71654:2025-03-06T21:16:16.927592+00:00 server-2 kernel: {5}[Hardware Error]:   slot: 0
+71655:2025-03-06T21:16:16.927592+00:00 server-2 kernel: {5}[Hardware Error]:   secondary_bus: 0x00
+71656:2025-03-06T21:16:16.927592+00:00 server-2 kernel: {5}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71657:2025-03-06T21:16:16.927592+00:00 server-2 kernel: {5}[Hardware Error]:   class_code: 030000
+71658:2025-03-06T21:16:16.927593+00:00 server-2 kernel: {5}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71659:2025-03-06T21:16:16.927593+00:00 server-2 kernel: {5}[Hardware Error]:  Error 3, type: corrected
+71660:2025-03-06T21:16:16.927594+00:00 server-2 kernel: {5}[Hardware Error]:  fru_text: PcieError
+71661:2025-03-06T21:16:16.927594+00:00 server-2 kernel: {5}[Hardware Error]:   section_type: PCIe error
+71662:2025-03-06T21:16:16.927594+00:00 server-2 kernel: {5}[Hardware Error]:   port_type: 1, legacy PCI end point
+71663:2025-03-06T21:16:16.927595+00:00 server-2 kernel: {5}[Hardware Error]:   version: 0.2
+71664:2025-03-06T21:16:16.927595+00:00 server-2 kernel: {5}[Hardware Error]:   command: 0x0407, status: 0x0810
+71665:2025-03-06T21:16:16.927595+00:00 server-2 kernel: {5}[Hardware Error]:   device_id: 0000:06:00.0
+71666:2025-03-06T21:16:16.927595+00:00 server-2 kernel: {5}[Hardware Error]:   slot: 0
+71667:2025-03-06T21:16:16.927596+00:00 server-2 kernel: {5}[Hardware Error]:   secondary_bus: 0x00
+71668:2025-03-06T21:16:16.927596+00:00 server-2 kernel: {5}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71669:2025-03-06T21:16:16.927596+00:00 server-2 kernel: {5}[Hardware Error]:   class_code: 030000
+71670:2025-03-06T21:16:16.927597+00:00 server-2 kernel: {5}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71671:2025-03-06T21:16:16.927597+00:00 server-2 kernel: {5}[Hardware Error]:  Error 4, type: corrected
+71672:2025-03-06T21:16:16.927597+00:00 server-2 kernel: {5}[Hardware Error]:  fru_text: PcieError
+71673:2025-03-06T21:16:16.927598+00:00 server-2 kernel: {5}[Hardware Error]:   section_type: PCIe error
+71674:2025-03-06T21:16:16.927598+00:00 server-2 kernel: {5}[Hardware Error]:   port_type: 1, legacy PCI end point
+71675:2025-03-06T21:16:16.927598+00:00 server-2 kernel: {5}[Hardware Error]:   version: 0.2
+71676:2025-03-06T21:16:16.927599+00:00 server-2 kernel: {5}[Hardware Error]:   command: 0x0407, status: 0x0810
+71677:2025-03-06T21:16:16.927599+00:00 server-2 kernel: {5}[Hardware Error]:   device_id: 0000:06:00.0
+71678:2025-03-06T21:16:16.927599+00:00 server-2 kernel: {5}[Hardware Error]:   slot: 0
+71679:2025-03-06T21:16:16.927600+00:00 server-2 kernel: {5}[Hardware Error]:   secondary_bus: 0x00
+71680:2025-03-06T21:16:16.927600+00:00 server-2 kernel: {5}[Hardware Error]:   vendor_id: 0x1002, device_id: 0x744c
+71681:2025-03-06T21:16:16.927600+00:00 server-2 kernel: {5}[Hardware Error]:   class_code: 030000
+71682:2025-03-06T21:16:16.927601+00:00 server-2 kernel: {5}[Hardware Error]:   bridge: secondary_status: 0x0000, control: 0x0000
+71699:2025-03-06T21:19:52.343023+00:00 server-2 sssd_be[7416]: Backend is offline
+71704:2025-03-06T21:24:10.390807+00:00 server-2 sssd_be[7416]: Backend is offline
+71707:2025-03-06T21:25:51.024913+00:00 server-2 sssd_be[7416]: Backend is offline
+71709:2025-03-06T21:28:25.883052+00:00 server-2 sssd_be[7416]: Backend is offline
+71733:2025-03-06T22:06:15.579040+00:00 server-2 sssd_be[7416]: Backend is offline
+71773:2025-03-06T22:14:18.952932+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap107" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap107']' returned non-zero exit status 1.
+71948:2025-03-06T22:37:56.121060+00:00 server-2 sssd_be[7416]: Backend is offline
+72013:2025-03-06T23:05:41.855579+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap122" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap122']' returned non-zero exit status 1.
+72258:2025-03-06T23:10:38.182323+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap121" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap121']' returned non-zero exit status 1.
+72461:2025-03-06T23:21:18.081515+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap119" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap119']' returned non-zero exit status 1.
+72639:2025-03-07T00:21:07.201285+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap115" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap115']' returned non-zero exit status 1.
+72772:2025-03-07T01:12:35.532962+00:00 server-2 sssd_be[7416]: Backend is offline
+72788:2025-03-07T01:49:42.809943+00:00 server-2 sssd_be[7416]: Backend is offline
+72831:2025-03-07T03:10:25.004882+00:00 server-2 sssd_be[7416]: Backend is offline
+72861:2025-03-07T04:13:52.128979+00:00 server-2 sssd_be[7416]: Backend is offline
+72910:2025-03-07T04:34:45.171397+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap123" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap123']' returned non-zero exit status 1.
+73064:2025-03-07T04:39:44.809571+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap124" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap124']' returned non-zero exit status 1.
+73070:2025-03-07T04:39:44.865801+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap127" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap127']' returned non-zero exit status 1.
+73091:2025-03-07T04:39:47.223255+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap126" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap126']' returned non-zero exit status 1.
+73100:2025-03-07T04:39:47.936348+00:00 server-2 networkd-dispatcher[1834]: ERROR:Failed to get interface "macvtap125" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap125']' returned non-zero exit status 1.
+73170:2025-03-07T09:14:31.766468+00:00 server-2 (udev-worker)[1291]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+73194:2025-03-07T09:14:31.766485+00:00 server-2 (udev-worker)[1294]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+73200:2025-03-07T09:14:31.766491+00:00 server-2 (udev-worker)[1294]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+73217:2025-03-07T09:14:31.766504+00:00 server-2 (udev-worker)[1292]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+73219:2025-03-07T09:14:31.766514+00:00 server-2 (udev-worker)[1384]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+73220:2025-03-07T09:14:31.766517+00:00 server-2 (udev-worker)[1377]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+73222:2025-03-07T09:14:31.766524+00:00 server-2 (udev-worker)[1371]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+73601:2025-03-07T09:14:31.767032+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+73619:2025-03-07T09:14:31.767041+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+73815:2025-03-07T09:14:31.767560+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+73825:2025-03-07T09:14:31.767594+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+73834:2025-03-07T09:14:31.767647+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+74753:2025-03-07T09:14:31.770093+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+74755:2025-03-07T09:14:31.770102+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+74757:2025-03-07T09:14:31.770147+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+74759:2025-03-07T09:14:31.770151+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+74761:2025-03-07T09:14:31.770152+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+74763:2025-03-07T09:14:31.770154+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+74853:2025-03-07T09:14:31.770430+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+74855:2025-03-07T09:14:31.770437+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+74857:2025-03-07T09:14:31.770495+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+74859:2025-03-07T09:14:31.770496+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+75107:2025-03-07T09:14:31.771320+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+75216:2025-03-07T09:14:31.771728+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+75356:2025-03-07T09:14:31.772181+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+75357:2025-03-07T09:14:31.772181+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+75776:2025-03-07T09:14:31.816869+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+75777:2025-03-07T09:14:31.817030+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+75779:2025-03-07T09:14:31.818439+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+75780:2025-03-07T09:14:31.818561+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+75781:2025-03-07T09:14:31.819695+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+75782:2025-03-07T09:14:31.820243+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+75797:2025-03-07T09:14:31.831688+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+75798:2025-03-07T09:14:31.831813+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+75806:2025-03-07T09:14:31.846633+00:00 server-2 snapd[1838]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+75816:2025-03-07T09:14:32.014709+00:00 server-2 snapd[1838]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+75865:2025-03-07T09:16:31.942901+00:00 server-2 systemd-networkd-wait-online[1879]: Timeout occurred while waiting for network connectivity.
+75867:2025-03-07T09:16:31.943607+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+75868:2025-03-07T09:16:31.943745+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+75870:2025-03-07T09:16:31.947224+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+76098:2025-03-07T09:17:02.192759+00:00 server-2 systemd-networkd-wait-online[2147]: Timeout occurred while waiting for network connectivity.
+76099:2025-03-07T09:17:02.201769+00:00 server-2 apt-helper[2130]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+76188:2025-03-07T09:19:34.451151+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+76190:2025-03-07T09:19:34.514591+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+76195:2025-03-07T09:24:04.692836+00:00 server-2 systemd-networkd-wait-online[4636]: Timeout occurred while waiting for network connectivity.
+76196:2025-03-07T09:24:04.701322+00:00 server-2 apt-helper[4633]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+76212:2025-03-07T09:25:23.716103+00:00 server-2 python3[4681]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+76472:2025-03-07T09:56:36.199723+00:00 server-2 fwupd[6913]: 09:56:36.199 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+76473:2025-03-07T09:56:37.829372+00:00 server-2 fwupd[6913]: 09:56:37.829 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+76474:2025-03-07T09:56:37.830007+00:00 server-2 fwupd[6913]: 09:56:37.829 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c9:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+76545:2025-03-07T09:57:01.958863+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap0" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap0']' returned non-zero exit status 1.
+76815:2025-03-07T10:28:01.702463+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap3" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap3']' returned non-zero exit status 1.
+77033:2025-03-07T11:59:36.715331+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap5" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap5']' returned non-zero exit status 1.
+77292:2025-03-07T12:14:01.030159+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap4" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap4']' returned non-zero exit status 1.
+77591:2025-03-07T13:45:49.452766+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap6" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap6']' returned non-zero exit status 1.
+77861:2025-03-07T14:18:46.698611+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap8" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap8']' returned non-zero exit status 1.
+78115:2025-03-07T14:49:43.577533+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap7" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap7']' returned non-zero exit status 1.
+78320:2025-03-07T14:55:55.011928+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap10" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap10']' returned non-zero exit status 1.
+78584:2025-03-07T15:13:52.576537+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap1" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap1']' returned non-zero exit status 1.
+78765:2025-03-07T15:49:09.117227+00:00 server-2 sssd_be[1907]: Backend is offline
+78826:2025-03-07T16:13:05.403366+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap2" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap2']' returned non-zero exit status 1.
+79070:2025-03-07T16:19:09.497017+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap9" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap9']' returned non-zero exit status 1.
+79273:2025-03-07T16:23:52.617310+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap12" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap12']' returned non-zero exit status 1.
+79491:2025-03-07T16:28:25.456733+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap15" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap15']' returned non-zero exit status 1.
+79764:2025-03-07T16:37:46.150018+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap16" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap16']' returned non-zero exit status 1.
+79992:2025-03-07T16:41:52.139208+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap11" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap11']' returned non-zero exit status 1.
+80162:2025-03-07T17:06:48.208449+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap17" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap17']' returned non-zero exit status 1.
+80368:2025-03-07T17:08:34.100141+00:00 server-2 sssd_be[1907]: Backend is offline
+80389:2025-03-07T17:42:11.479793+00:00 server-2 sssd_be[1907]: Backend is offline
+80396:2025-03-07T17:59:00.690249+00:00 server-2 sssd_be[1907]: Backend is offline
+80410:2025-03-07T18:18:02.989284+00:00 server-2 sssd_be[1907]: Backend is offline
+80453:2025-03-07T18:25:24.432901+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap18" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap18']' returned non-zero exit status 1.
+80582:2025-03-07T18:26:07.881361+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap13" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap13']' returned non-zero exit status 1.
+80829:2025-03-07T18:42:58.516377+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap21" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap21']' returned non-zero exit status 1.
+81084:2025-03-07T18:46:23.456654+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap20" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap20']' returned non-zero exit status 1.
+81255:2025-03-07T18:48:15.895114+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap22" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap22']' returned non-zero exit status 1.
+81507:2025-03-07T19:04:30.315213+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap23" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap23']' returned non-zero exit status 1.
+81708:2025-03-07T19:09:58.614330+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap14" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap14']' returned non-zero exit status 1.
+81911:2025-03-07T19:12:52.452037+00:00 server-2 networkd-dispatcher[1830]: ERROR:Failed to get interface "macvtap26" status: Command '['/usr/bin/networkctl', 'status', '--no-pager', '--no-legend', '--lines=0', '--', 'macvtap26']' returned non-zero exit status 1.
+82204:2025-03-07T19:32:32.688817+00:00 server-2 (udev-worker)[1297]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+82240:2025-03-07T19:32:32.688837+00:00 server-2 (udev-worker)[1362]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+82243:2025-03-07T19:32:32.688862+00:00 server-2 (udev-worker)[1355]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+82245:2025-03-07T19:32:32.688872+00:00 server-2 (udev-worker)[1395]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+82246:2025-03-07T19:32:32.688877+00:00 server-2 (udev-worker)[1361]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+82248:2025-03-07T19:32:32.688890+00:00 server-2 (udev-worker)[1363]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+82310:2025-03-07T19:32:32.688983+00:00 server-2 (udev-worker)[1421]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+82718:2025-03-07T19:32:32.689769+00:00 server-2 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+82724:2025-03-07T19:32:32.689778+00:00 server-2 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+82813:2025-03-07T19:32:32.690003+00:00 server-2 kernel: ACPI BIOS Error (bug): Failure creating named object [\CSMI], AE_ALREADY_EXISTS (20230628/dsfield-637)
+82818:2025-03-07T19:32:32.690009+00:00 server-2 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+83226:2025-03-07T19:32:32.690929+00:00 server-2 systemd[1]: Starting grub-initrd-fallback.service - GRUB failed boot detection...
+83717:2025-03-07T19:32:32.692077+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+83719:2025-03-07T19:32:32.692078+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+83721:2025-03-07T19:32:32.692086+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+83723:2025-03-07T19:32:32.692087+00:00 server-2 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+83725:2025-03-07T19:32:32.692095+00:00 server-2 kernel: pci 0000:80:03.2: bridge window [io  size 0x1000]: failed to assign
+83727:2025-03-07T19:32:32.692110+00:00 server-2 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+83817:2025-03-07T19:32:32.692406+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+83819:2025-03-07T19:32:32.692407+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+83821:2025-03-07T19:32:32.692408+00:00 server-2 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+83823:2025-03-07T19:32:32.692423+00:00 server-2 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+84063:2025-03-07T19:32:32.693218+00:00 server-2 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+84173:2025-03-07T19:32:32.693631+00:00 server-2 kernel: RAS: Correctable Errors collector initialized.
+84284:2025-03-07T19:32:32.693973+00:00 server-2 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+84285:2025-03-07T19:32:32.693974+00:00 server-2 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+84711:2025-03-07T19:32:32.695598+00:00 server-2 dbus-daemon[1833]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.network1.service': Unit dbus-org.freedesktop.network1.service not found.
+84731:2025-03-07T19:32:32.751482+00:00 server-2 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+84732:2025-03-07T19:32:32.751609+00:00 server-2 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+84738:2025-03-07T19:32:32.754693+00:00 server-2 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+84739:2025-03-07T19:32:32.754836+00:00 server-2 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+84740:2025-03-07T19:32:32.756111+00:00 server-2 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+84741:2025-03-07T19:32:32.756713+00:00 server-2 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+84752:2025-03-07T19:32:32.766692+00:00 server-2 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+84753:2025-03-07T19:32:32.766834+00:00 server-2 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+84770:2025-03-07T19:32:33.586437+00:00 server-2 snapd[1843]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+84780:2025-03-07T19:32:33.727741+00:00 server-2 snapd[1843]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+84833:2025-03-07T19:34:32.692370+00:00 server-2 systemd-networkd-wait-online[1826]: Timeout occurred while waiting for network connectivity.
+84835:2025-03-07T19:34:32.693105+00:00 server-2 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+84836:2025-03-07T19:34:32.693244+00:00 server-2 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+84838:2025-03-07T19:34:32.695358+00:00 server-2 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+85028:2025-03-07T19:34:54.767376+00:00 server-2 user3: user3 [2387]: 2025-03-07 19:34:54 sudo dmesg -T | grep -i Error [0]
+85168:2025-03-07T19:37:35.221604+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+85170:2025-03-07T19:37:35.282714+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+85180:2025-03-07T19:49:11.746168+00:00 server-2 sssd_be[1905]: Backend is offline
+85197:2025-03-07T20:05:36.129645+00:00 server-2 fwupd[3817]: 20:05:36.129 FuPluginUefiCapsule  skipping device that failed coldplug: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+85198:2025-03-07T20:05:37.783913+00:00 server-2 fwupd[3817]: 20:05:37.783 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c6:00.4/usb1/1-2/1-2.1/1-2.1:1.0/host32/target32:0:0/32:0:0:0/block/sr0: failed to open /dev/sr0: No medium found
+85199:2025-03-07T20:05:37.784538+00:00 server-2 fwupd[3817]: 20:05:37.784 FuEngine             failed to add device /sys/devices/pci0000:c0/0000:c0:07.1/0000:c6:00.4/usb1/1-2/1-2.2/1-2.2:1.0/host33/target33:0:0/33:0:0:0/block/sda: failed to open /dev/sda: No medium found
+85205:2025-03-07T20:05:56.492699+00:00 server-2 sssd_be[1905]: Backend is offline
+85220:2025-03-07T20:40:04.305992+00:00 server-2 sssd_be[1905]: Backend is offline
+85225:2025-03-07T20:42:30.744278+00:00 server-2 sssd_be[1905]: Backend is offline
+85228:2025-03-07T20:46:31.384855+00:00 server-2 sssd_be[1905]: Backend is offline
+85266:2025-03-07T22:07:16.306922+00:00 server-2 sssd_be[1905]: Backend is offline
+85268:2025-03-07T22:09:21.367958+00:00 server-2 sssd_be[1905]: Backend is offline
+85289:2025-03-07T22:43:16.563092+00:00 server-2 sssd_be[1905]: Backend is offline
+85292:2025-03-07T22:45:40.438998+00:00 server-2 sssd_be[1905]: Backend is offline
+85313:2025-03-07T23:19:05.120128+00:00 server-2 sssd_be[1905]: Backend is offline
+85318:2025-03-07T23:22:13.383237+00:00 server-2 sssd_be[1905]: Backend is offline
+85321:2025-03-07T23:25:02.006806+00:00 server-2 sssd_be[1905]: Backend is offline
+85323:2025-03-07T23:27:27.113634+00:00 server-2 sssd_be[1905]: Backend is offline
+85328:2025-03-07T23:32:36.912584+00:00 server-2 sssd_be[1905]: Backend is offline
+85330:2025-03-07T23:34:06.148709+00:00 server-2 sssd_be[1905]: Backend is offline
+85340:2025-03-07T23:51:39.733394+00:00 server-2 sssd_be[1905]: Backend is offline
+85342:2025-03-07T23:53:09.226563+00:00 server-2 sssd_be[1905]: Backend is offline
+85362:2025-03-08T00:09:32.649364+00:00 server-2 sssd_be[1905]: Backend is offline
+85394:2025-03-08T01:03:16.517956+00:00 server-2 sssd_be[1905]: Backend is offline
+85413:2025-03-08T01:37:13.127195+00:00 server-2 sssd_be[1905]: Backend is offline
+85433:2025-03-08T02:14:32.980844+00:00 server-2 sssd_be[1905]: Backend is offline
+85486:2025-03-08T04:07:03.134976+00:00 server-2 sssd_be[1905]: Backend is offline
+85504:2025-03-08T04:33:37.942742+00:00 server-2 systemd-networkd-wait-online[10625]: Timeout occurred while waiting for network connectivity.
+85505:2025-03-08T04:33:37.954110+00:00 server-2 apt-helper[10623]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+85594:2025-03-08T06:40:20.192435+00:00 server-2 systemd-networkd-wait-online[12886]: Timeout occurred while waiting for network connectivity.
+85595:2025-03-08T06:40:20.200698+00:00 server-2 apt-helper[12884]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+85674:2025-03-08T08:48:20.192675+00:00 server-2 systemd-networkd-wait-online[19612]: Timeout occurred while waiting for network connectivity.
+85675:2025-03-08T08:48:20.203842+00:00 server-2 apt-helper[19610]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+85702:2025-03-08T09:38:41.122174+00:00 server-2 sssd_be[1905]: Backend is offline
+85707:2025-03-08T09:43:29.367710+00:00 server-2 sssd_be[1905]: Backend is offline
+85722:2025-03-08T10:15:06.125660+00:00 server-2 sssd_be[1905]: Backend is offline
+85732:2025-03-08T10:31:49.480323+00:00 server-2 sssd_be[1905]: Backend is offline
+85742:2025-03-08T10:48:35.446588+00:00 server-2 sssd_be[1905]: Backend is offline
+85752:2025-03-08T11:08:24.051509+00:00 server-2 sssd_be[1905]: Backend is offline
+85766:2025-03-08T11:26:29.859982+00:00 server-2 sssd_be[1905]: Backend is offline
+85796:2025-03-08T12:31:53.132621+00:00 server-2 sssd_be[1905]: Backend is offline
+85824:2025-03-08T13:20:25.123848+00:00 server-2 sssd_be[1905]: Backend is offline
+85834:2025-03-08T13:39:00.051845+00:00 server-2 sssd_be[1905]: Backend is offline
+85857:2025-03-08T14:28:50.129790+00:00 server-2 sssd_be[1905]: Backend is offline
+85867:2025-03-08T14:45:36.992526+00:00 server-2 sssd_be[1905]: Backend is offline
+85872:2025-03-08T14:47:30.701893+00:00 server-2 sssd_be[1905]: Backend is offline
+85877:2025-03-08T14:51:48.564927+00:00 server-2 sssd_be[1905]: Backend is offline
+85902:2025-03-08T15:26:48.571984+00:00 server-2 sssd_be[1905]: Backend is offline
+85940:2025-03-08T16:49:43.118765+00:00 server-2 sssd_be[1905]: Backend is offline
+85945:2025-03-08T16:52:48.532076+00:00 server-2 sssd_be[1905]: Backend is offline
+85951:2025-03-08T17:02:31.493093+00:00 server-2 sssd_be[1905]: Backend is offline
+85962:2025-03-08T17:19:44.843301+00:00 server-2 sssd_be[1905]: Backend is offline
+85979:2025-03-08T17:53:34.117715+00:00 server-2 sssd_be[1905]: Backend is offline
+86010:2025-03-08T18:59:44.722213+00:00 server-2 sssd_be[1905]: Backend is offline
+86032:2025-03-08T19:38:07.701558+00:00 server-2 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+86034:2025-03-08T19:38:07.755124+00:00 server-2 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+86049:2025-03-08T20:02:02.134545+00:00 server-2 sssd_be[1905]: Backend is offline
+86060:2025-03-08T20:21:05.114721+00:00 server-2 sssd_be[1905]: Backend is offline
+86063:2025-03-08T20:26:46.380061+00:00 server-2 sssd_be[1905]: Backend is offline
+86069:2025-03-08T20:35:03.332218+00:00 server-2 sssd_be[1905]: Backend is offline
+86089:2025-03-08T21:11:15.638601+00:00 server-2 sssd_be[1905]: Backend is offline
+86108:2025-03-08T21:48:58.325004+00:00 server-2 sssd_be[1905]: Backend is offline
+86113:2025-03-08T21:50:46.649251+00:00 server-2 sssd_be[1905]: Backend is offline
+86120:2025-03-08T22:09:33.556021+00:00 server-2 sssd_be[1905]: Backend is offline
+86131:2025-03-08T22:28:48.212903+00:00 server-2 sssd_be[1905]: Backend is offline
+86151:2025-03-08T23:03:58.745993+00:00 server-2 sssd_be[1905]: Backend is offline
+86154:2025-03-08T23:07:59.732443+00:00 server-2 sssd_be[1905]: Backend is offline
+86159:2025-03-08T23:14:02.840277+00:00 server-2 sssd_be[1905]: Backend is offline
+86175:2025-03-08T23:49:55.026116+00:00 server-2 sssd_be[1905]: Backend is offline
+86180:2025-03-08T23:52:22.144986+00:00 server-2 sssd_be[1905]: Backend is offline

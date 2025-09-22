@@ -1,0 +1,2 @@
+103396:Jan 16 18:54:46 server-3 systemd[1]: mdmonitor.service: Failed with result 'exit-code'.
+103723:Jan 16 18:55:46 server-3 systemd[1]: NetworkManager-wait-online.service: Failed with result 'exit-code'.

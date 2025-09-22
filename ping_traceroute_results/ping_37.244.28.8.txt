@@ -1,0 +1,5 @@
+PING 37.244.28.8 (37.244.28.8) 56(84) bytes of data.
+
+--- 37.244.28.8 ping statistics ---
+100 packets transmitted, 0 received, 100% packet loss, time 101411ms
+

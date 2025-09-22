@@ -1,0 +1,10 @@
+=== server-3 : summary ===
+Файл: server-3.txt
+Рядків: 104067
+Діапазон часу: Jan  →  Jan
+
+Проблемні рядки (к-ть): 40389
+Топ-20 згадуваних .service збережено у server-3_top_services.txt
+Fail-и systemd (рядки): 2
+Start/Stop/Restart (рядки): 0
+CRON-команди зведені у server-3_cron_commands.txt

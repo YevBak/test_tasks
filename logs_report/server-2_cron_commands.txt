@@ -1,0 +1,7 @@
+    833 (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+    140 (cd / && run-parts --report /etc/cron.hourly)
+      7 (command -v debian-sa1 > /dev/null && debian-sa1 60 2)
+      6 (/usr/local/bin/afterboot_check.sh 2>&1 >/dev/null)
+      4 (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+      2 (test -x /usr/sbin/anacron || { cd / && run-parts --report /etc/cron.daily; })
+      1 (test -e /run/systemd/system || SERVICE_MODE=1 /usr/lib/x86_64-linux-gnu/e2fsprogs/e2scrub_all_cron)

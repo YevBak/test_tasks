@@ -1,0 +1,74 @@
+49:2024-11-03T01:36:29.101482+00:00 server-1 sssd_be[1810]: Backend is offline
+150:2024-11-03T04:37:53.053422+00:00 server-1 systemd-networkd-wait-online[80554]: Timeout occurred while waiting for network connectivity.
+151:2024-11-03T04:37:53.064686+00:00 server-1 apt-helper[80552]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+237:2024-11-03T06:57:53.053475+00:00 server-1 systemd-networkd-wait-online[83315]: Timeout occurred while waiting for network connectivity.
+238:2024-11-03T06:57:53.064464+00:00 server-1 apt-helper[83313]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+390:2024-11-03T11:38:39.803135+00:00 server-1 systemd-networkd-wait-online[87860]: Timeout occurred while waiting for network connectivity.
+391:2024-11-03T11:38:39.811410+00:00 server-1 apt-helper[87858]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+471:2024-11-03T14:04:09.567745+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+473:2024-11-03T14:04:09.622381+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+619:2024-11-03T18:41:18.097565+00:00 server-1 sssd_be[1810]: Backend is offline
+693:2024-11-03T21:14:22.085717+00:00 server-1 sssd_be[1810]: Backend is offline
+735:2024-11-03T22:21:32.011224+00:00 server-1 sssd_be[1810]: Backend is offline
+760:2024-11-03T23:06:39.803448+00:00 server-1 systemd-networkd-wait-online[98812]: Timeout occurred while waiting for network connectivity.
+761:2024-11-03T23:06:39.814897+00:00 server-1 apt-helper[98810]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+767:2024-11-03T23:10:30.097535+00:00 server-1 sssd_be[1810]: Backend is offline
+787:2024-11-03T23:58:33.087830+00:00 server-1 sssd_be[1810]: Backend is offline
+1014:2024-11-04T06:58:39.803505+00:00 server-1 systemd-networkd-wait-online[106350]: Timeout occurred while waiting for network connectivity.
+1015:2024-11-04T06:58:39.814951+00:00 server-1 apt-helper[106348]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1195:2024-11-04T12:51:39.803559+00:00 server-1 systemd-networkd-wait-online[111990]: Timeout occurred while waiting for network connectivity.
+1196:2024-11-04T12:51:39.815429+00:00 server-1 apt-helper[111988]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1206:2024-11-04T12:51:40.864901+00:00 server-1 python3[112044]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+1249:2024-11-04T14:04:47.087691+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+1251:2024-11-04T14:04:47.141857+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+1539:2024-11-04T23:56:30.553520+00:00 server-1 systemd-networkd-wait-online[122975]: Timeout occurred while waiting for network connectivity.
+1540:2024-11-04T23:56:30.565068+00:00 server-1 apt-helper[122972]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1732:2024-11-05T06:09:39.553495+00:00 server-1 systemd-networkd-wait-online[128913]: Timeout occurred while waiting for network connectivity.
+1733:2024-11-05T06:09:39.564887+00:00 server-1 apt-helper[128910]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+1970:2024-11-05T14:05:09.566656+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+1972:2024-11-05T14:05:09.620838+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.
+2037:2024-11-05T16:15:53.053526+00:00 server-1 systemd-networkd-wait-online[138491]: Timeout occurred while waiting for network connectivity.
+2038:2024-11-05T16:15:53.064691+00:00 server-1 apt-helper[138489]: E: Sub-process /lib/systemd/systemd-networkd-wait-online returned an error code (1)
+2041:2024-11-05T16:15:53.532650+00:00 server-1 python3[138545]: /usr/lib/python3/dist-packages/uaclient/apt_news.py:207: Warning: W:Download is performed unsandboxed as root as file '/run/ubuntu-advantage/aptnews.json' couldn't be accessed by user '_apt'. - pkgAcquire::Run (13: Permission denied)
+2148:2024-11-05T16:54:35.299731+00:00 server-1 systemd[1]: Stopped update-notifier-download.timer - Download data for packages that failed at package install time.
+2213:2024-11-05T16:56:57.861566+00:00 server-1 (udev-worker)[1183]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+2221:2024-11-05T16:56:57.861570+00:00 server-1 (udev-worker)[1181]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+2271:2024-11-05T16:56:57.861601+00:00 server-1 (udev-worker)[1180]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+2278:2024-11-05T16:56:57.861607+00:00 server-1 (udev-worker)[1178]: nvme1n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme1n1' failed with exit code 1.
+2279:2024-11-05T16:56:57.861611+00:00 server-1 (udev-worker)[1198]: nvme0n1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+2287:2024-11-05T16:56:57.861615+00:00 server-1 (udev-worker)[1314]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+2291:2024-11-05T16:56:57.861629+00:00 server-1 (udev-worker)[1317]: nvme0n1p1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+2292:2024-11-05T16:56:57.861633+00:00 server-1 (udev-worker)[1325]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+2295:2024-11-05T16:56:57.861643+00:00 server-1 (udev-worker)[1320]: nvme0n1p2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+2717:2024-11-05T16:56:57.862173+00:00 server-1 systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2719:2024-11-05T16:56:57.862180+00:00 server-1 systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2856:2024-11-05T16:56:57.862360+00:00 server-1 kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+3810:2024-11-05T16:56:57.864774+00:00 server-1 kernel: pci 0000:80:03.3: bridge window [io  size 0x1000]: failed to assign
+3815:2024-11-05T16:56:57.864791+00:00 server-1 kernel: pci 0000:80:01.1: bridge window [io  size 0x1000]: failed to assign
+3853:2024-11-05T16:56:57.862422+00:00 server-1 systemd[1]: Finished grub-initrd-fallback.service - GRUB failed boot detection.
+3873:2024-11-05T16:56:57.864622+00:00 server-1 dbus-daemon[1722]: [system] Activation via systemd failed for unit 'dbus-org.freedesktop.network1.service': Unit dbus-org.freedesktop.network1.service not found.
+3930:2024-11-05T16:56:57.865130+00:00 server-1 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+3932:2024-11-05T16:56:57.865132+00:00 server-1 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+3934:2024-11-05T16:56:57.865145+00:00 server-1 kernel: pci 0000:40:03.3: bridge window [io  size 0x1000]: failed to assign
+3936:2024-11-05T16:56:57.865147+00:00 server-1 kernel: pci 0000:40:03.2: bridge window [io  size 0x1000]: failed to assign
+4183:2024-11-05T16:56:57.865884+00:00 server-1 kernel: ERST: Error Record Serialization Table (ERST) support is initialized.
+4287:2024-11-05T16:56:57.866222+00:00 server-1 kernel: RAS: Correctable Errors collector initialized.
+4404:2024-11-05T16:56:57.866612+00:00 server-1 kernel: nvme nvme0: Shutdown timeout set to 8 seconds
+4413:2024-11-05T16:56:57.866652+00:00 server-1 kernel: nvme nvme1: Shutdown timeout set to 8 seconds
+4833:2024-11-05T16:56:57.931415+00:00 server-1 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+4834:2024-11-05T16:56:57.931552+00:00 server-1 systemd[1]: Failed to listen on sssd-nss.socket - SSSD NSS Service responder socket.
+4845:2024-11-05T16:56:57.940925+00:00 server-1 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+4846:2024-11-05T16:56:57.941063+00:00 server-1 systemd[1]: Failed to listen on sssd-pam-priv.socket - SSSD PAM Service responder private socket.
+4851:2024-11-05T16:56:57.942369+00:00 server-1 systemd[1]: Dependency failed for sssd-pam.socket - SSSD PAM Service responder socket.
+4852:2024-11-05T16:56:57.942999+00:00 server-1 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+4858:2024-11-05T16:56:57.944990+00:00 server-1 systemd[1]: sssd-pam.socket: Failed with result 'exit-code'.
+4861:2024-11-05T16:56:57.946035+00:00 server-1 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+4862:2024-11-05T16:56:57.946158+00:00 server-1 systemd[1]: Failed to listen on sssd-ssh.socket - SSSD SSH Service responder socket.
+4886:2024-11-05T16:56:59.291457+00:00 server-1 snapd[1732]: daemon.go:340: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+4910:2024-11-05T16:56:59.438464+00:00 server-1 snapd[1732]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: no such host
+4939:2024-11-05T16:58:57.689087+00:00 server-1 systemd-networkd-wait-online[1715]: Timeout occurred while waiting for network connectivity.
+4941:2024-11-05T16:58:57.690746+00:00 server-1 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+4942:2024-11-05T16:58:57.690882+00:00 server-1 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
+4944:2024-11-05T16:58:57.692488+00:00 server-1 systemd[1]: Started update-notifier-download.timer - Download data for packages that failed at package install time.
+5261:2024-11-05T17:01:55.451778+00:00 server-1 systemd[1]: Starting update-notifier-download.service - Download data for packages that failed at package install time...
+5263:2024-11-05T17:01:55.511168+00:00 server-1 systemd[1]: Finished update-notifier-download.service - Download data for packages that failed at package install time.

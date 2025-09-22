@@ -1,0 +1,10 @@
+=== server-2 : summary ===
+Файл: server-2.txt
+Рядків: 86193
+Діапазон часу: 2025-03-02T00:00:08.764796+00:00  →  2025-03-09T00:00:07.796566+00:00
+
+Проблемні рядки (к-ть): 1156
+Топ-20 згадуваних .service збережено у server-2_top_services.txt
+Fail-и systemd (рядки): 42
+Start/Stop/Restart (рядки): 5199
+CRON-команди зведені у server-2_cron_commands.txt

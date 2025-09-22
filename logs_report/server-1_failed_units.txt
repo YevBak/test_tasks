@@ -1,0 +1,7 @@
+4833:2024-11-05T16:56:57.931415+00:00 server-1 systemd[1]: sssd-nss.socket: Failed with result 'exit-code'.
+4845:2024-11-05T16:56:57.940925+00:00 server-1 systemd[1]: sssd-pam-priv.socket: Failed with result 'exit-code'.
+4852:2024-11-05T16:56:57.942999+00:00 server-1 systemd[1]: sssd-pam.socket: Job sssd-pam.socket/start failed with result 'dependency'.
+4858:2024-11-05T16:56:57.944990+00:00 server-1 systemd[1]: sssd-pam.socket: Failed with result 'exit-code'.
+4861:2024-11-05T16:56:57.946035+00:00 server-1 systemd[1]: sssd-ssh.socket: Failed with result 'exit-code'.
+4941:2024-11-05T16:58:57.690746+00:00 server-1 systemd[1]: systemd-networkd-wait-online.service: Failed with result 'exit-code'.
+4942:2024-11-05T16:58:57.690882+00:00 server-1 systemd[1]: Failed to start systemd-networkd-wait-online.service - Wait for Network to be Configured.
