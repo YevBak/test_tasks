@@ -5,33 +5,6 @@ Includes log analysis, network packet (pcap) analysis with Wireshark/TShark, and
 
 ---
 
-## 📂 Repository Structure
-test_tasks/
-│
-├── logs_report/ # Results of log analysis from server systems
-│ ├── server-1_summary.txt
-│ ├── server-2_summary.txt
-│ ├── server-3_summary.txt
-│ └── ... other extracted reports
-│
-├── mtr_results/ # Network diagnostics results using MTR
-│ ├── mtr_185.60.112.158.txt
-│ ├── mtr_37.244.28.8.txt
-│ └── ...
-│
-├── ping_traceroute_results/ # Alternative network diagnostics via ping + traceroute
-│ ├── traceroute_xxx.txt
-│ └── ping_xxx.txt
-│
-├── tasks/ # Tasks and related input files
-│ ├── server-1.txt
-│ ├── server-2.txt
-│ ├── server-3.txt
-│ ├── test.pcap # pcap file for Wireshark/TShark analysis
-│ └── Тестові завдання для NOC-інженерів.docx
-│
-└── README.md # Project description
----
 ## 📝 Tasks
 
 1. **Log Analysis**  
